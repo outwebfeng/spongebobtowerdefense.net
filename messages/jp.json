@@ -1,488 +1,506 @@
 {
   "Common": {
-    "loading": "読み込み中..."
+    "loading": "loading..."
   },
   "Metadata": {
     "home": {
-      "title": "呪術インフィニットコード、ヒント、ゲームプレイガイド",
-      "description": "Robloxで呪術インフィニットの究極ガイドを探索してください！最新のコード、ゲームプレイのヒント、ティアリストを見つけよう。今すぐプレイして、呪術を簡単にマスターしましょう！",
+      "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+      "description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
       "keywords": ""
     },
     "about": {
-      "title": "呪術インフィニットについて - キャラクター分析とストーリーバックグラウンド",
-      "description": "T.O.P（チェ・スンヒョン）が描く呪術インフィニットの背景を発見してください。このユニークなキャラクターの役割、影響、およびディストピアドラマとマーベルの影響の融合について学びましょう。",
+      "title": "About Spongebob Tower Defense - Character Analysis and Story Background",
+      "description": "Discover the story behind Spongebob Tower Defense, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
       "keywords": ""
     },
     "download": {
-      "title": "呪術インフィニットヒントをダウンロード - 究極のサバイバルゲームを手に入れよう",
-      "description": "今すぐ呪術インフィニットヒントをダウンロードし、スリリングなサバイバルチャレンジを体験してください。ゲームプレイ動画を見て、世界中の数百万のプレイヤーに参加しよう！",
+      "title": "Download Spongebob Tower Defense Tips - Get the Ultimate Survival Game",
+      "description": "Download Spongebob Tower Defense Tips now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
       "keywords": ""
     },
     "codes": {
-      "title": "呪術インフィニットコード - 最新の動作コードと報酬",
-      "description": "呪術インフィニットの最新の動作コードをすべて見つけましょう！これらのコードを引き換えて、無料の報酬、ブースト、およびゲーム内アイテムを手に入れましょう。定期的に新しいコードを更新します！",
+      "title": "Spongebob Tower Defense Codes - Latest Working Codes and Rewards",
+      "description": "Find all the latest working codes for Spongebob Tower Defense! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
       "keywords": ""
     }
   },
   "Navigation": {
-    "title": "呪術インフィニットコード、ヒント、ゲームプレイガイド",
-    "logoAlt": "呪術インフィニットロゴ",
-    "logoTitle": "呪術インフィニット",
-    "playNow": "ホーム",
-    "toggleMenu": "メニューを切り替え",
-    "about": "概要",
-    "download": "ダウンロード",
-    "codes": "コード"
+    "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+    "logoAlt": "Spongebob Tower Defense Logo",
+    "logoTitle": "Spongebob Tower Defense",
+    "playNow": "Home",
+    "toggleMenu": "Toggle Menu",
+    "about": "About",
+    "download": "Download",
+    "codes": "Codes"
   },
   "NotFound": {
-    "title": "404 見つかりません",
-    "goHome": "ホームに戻る"
+    "title": "404 Not Found",
+    "goHome": "go home"
   },
   "Home": {
     "hero": {
-      "title": "呪術インフィニット",
-      "description": "Robloxで呪術インフィニットの究極ガイドを探索してください！最新のコード、ゲームプレイのヒント、ティアリストを見つけよう。今すぐプレイして、呪術を簡単にマスターしましょう！",
-      "playNow": "今すぐプレイ",
-      "robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
+      "title": "Spongebob Tower Defense",
+      "description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
+      "playNow": "Play Now",
+      "robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
     },
     "videoSection": {
-      "title": "関連動画"
+      "title": "Related Videos"
     },
     "introduction": {
-      "title": "呪術インフィニットの遊び方",
-      "description": "基本をマスターしてプロになろう！",
+      "title": "How to Play Spongebob Tower Defense",
+      "description": "Master the basics and become a pro!",
       "steps": [
         {
-          "title": "呪術インフィニットの始め方",
-          "description": "Robloxの公式ゲームページにアクセスしてゲームを開始します。キャラクターをカスタマイズし、独自の呪術を選択して特別な能力を獲得しましょう。操作とインターフェイスを理解してゲームをスムーズに進める準備を整えましょう。最新のコードを引き換えて、スタートダッシュを図るのを忘れずに！"
+          "title": "Getting Started in Spongebob Tower Defense",
+          "description": "Learn how to start playing Spongebob Tower Defense! Build your team, defend Bikini Bottom, and explore strategies to outsmart waves of enemies in this Roblox adventure."
         },
         {
-          "title": "呪術とゲームメカニクスのマスター",
-          "description": "呪術インフィニットでは、呪術をマスターし、壮大なバトルに挑むことが重要です。クエストやバトルで経験値を獲得し、スキルをアンロックしてアップグレードしましょう。自分のプレイスタイルに最適な呪術の組み合わせを見つけるために試してみましょう。遭遇時には警戒を怠らず、効率的な戦闘戦略のために回避とタイミングを練習してください。"
+          "title": "Mastering Spongebob Tower Defense Strategies",
+          "description": "Uncover pro tips for Spongebob Tower Defense! Choose the best characters, upgrade towers, and optimize placements to dominate waves and protect your base."
         },
         {
-          "title": "進化と報酬の獲得",
-          "description": "クエストをクリアし、強力な敵を倒し、他のプレイヤーと協力してゲームを進めましょう。ゲーム内通貨を稼ぎ、新しい能力、装備、アップグレードをアンロックします。限定イベントやエキサイティングな新コンテンツを提供する更新情報に注目してください。当ウェブサイトで定期的にヒント、ガイド、コードの更新をチェックしてゲームを先取りしましょう！"
+          "title": "Unlock Codes and Power-ups in Spongebob Tower Defense",
+          "description": "Boost your gameplay in Spongebob Tower Defense! Learn how to redeem codes, unlock exclusive items, and enhance your tower defense experience effortlessly."
         }
       ]
     },
     "features": {
-      "title": "ゲームの特徴",
-      "description": "呪術インフィニットが特別である理由を発見",
+      "title": "Game Features",
+      "description": "Discover what makes Spongebob Tower Defense special",
       "list": [
         {
-          "title": "ユニークな呪術",
-          "description": "独自の能力と戦闘スタイルを備えたさまざまな呪術を発見してマスターします。キャラクターをカスタマイズして、戦闘を支配しよう。"
+          "title": "Iconic Spongebob Characters",
+          "description": "Play with Spongebob, Patrick, Squidward, and more! Each character brings unique skills and abilities to defend Bikini Bottom in exciting tower defense battles."
         },
         {
-          "title": "魅力的なクエストとチャレンジ",
-          "description": "ゲームを進めながら、スリリングなクエストに挑戦し、強敵に立ち向かいます。ミッションをクリアして報酬を獲得し、レベルアップして強力なアップグレードをアンロックします。"
+          "title": "Thrilling Tower Defense Gameplay",
+          "description": "Dive into fast-paced tower defense fun! Strategically place towers, defeat waves of enemies, and save Bikini Bottom in this action-packed Roblox game."
         },
         {
-          "title": "マルチプレイヤーバトルとコラボレーション",
-          "description": "友達とチームを組むか、他のプレイヤーと激しいマルチプレイヤーバトルで競い合います。PvP戦闘でスキルをテストしたり、強力なボスに立ち向かうために協力したりしましょう。"
+          "title": "Explore Bikini Bottom and Beyond",
+          "description": "Adventure through iconic Spongebob locations! From the Krusty Krab to Jellyfish Fields, defend each area from invading foes in immersive environments."
         },
         {
-          "title": "無料報酬のコード引き換え",
-          "description": "ゲーム内通貨、ブースト、限定アイテムを含む無料報酬のコードを引き換えて、先取りしましょう。定期的な更新で新しいコードとエキサイティングな特典をお届けします。"
+          "title": "Code Redeeming System for Rewards",
+          "description": "Redeem exclusive codes to unlock powerful items and characters! Stay ahead with free updates and bonuses to enhance your Spongebob Tower Defense journey."
         },
         {
-          "title": "呪術廻戦にインスパイアされた没入型の世界",
-          "description": "人気アニメシリーズ「呪術廻戦」にインスパイアされたリッチなゲームの世界を探索してください。美しいビジュアル、ダイナミックな環境、スリリングなゲームプレイを体験しましょう。"
+          "title": "Customizable Towers and Upgrades",
+          "description": "Enhance your defenses with upgradeable towers! Unlock new features, strengthen characters, and create a perfect strategy to tackle tougher challenges."
         },
         {
-          "title": "継続的な更新と新コンテンツ",
-          "description": "新機能、イベント、改善をもたらす頻繁な更新をお楽しみください。新しいチャレンジとアンロック可能な報酬にご期待ください。"
+          "title": "Regular Updates and Events",
+          "description": "Enjoy fresh content with regular updates and events! New levels, characters, and challenges ensure that the fun in Spongebob Tower Defense never stops."
         }
       ]
     },
     "testimonials": {
-      "title": "プレイヤーレビュー",
-      "description": "呪術インフィニットについてファンが何を語っているのかをご覧ください",
+      "title": "Player Reviews",
+      "description": "See what fans are saying about Spongebob Tower Defense",
       "list": [
         {
-          "content": "呪術インフィニットは呪術廻戦の世界を生き生きと再現しています！呪術技術はとてもユニークで、バトルは白熱します。止められないほど面白いです！",
-          "author": "@CursedFighter",
-          "title": "壮大な冒険！"
+          "content": "Spongebob Tower Defense perfectly blends nostalgia and strategy. The iconic characters and vibrant Bikini Bottom make every level a joy to play!",
+          "author": "Emma R.",
+          "title": "Spongebob Fanatic"
         },
         {
-          "content": "グラフィック、クエスト、戦闘メカニクスは最高です。まるでアニメの中にいるような気分になります。そして、コード報酬はとても嬉しいボーナスです！",
-          "author": "@AnimeGamerX",
-          "title": "最高のRobloxゲーム！"
+          "content": "I love the challenge this game offers! The upgrades and codes keep it fresh, and the events make me come back for more. Highly recommend it!",
+          "author": "Jake T.",
+          "title": "Roblox Enthusiast"
         },
         {
-          "content": "友達とチームを組んだり、マップを探索したり、このゲームにはまっています。新しい能力をアンロックするのはとても満足感があります！",
-          "author": "@QuestMaster",
-          "title": "中毒性があり楽しい！"
+          "content": "As a parent, I appreciate how fun and engaging this game is for my kids. They adore Spongebob, and the game helps them develop problem-solving skills.",
+          "author": "Sarah L.",
+          "title": "Parent and Gamer"
         },
         {
-          "content": "アニメのファンとして、このゲームにテーマがどのように取り入れられているかが大好きです。挑戦的で報酬もあり、超楽しいです！",
-          "author": "@KaisenLover",
-          "title": "呪術廻戦ファン必見！"
+          "content": "The mix of strategic gameplay and familiar Spongebob settings is genius. It's the perfect balance of challenge and fun for players of all ages!",
+          "author": "Mike W.",
+          "title": "Casual Gamer"
         },
         {
-          "content": "新しいコードやイベント、機能で頻繁にゲームが更新されるのが嬉しいです。常に新しい何かに挑戦できます！",
-          "author": "@CodeHunter21",
-          "title": "継続的な更新で新鮮さを保つ！"
+          "content": "Redeeming codes to unlock characters and boosts is so satisfying! The developers clearly put a lot of thought into making the game enjoyable.",
+          "author": "Rachel H.",
+          "title": "Game Reviewer"
         },
         {
-          "content": "ゲームは戦略を考えさせながら、アクションを速いペースで進めます。戦略と楽しさの完璧なバランスです！",
-          "author": "@BattleTactician",
-          "title": "戦略とアクションの完璧なバランス！"
+          "content": "Hands down one of the best Roblox games out there. Regular updates and creative level designs make Spongebob Tower Defense a standout experience.",
+          "author": "Alex P.",
+          "title": "Tower Defense Expert"
         }
       ]
     },
     "faq": {
-      "title": "よくある質問",
-      "description": "ご質問がありますか？お答えします！",
+      "title": "Frequently Asked Questions",
+      "description": "Got questions? We've got answers!",
       "list": [
         {
-          "question": "呪術インフィニットとは何ですか？",
-          "answer": "呪術インフィニットは、アニメ『呪術廻戦』にインスパイアされた人気のRobloxゲームです。プレイヤーは呪術技術をマスターし、クエストをクリアし、壮大なバトルに挑みます。"
+          "question": "What is Spongebob Tower Defense?",
+          "answer": "Spongebob Tower Defense is a Roblox game where players use characters and towers to defend Bikini Bottom against waves of enemies in strategic tower defense gameplay."
         },
         {
-          "question": "呪術インフィニットをどのようにプレイしますか？",
-          "answer": "Robloxのゲームページにアクセスし、ゲームを起動してキャラクターを作成します。チュートリアルに従って基本を学び、クエストをクリアして敵と戦いながら冒険を始めましょう。"
+          "question": "How do I start playing Spongebob Tower Defense?",
+          "answer": "To start, visit the game page on Roblox, click \"Play,\" and follow the in-game tutorial to learn how to place towers and defend against enemies."
         },
         {
-          "question": "呪術インフィニットにはコードがありますか？",
-          "answer": "はい！コードは定期的にリリースされ、ゲーム内通貨やブーストなどの報酬と引き換えることができます。最新のコードは当ウェブサイトでご確認ください。"
+          "question": "How can I redeem codes in Spongebob Tower Defense?",
+          "answer": "Open the game, click the \"Codes\" button on the main menu, enter an active code, and press \"Redeem\" to claim your rewards."
         },
         {
-          "question": "呪術インフィニットでコードをどのように引き換えますか？",
-          "answer": "ゲームを開き、コード引き換えセクション（通常、設定やメニュー内にあります）に移動します。コードを入力して報酬を受け取りましょう。"
+          "question": "Where can I find active Spongebob Tower Defense codes?",
+          "answer": "You can find active codes on the game's official page, social media platforms, and websites like Sportskeeda, Eurogamer, and Fandom."
         },
         {
-          "question": "呪術インフィニットを友達と一緒にプレイできますか？",
-          "answer": "もちろんです！呪術インフィニットはマルチプレイヤーゲームプレイをサポートしています。友達とチームを組んでクエストをクリアしたり、PvPバトルで競い合ったりできます。"
+          "question": "What rewards do codes provide in the game?",
+          "answer": "Codes typically provide rewards such as in-game currency, exclusive items, character unlocks, and boosts to help in gameplay."
         },
         {
-          "question": "呪術インフィニットの呪術技術とは何ですか？",
-          "answer": "呪術技術は、プレイヤーに戦闘で特別な能力を与えるユニークなスキルです。各技術には独自の強みがあり、進行に応じてアップグレードできます。"
+          "question": "Can I play Spongebob Tower Defense with friends?",
+          "answer": "Yes, Spongebob Tower Defense supports multiplayer mode, allowing you to team up with friends and tackle challenges together."
         },
         {
-          "question": "キャラクターのレベルを上げるにはどうすればいいですか？",
-          "answer": "クエストをクリアし、敵を倒し、バトルに参加することでレベルアップできます。経験値（XP）を獲得することで、新しい能力や装備をアンロックできます。"
+          "question": "How do I unlock new characters and towers?",
+          "answer": "You can unlock new characters and towers by earning in-game currency, redeeming codes, or completing specific challenges and missions."
         },
         {
-          "question": "呪術インフィニットにはゲーム内購入がありますか？",
-          "answer": "はい、ゲーム内通貨やアイテムを購入できます。ただし、実際のお金を使わなくてもゲームを完全にプレイできます。"
+          "question": "Are there updates and new content in Spongebob Tower Defense?",
+          "answer": "Yes, the developers frequently release updates that include new levels, characters, challenges, and special events to keep the game engaging."
         },
         {
-          "question": "呪術インフィニットは初心者向けですか？",
-          "answer": "はい！ゲームには新しいプレイヤー向けのチュートリアルがあり、簡単に始められるガイドも豊富です。さらに、コードや無料報酬が進行を助けてくれます。"
+          "question": "What strategies are best for winning in Spongebob Tower Defense?",
+          "answer": "Focus on upgrading towers, placing characters strategically, and balancing offense and defense to handle waves of enemies effectively."
         },
         {
-          "question": "呪術インフィニットはどのくらいの頻度で更新されますか？",
-          "answer": "開発者は新しいコンテンツ、イベント、機能を含む定期的な更新をリリースしています。更新情報を確認し、新しいチャレンジや報酬をお楽しみください！"
+          "question": "Is Spongebob Tower Defense free to play?",
+          "answer": "Yes, the game is free to play on Roblox. However, optional in-game purchases are available to enhance your gaming experience."
         }
       ]
     }
   },
   "Footer": {
-    "title": "呪術インフィニットコード、ヒント、ゲームプレイガイド",
-    "subTitle": "Robloxで呪術インフィニットの究極ガイドを探索してください！",
-    "support": "サポート",
-    "privacy": "プライバシーポリシー",
-    "termsConditions": "利用規約"
+    "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+    "subTitle": "Explore the ultimate guide to Spongebob Tower Defense on Roblox!",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions"
   },
   "FooterNavigation": {
     "privacyPolicy": {
-      "1-h1": "呪術インフィニットのプライバシーポリシー",
-      "1-p": "呪術インフィニットは、ウェブサイト https://spongebobtowerdefense.net を運営しており、プライバシーの保護に努めています。本プライバシーポリシーでは、オンラインゲームガイドをご利用いただく際の情報の取り扱い方法について説明します。",
-      "2-h2": "情報の収集",
-      "2-h3-1": "個人データ",
-      "2-p-1": "ユーザーから個人を特定できる情報は収集していません。当サービスは個人データを必要とせずに使用できるように設計されています。",
-      "2-h3-2": "非個人データ",
-      "2-p-3": "ウェブクッキーを通じて非個人データを収集します。これには、使用状況の統計や設定が含まれ、サービスの改善およびユーザーエクスペリエンス向上のために使用されます。ディスプレイ設定やカスタマイズの好みなどが含まれる場合があります。",
-      "3-h2": "データの利用",
-      "3-p": "収集された非個人データは、ウェブサイトの機能向上およびユーザーエクスペリエンスの改善のためにのみ使用されます。第三者とデータを共有することはありません。",
-      "4-h2": "プライバシーポリシーの更新",
-      "6-h2": "お問い合わせ",
-      "6-p": "このプライバシーポリシーに関してご質問がある場合は、support@spongebobtowerdefense.net までお問い合わせください。"
+      "1-h1": "Privacy Policy for Spongebob Tower Defense",
+      "1-p": "Spongebob Tower Defense operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
+      "2-h2": "Information Collection",
+      "2-h3-1": "Personal Data",
+      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
+      "2-h3-2": "Non-Personal Data",
+      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
+      "3-h2": "Data Usage",
+      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
+      "4-h2": "Updates to This Privacy Policy",
+      "6-h2": "Contact Us",
+      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
     },
     "termsConditions": {
-      "1-h1": "呪術インフィニットの利用規約",
-      "1-p": "呪術インフィニットへようこそ。ウェブサイト（https://spongebobtowerdefense.net）にアクセスすることで、本利用規約に同意したものとみなされます。当サービスは、Robloxゲーム「呪術インフィニット」に関する包括的なガイドを提供します。",
-      "2-h2": "1. 所有権",
-      "2-p": "ガイド、ヒント、コード、デザイン要素、関連素材など、ウェブサイト上のすべてのコンテンツは、特に明記されていない限り、呪術インフィニットの知的財産です。ユーザーが作成したテキストコンテンツは、そのユーザーの所有物として残ります。",
-      "3-h2": "2. 利用ガイドライン",
-      "3-p": "当サービスは情報提供および教育目的で提供されています。ユーザーは自己の行動に責任を持ち、違法または有害な目的でサービスを使用しないようにしてください。",
-      "4-h2": "3. 準拠法",
-      "4-p": "本規約は、法の抵触原則に関わらず、適用法に準拠します。",
-      "5-h2": "4. 規約の変更",
-      "5-p": "呪術インフィニットは、いつでも本規約を変更する権利を有します。変更はウェブサイトへの掲載時に即時に有効となります。サービスの継続的な利用は、変更に同意したものとみなされます。",
-      "6-h2": "5. 問い合わせ先",
-      "6-p": "本規約についてご質問がある場合は、support@spongebobtowerdefense.net までお問い合わせください。",
-      "last-p": "呪術インフィニットを利用することで、本利用規約を読んで同意したことを認めます。"
+      "1-h1": "Terms of Service for Spongebob Tower Defense",
+      "1-p": "Welcome to Spongebob Tower Defense. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Spongebob Tower Defense Roblox game.",
+      "2-h2": "1. Ownership",
+      "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Spongebob Tower Defense unless otherwise stated. The text content created by users remains their property.",
+      "3-h2": "2. Usage Guidelines",
+      "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
+      "4-h2": "3. Governing Law",
+      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
+      "5-h2": "4. Changes to Terms",
+      "5-p": "Spongebob Tower Defense reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
+      "6-h2": "5. Contact Information",
+      "6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
+      "last-p": "By using Spongebob Tower Defense, you acknowledge that you have read and agree to these Terms of Service."
     }
   },
   "About": {
-    "title": "呪術インフィニットについて",
-    "subtitle": "呪術インフィニットの世界への究極ガイド",
+    "title": "About Spongebob Tower Defense",
+    "subtitle": "Welcome to Spongebob Tower Defense, the ultimate gaming experience for fans of Spongebob Squarepants and tower defense enthusiasts alike! Dive into the vibrant underwater world of Bikini Bottom, where strategy meets action-packed gameplay in this engaging Roblox adventure. Whether you're a seasoned gamer or new to tower defense games, Spongebob Tower Defense promises hours of fun, challenging levels, and beloved characters.",
+    
     "content": {
-      "introTitle": "ようこそ",
-      "intro": "Robloxのスリリングなゲーム「呪術インフィニット」に関連するすべての情報の究極の目的地へようこそ。このページでは、ゲームプレイのメカニズム、ユニークな特徴、そしてこのゲームを特別なものにしている活気あるコミュニティについて詳しく紹介します。",
-      "whatIsTitle": "呪術インフィニットとは？",
-      "whatIs": "呪術インフィニットは、呪術廻戦にインスパイアされたアクション満載の世界にプレイヤーを連れて行く人気のRobloxゲームです。呪術廻戦のエッセンスをダイナミックなゲーム体験に取り入れ、アニメのファンにも新しいプレイヤーにもリッチで魅力的な冒険を提供します。",
-      "whatIsExtra": "ゲーム内では、プレイヤーが呪術をマスターし、強力な敵と戦い、さまざまなチャレンジを通じてキャラクターをレベルアップさせる旅に出ます。頻繁な更新、エキサイティングなイベント、そして活気あるコミュニティにより、呪術インフィニットは何時間も楽しめるゲームです。",
-      "featuresTitle": "呪術インフィニットの主な特徴",
+      "whatIsTitle": "What is Spongebob Tower Defense?",
+      "whatIs": "Spongebob Tower Defense is a Roblox-based game that combines the excitement of tower defense mechanics with the humor and charm of the Spongebob universe. Players must strategically place towers and use iconic characters like Spongebob, Patrick, and Squidward to defend Bikini Bottom from relentless waves of enemies. Each character comes with unique abilities, adding depth and variety to the gameplay.",
+      "whatIsExtra": "This game isn't just about winning battles—it's about immersing yourself in the familiar settings of Bikini Bottom, from the Krusty Krab to Jellyfish Fields. With regular updates, special events, and a growing community, Spongebob Tower Defense continues to evolve, making it a must-play for Roblox fans.",
+
+      "featuresTitle": "Key Features of Spongebob Tower Defense",
       "features": {
-        "cursedTechniques": {
-          "title": "ユニークな呪術",
-          "description": "呪術インフィニットの核となるのはその呪術です。これらのユニークな能力はゲームプレイスタイルを定義し、バトルでの成功を決定します。遠距離攻撃から近接戦闘まで、多彩な技術がプレイヤーに最適なスタイルを見つけるのを助けます。"
+        "characters": {
+          "title": "Iconic Characters",
+          "description": "Play as your favorite characters, including Spongebob, Patrick, and more. Each character brings unique abilities to enhance your defense strategies."
         },
-        "quests": {
-          "title": "エキサイティングなクエストとチャレンジ",
-          "description": "ゲームでは、スキルをテストし、努力に報いるさまざまなクエストが提供されます。ミッションを完了すると、新しい能力や報酬がアンロックされます。ボスバトルはさらに興奮を加え、プレイヤーに戦略を立て、チームで取り組むことを要求します。"
-        },
-        "multiplayer": {
-          "title": "マルチプレイヤーコラボレーションとPvPバトル",
-          "description": "呪術インフィニットはそのマルチプレイヤーモードが魅力です。友達と協力して難しいチャレンジに挑むか、他のプレイヤーとPvPバトルでスキルをテストします。協力と競争の両面がゲームを非常に魅力的なものにします。"
-        },
-        "world": {
-          "title": "アニメインスパイアの没入型の世界",
-          "description": "ゲームの世界は、呪術廻戦のエッセンスを、美しいビジュアルとダイナミックな環境で見事に捉えています。詳細な風景を探索し、NPCとやり取りし、驚きに満ちた世界に浸りましょう。"
+        "gameplay": {
+          "title": "Dynamic Tower Defense Gameplay",
+          "description": "Strategically place and upgrade towers to fend off waves of enemies and protect Bikini Bottom."
         },
         "codes": {
-          "title": "コード報酬と無料アイテム",
-          "description": "プレイヤーは、ゲーム内通貨、パワーブースト、限定アイテムなどの無料報酬を受け取るためのコードを引き換えることができます。定期的な更新により、常に新しいコードを利用できます。"
+          "title": "Redeemable Codes for Rewards",
+          "description": "Stay ahead in the game by redeeming codes to unlock exclusive rewards like characters, items, and boosts."
+        },
+        "locations": {
+          "title": "Bikini Bottom Locations",
+          "description": "Explore iconic locations from the Spongebob series, including the Krusty Krab, Goo Lagoon, and more."
+        },
+        "strategies": {
+          "title": "Customizable Strategies",
+          "description": "Experiment with tower placements, character combinations, and upgrades to create your winning strategy."
         },
         "updates": {
-          "title": "継続的な更新と新コンテンツ",
-          "description": "呪術インフィニットの開発者は、定期的な更新を通じて新しいコンテンツを提供することに尽力しています。新しい呪術技術や特別なイベントなど、常にエキサイティングな何かがあります。"
+          "title": "Regular Updates",
+          "description": "Enjoy new levels, characters, and challenges with regular updates that keep the gameplay fresh and exciting."
         }
       },
-      "howToPlayTitle": "呪術インフィニットの遊び方",
+
+      "howToPlayTitle": "How to Play Spongebob Tower Defense",
       "howToPlay": [
         {
-          "title": "ゲームを起動する",
-          "description": "呪術インフィニットの公式Robloxページにアクセスし、ゲームを開始します。キャラクターを作成し、固有の呪術技術を選択してください。"
+          "title": "Join the Game",
+          "description": "Visit the Roblox platform, search for \"Spongebob Tower Defense,\" and click \"Play.\""
         },
         {
-          "title": "クエストをクリアする",
-          "description": "クエストをクリアして冒険を始めましょう。これらのミッションはゲームのメカニズムを紹介し、レベルアップや報酬獲得の助けとなります。"
+          "title": "Learn the Basics",
+          "description": "Follow the in-game tutorial to understand tower placements, enemy waves, and upgrades."
         },
         {
-          "title": "戦闘メカニクスをマスターする",
-          "description": "戦闘は呪術インフィニットの核となる要素です。呪術技術を使う練習をし、スキルを磨いてバトルで優位に立ちましょう。"
+          "title": "Use Codes for Rewards",
+          "description": "Redeem codes to unlock valuable in-game resources. Codes can be found on official platforms, gaming websites, or fan communities."
         },
         {
-          "title": "チームを組むまたは競い合う",
-          "description": "他のプレイヤーと力を合わせて難しいクエストに挑むか、PvPバトルで自分の強さを試してください。"
-        },
-        {
-          "title": "コードを引き換える",
-          "description": "最新のコードを引き換えて、ボーナスや限定アイテムを手に入れ、ゲームで優位に立ちましょう。"
+          "title": "Defend Bikini Bottom",
+          "description": "Strategically place towers and characters to defend against increasingly difficult waves of enemies."
         }
       ],
-      "tipsTitle": "呪術インフィニットで成功するためのヒント",
+
+      "popularityTitle": "Why is Spongebob Tower Defense So Popular?",
+      "popularity": [
+        {
+          "title": "Nostalgia",
+          "description": "Fans of the Spongebob series love seeing their favorite characters and locations come to life in an interactive format."
+        },
+        {
+          "title": "Strategic Gameplay",
+          "description": "The game combines fun with brainpower, requiring players to think critically about tower placements and upgrades."
+        },
+        {
+          "title": "Community Engagement",
+          "description": "With a strong fan base and regular updates, the game fosters a sense of community and excitement."
+        },
+        {
+          "title": "Free-to-Play Access",
+          "description": "Being free on Roblox makes it accessible to a wide audience, while optional in-game purchases provide additional content for those who want more."
+        }
+      ],
+
+      "codesTitle": "Redeeming Codes in Spongebob Tower Defense",
+      "codes": "One of the most exciting features of Spongebob Tower Defense is the ability to redeem codes for in-game rewards. Codes can provide in-game currency to buy upgrades, exclusive characters or items, and boosts to help you tackle challenging levels. To redeem a code, simply click on the \"Codes\" button in the game menu, enter the code, and enjoy your rewards. Be sure to check official sources and community platforms regularly for the latest codes!",
+
+      "tipsTitle": "Tips and Strategies for Spongebob Tower Defense",
       "tips": [
         {
-          "title": "技術を試す",
-          "description": "さまざまな呪術技術を試して、自分のプレイスタイルに合ったものを見つけましょう。試行錯誤はゲームをマスターする鍵です。"
+          "title": "Upgrade Towers Wisely",
+          "description": "Focus on upgrading towers that align with your strategy, whether it's offensive or defensive."
         },
         {
-          "title": "最新情報を追う",
-          "description": "ゲームの更新情報や新しいコードをチェックしましょう。公式ウェブサイトやファンページを定期的に確認することで、貴重な報酬を逃しません。"
+          "title": "Place Characters Strategically",
+          "description": "Position your characters where they can maximize their abilities."
         },
         {
-          "title": "他のプレイヤーと協力する",
-          "description": "困難なクエストでは、協力が成功への近道です。経験豊富なプレイヤーとチームを組んで、高度な戦略を学びましょう。"
+          "title": "Keep an Eye on Updates",
+          "description": "New content often includes stronger characters and better rewards."
         },
         {
-          "title": "アップグレードに投資する",
-          "description": "ゲーム内通貨を賢く使い、能力をアンロックしてアップグレードしましょう。これにより、バトルで大きなアドバンテージを得られます。"
+          "title": "Work with Friends",
+          "description": "Multiplayer mode allows you to team up with friends for more challenging battles."
         },
         {
-          "title": "イベントに参加する",
-          "description": "期間限定のイベントでは、特別な報酬やユニークなゲームプレイ体験を提供することがあります。この機会をお見逃しなく。"
+          "title": "Experiment",
+          "description": "Try different combinations of towers and characters to discover new winning strategies."
         }
       ],
-      "communityTitle": "呪術インフィニットのコミュニティ",
-      "community": "呪術インフィニットのコミュニティは、Robloxで最も活気があり、歓迎的なものの1つです。プレイヤーはDiscordやRedditなどのプラットフォームで、ヒント、戦略、コードの更新情報を積極的に共有しています。アドバイスを求めたり、チームを見つけたり、楽しい会話をしたりする場合でも、このコミュニティはゲームにさらなる楽しみを加えます。",
-      "faqTitle": "よくある質問",
-      "faq": [
-        {
-          "question": "呪術インフィニットとは何ですか？",
-          "answer": "これは呪術廻戦にインスパイアされたRobloxゲームで、プレイヤーは呪術技術をマスターし、クエストをクリアし、バトルに挑みます。"
-        },
-        {
-          "question": "コードをどのように引き換えますか？",
-          "answer": "ゲームのメニューでコードを引き換えることができます。指定されたフィールドにコードを入力し、報酬を受け取ってください。"
-        },
-        {
-          "question": "友達と一緒にプレイできますか？",
-          "answer": "はい！マルチプレイヤーモードでは、友達とチームを組んだり、PvPで競い合ったりすることができます。"
-        },
-        {
-          "question": "ゲーム内購入はありますか？",
-          "answer": "はい、プレイヤーは通貨やアイテムを購入できますが、実際のお金を使わなくてもゲームを完全にプレイできます。"
-        },
-        {
-          "question": "ゲームはどのくらいの頻度で更新されますか？",
-          "answer": "開発者は新しいコンテンツ、機能、コードを含む頻繁な更新をリリースします。"
-        }
-      ],
-      "conclusionTitle": "今すぐ冒険に参加しよう",
-      "conclusion": "呪術廻戦のファンでも、スリリングな冒険を求めるゲーマーでも、呪術インフィニットは忘れられない体験を提供します。呪術技術をマスターし、情熱的なコミュニティと協力することで、このゲームは無限の興奮を約束します。今すぐ旅を始め、呪術インフィニットの世界で伝説になりましょう！"
+
+      "communityTitle": "Community and Updates",
+      "community": "The Spongebob Tower Defense community is vibrant and ever-growing. Join fan forums, participate in discussions, and share your strategies with fellow players. The developers are committed to keeping the game exciting, with regular updates that introduce new characters, levels, and special events.",
+
+      "conclusionTitle": "Join the Fun in Spongebob Tower Defense",
+      "conclusion": "Whether you're a casual player or a competitive gamer, Spongebob Tower Defense offers an experience like no other. Dive into the underwater world of Bikini Bottom, defend it from enemies, and relive your favorite Spongebob moments in this immersive Roblox game. Start playing today and become a hero in Bikini Bottom!"
     }
   },
   "Codes": {
-    "title": "呪術インフィニットコード",
-    "subtitle": "最新の有効コードと報酬をゲット",
-    "videoSection": {
-      "title": "コードの引き換え方法",
-      "description": "呪術インフィニットでコードを引き換える方法を紹介するクイックガイドをご覧ください"
+    "title": "Spongebob Tower Defense Codes",
+    "subtitle": "Welcome to the ultimate guide for Spongebob Tower Defense Codes! If you're a fan of this exciting Roblox game, you're in the right place. Here, we provide a complete list of active and expired codes, explain how to use them, and offer tips for making the most of your rewards. Whether you're a new player or a seasoned strategist, these codes can give you an edge in defending Bikini Bottom.",
+    
+    "whatAreCodesTitle": "What Are Spongebob Tower Defense Codes?",
+    "whatAreCodes": "Spongebob Tower Defense Codes are special redeemable strings provided by the game developers. These codes are often released during milestones, updates, or special events and offer valuable in-game rewards. By redeeming these codes, players can gain access to resources like Gems, boosts, and exclusive items, helping them progress faster and enjoy unique gameplay elements.",
+    
+    "activeCodes": {
+      "title": "Active Spongebob Tower Defense Codes",
+      "description": "Below are the currently active codes for Spongebob Tower Defense. Make sure to redeem them as soon as possible, as they may expire at any time.",
+      "list": [
+        {
+          "code": "OPCodeForReal",
+          "reward": "2000 Gems, 5 Magic Conches, and 5 Trait Rerolls"
+        },
+        {
+          "code": "ImReadyImReady",
+          "reward": "1000 Gems and 1 x2 Gems"
+        },
+        {
+          "code": "BoostJuice",
+          "reward": "10 Aged Patties, 2 x2 XP, and 1 x2 Gems"
+        }
+      ]
     },
-    "introduction": {
-      "title": "呪術インフィニットコードについて",
-      "description": "コードは、ゲーム開発者から提供される特別な報酬で、ゲーム内アイテム、通貨、ブーストなどと引き換えることができます。これらのコードは、マイルストーン、更新、または特別なイベントを祝うために定期的にリリースされます。期限が切れる前に早めに引き換えてください！"
+    
+    "expiredCodes": {
+      "title": "Expired Spongebob Tower Defense Codes",
+      "description": "While the following codes are no longer active, they show the type of rewards previously offered. Keep an eye out for similar rewards in future codes!",
+      "list": [
+        {
+          "code": "100KGoofyGoobers",
+          "reward": "10 Pretty Patties, 5 Trait Rerolls, and 2 Magic Conches"
+        },
+        {
+          "code": "GemsOnGems",
+          "reward": "2000 Gems"
+        },
+        {
+          "code": "NowThisIsOP",
+          "reward": "5 Trait Rerolls and 2 Magic Conches"
+        },
+        {
+          "code": "OneUp",
+          "reward": "5 Pretty Patties, 3 Aged Patties, and x2 XP"
+        },
+        {
+          "code": "25KHooray",
+          "reward": "500 Gems, 3 Trait Rerolls, and 1 Magic Conch"
+        },
+        {
+          "code": "SandysDojo",
+          "reward": "2 Trait Rerolls"
+        },
+        {
+          "code": "XmasUnderDaSea",
+          "reward": "holiday-themed rewards"
+        }
+      ]
     },
+    
     "howToRedeem": {
-      "title": "コードの引き換え方法",
+      "title": "How to Redeem Spongebob Tower Defense Codes",
+      "description": "Redeeming codes in Spongebob Tower Defense is quick and easy. Follow these steps to claim your rewards:",
       "steps": [
         {
-          "title": "1. ゲームを起動する",
-          "description": "Robloxで呪術インフィニットを起動し、ゲームが完全にロードされるのを待ちます。"
+          "title": "Launch the Game",
+          "description": "Open Spongebob Tower Defense in Roblox."
         },
         {
-          "title": "2. コードメニューを開く",
-          "description": "メニューボタン（三本線や歯車アイコンで表されることが多い）をクリックし、「コード」または「コードを引き換え」オプションを探します。"
+          "title": "Find the Codes Button",
+          "description": "On the main menu, look for the \"Codes\" button, usually located on the left side of the screen."
         },
         {
-          "title": "3. コードを入力する",
-          "description": "コードをそのまま正確に入力または貼り付けます（コードは大文字と小文字を区別します）。スペルミスや空白に注意してください。"
+          "title": "Enter the Code",
+          "description": "Click on the \"Codes\" button, type in the code exactly as shown (codes are case-sensitive), and hit \"Redeem.\""
         },
         {
-          "title": "4. 報酬を受け取る",
-          "description": "「引き換え」または「送信」ボタンをクリックします。有効なコードであれば、報酬が即座に受け取れます！"
+          "title": "Claim Your Reward",
+          "description": "Once redeemed, your rewards will be added to your account instantly."
         }
       ]
     },
-    "activeCodes": {
-      "title": "現在有効なコード（定期更新）",
-      "description": "呪術インフィニットで現在有効なコードをすべて掲載しています。新しいコードがリリースされ、古いコードが期限切れになるたびにリストを更新します。",
-      "note": "注意：コードは大文字と小文字を区別し、正確に入力する必要があります",
-      "list": [
-        {
-          "code": "TWITTER_75_YAY",
-          "reward": "100スピン + 1時間の経験値2倍",
-          "description": "Twitterマイルストーンのお祝い"
-        },
-        {
-          "code": "HAPPY_2025",
-          "reward": "100スピン + 1時間の経験値2倍 + マスタリー2倍",
-          "description": "新年のお祝い"
-        },
-        {
-          "code": "50K_FOLLOWERS",
-          "reward": "50スピン + 1時間の経験値2倍",
-          "description": "ソーシャルメディアのマイルストーン"
-        },
-        {
-          "code": "MERRY_CHRISTMAS",
-          "reward": "100スピン",
-          "description": "クリスマスのお祝い"
-        },
-        {
-          "code": "RELEASE",
-          "reward": "200スピン",
-          "description": "ゲームリリースのお祝い"
-        }
-      ],
-      "expired": {
-        "title": "参考用の期限切れコード",
-        "description": "これらのコードは現在は有効ではありませんが、ゲーム内で利用可能だった過去の報酬を知ることができます：",
-        "list": [
-          {
-            "code": "JJ_SHUTDOWN",
-            "reward": "25スピン"
-          },
-          {
-            "code": "BACK_UP_AGAIN",
-            "reward": "25スピン + 1時間の経験値2倍"
-          },
-          {
-            "code": "TOP_SECRET",
-            "reward": "150スピン"
-          },
-          {
-            "code": "MISSION_SHUTDOWN",
-            "reward": "50スピン"
-          },
-          {
-            "code": "RELEASE_SHUTDOWN_SRRY",
-            "reward": "200スピン"
-          },
-          {
-            "code": "WAVE3_PATCH",
-            "reward": "スピン"
-          },
-          {
-            "code": "WELCOME_WAVE3",
-            "reward": "スピン"
-          },
-          {
-            "code": "DIM_MAX",
-            "reward": "スピン"
-          },
-          {
-            "code": "UPDATE_3",
-            "reward": "スピン"
-          },
-          {
-            "code": "350K_YAY",
-            "reward": "スピン"
-          },
-          {
-            "code": "ROLLBACK_SRRY",
-            "reward": "スピン"
-          }
-        ]
-      }
-    },
+    
     "tips": {
-      "title": "コード引き換えのヒント",
+      "title": "Tips for Redeeming Codes",
       "list": [
         {
-          "title": "定期的に確認する",
-          "description": "更新、イベント、マイルストーンの際に新しいコードがリリースされます。最新のコードをチェックするためにこのページを定期的に確認してください。"
+          "title": "Act Quickly",
+          "description": "Codes have a limited lifespan, so use them as soon as you find them."
         },
         {
-          "title": "迅速に行動する",
-          "description": "コードは予告なしに期限切れになることがあります。報酬を逃さないために、できるだけ早く引き換えましょう。"
+          "title": "Check for Typos",
+          "description": "Codes are case-sensitive. Make sure to enter them exactly as provided."
         },
         {
-          "title": "公式チャンネルをフォローする",
-          "description": "ゲームの公式ソーシャルメディアアカウントをフォローし、コード発表のためにDiscordサーバーに参加しましょう。"
+          "title": "Stay Updated",
+          "description": "Follow official game channels and fan communities to catch new codes as they are released."
         },
         {
-          "title": "このページをブックマークする",
-          "description": "コードリストを定期的に更新しています。このページをブックマークして、新しいコードや報酬について最新情報を入手しましょう。"
+          "title": "Bookmark Trusted Sources",
+          "description": "Websites and forums often post the latest codes, ensuring you don't miss out."
         }
       ]
     },
-    "commonIssues": {
-      "title": "よくある問題と解決策",
+    
+    "rewards": {
+      "title": "What Rewards Can You Get?",
+      "description": "The rewards from Spongebob Tower Defense Codes vary, but they are all designed to enhance your gaming experience. Here's what you can expect:",
       "list": [
         {
-          "problem": "コードが機能しない",
-          "solution": "コードを大文字や特殊文字を含めて正確に入力してください。コードは大文字と小文字を区別します。"
+          "title": "Gems",
+          "description": "Use these to unlock characters, purchase upgrades, and enhance your gameplay."
         },
         {
-          "problem": "すでに引き換え済み",
-          "solution": "各コードはアカウントごとに1回のみ引き換え可能です。別のコードを試してください。"
+          "title": "Trait Rerolls",
+          "description": "Improve your characters' abilities by rerolling traits for better stats or effects."
         },
         {
-          "problem": "コードが期限切れ",
-          "solution": "コードは期限切れになることがあります。有効な最新コードについては、アクティブコードセクションを確認してください。"
+          "title": "Boosts",
+          "description": "Temporary multipliers for XP, Gems, or other resources that help you progress faster."
+        },
+        {
+          "title": "Exclusive Items",
+          "description": "Limited-edition skins, special weapons, or unique towers not available through normal gameplay."
+        },
+        {
+          "title": "Magic Conches",
+          "description": "A rare resource for unlocking premium content or enhancing your strategies."
         }
       ]
     },
-    "updates": {
-      "title": "コード更新とニュース",
-      "description": "呪術インフィニットの新しいコードを常に監視し、リリースされ次第このページを更新します。ソーシャルメディアをフォローするか、Discordコミュニティに参加して、新しいコードについて即座に通知を受け取りましょう！"
+    
+    "findingCodes": {
+      "title": "How to Find New Spongebob Tower Defense Codes",
+      "description": "Keeping up with new codes is essential for staying ahead in the game. Here are some tips for finding them:",
+      "list": [
+        "Follow Official Channels: The developers often post new codes on the game's Roblox page, Twitter, or Discord server.",
+        "Join Fan Communities: Many fan forums and social media groups share codes and tips.",
+        "Check Updates Regularly: Codes are frequently released during game updates or events.",
+        "Monitor Milestones: When the game reaches milestones like player counts or anniversaries, developers often reward the community with codes."
+      ]
+    },
+    
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "list": [
+        {
+          "question": "How often are new codes released?",
+          "answer": "Codes are typically released during updates, events, or when the game reaches a milestone, such as a specific number of players or followers."
+        },
+        {
+          "question": "Why isn't my code working?",
+          "answer": "Double-check for typos and ensure the code hasn't expired. Some codes are case-sensitive, so accuracy is crucial."
+        },
+        {
+          "question": "Can I redeem a code more than once?",
+          "answer": "No, each code can only be redeemed once per account."
+        },
+        {
+          "question": "Do I need to pay to use codes?",
+          "answer": "No, codes are free and available to all players. They are a way for developers to reward the community."
+        }
+      ]
+    },
+    
+    "conclusion": {
+      "title": "Why Use Spongebob Tower Defense Codes?",
+      "description": "Codes are an excellent way to boost your gameplay experience in Spongebob Tower Defense. They provide free resources, unlockables, and enhancements, allowing players to progress faster and enjoy unique content. By redeeming codes regularly, you can stay competitive and explore the full potential of the game."
+    },
+    "videoSection": {
+      "title": "How to Redeem Codes",
+      "description": "Watch our quick guide on how to redeem codes in Spongebob Tower Defense"
     }
   }
 }

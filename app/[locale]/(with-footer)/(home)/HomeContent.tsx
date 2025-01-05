@@ -91,7 +91,7 @@ export default function HomeContent({ translations }: HomeContentProps) {
             <h2 className='text-3xl font-bold text-gray-900 mb-4'>{translations.videoSection.title}</h2>
           </div>
           <div className='w-full aspect-[16/9] rounded-lg overflow-hidden shadow-lg'>
-            <YouTubeVideo videoId='EpkWQJ3AKEY' />
+            <YouTubeVideo videoId='bpAGlLbEujA' />
           </div>
         </div>
       </section>

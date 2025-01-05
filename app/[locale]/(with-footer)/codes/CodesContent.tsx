@@ -9,34 +9,31 @@ interface TranslationsType {
     title: string;
     description: string;
   };
-  introduction: {
+  whatAreCodesTitle: string;
+  whatAreCodes: string;
+  activeCodes: {
     title: string;
     description: string;
+    list: Array<{
+      code: string;
+      reward: string;
+    }>;
+  };
+  expiredCodes: {
+    title: string;
+    description: string;
+    list: Array<{
+      code: string;
+      reward: string;
+    }>;
   };
   howToRedeem: {
     title: string;
+    description: string;
     steps: Array<{
       title: string;
       description: string;
     }>;
-  };
-  activeCodes: {
-    title: string;
-    description: string;
-    note: string;
-    list: Array<{
-      code: string;
-      reward: string;
-      description: string;
-    }>;
-    expired: {
-      title: string;
-      description: string;
-      list: Array<{
-        code: string;
-        reward: string;
-      }>;
-    };
   };
   tips: {
     title: string;
@@ -45,14 +42,27 @@ interface TranslationsType {
       description: string;
     }>;
   };
-  commonIssues: {
+  rewards: {
     title: string;
+    description: string;
     list: Array<{
-      problem: string;
-      solution: string;
+      title: string;
+      description: string;
     }>;
   };
-  updates: {
+  findingCodes: {
+    title: string;
+    description: string;
+    list: string[];
+  };
+  faq: {
+    title: string;
+    list: Array<{
+      question: string;
+      answer: string;
+    }>;
+  };
+  conclusion: {
     title: string;
     description: string;
   };
@@ -73,49 +83,33 @@ export default function CodesContent({ translations }: CodesContentProps) {
         <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.videoSection.title}</h2>
         <p className='mb-4 text-gray-600'>{translations.videoSection.description}</p>
         <div className='aspect-video w-full overflow-hidden rounded-lg shadow-lg'>
-          <YouTubeVideo videoId='QD97mMgfLoI' />
+          <YouTubeVideo videoId='0NorgWUChbk' />
         </div>
       </section>
 
-      {/* Introduction */}
+      {/* What Are Codes Section */}
       <section className='mb-16'>
-        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.introduction.title}</h2>
-        <p className='text-gray-600'>{translations.introduction.description}</p>
-      </section>
-
-      {/* How to Redeem */}
-      <section className='mb-16'>
-        <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.howToRedeem.title}</h2>
-        <div className='grid gap-6 md:grid-cols-2'>
-          {translations.howToRedeem.steps.map((step: any) => (
-            <div key={`step-${step.title}`} className='rounded-lg bg-sky-50 p-6'>
-              <h3 className='mb-2 text-xl font-bold text-gray-900'>{step.title}</h3>
-              <p className='text-gray-600'>{step.description}</p>
-            </div>
-          ))}
-        </div>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.whatAreCodesTitle}</h2>
+        <p className='text-gray-600'>{translations.whatAreCodes}</p>
       </section>
 
       {/* Active Codes */}
       <section className='mb-16'>
         <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.activeCodes.title}</h2>
-        <p className='mb-4 text-gray-600'>{translations.activeCodes.description}</p>
-        <p className='mb-6 text-sm text-red-600'>{translations.activeCodes.note}</p>
+        <p className='mb-6 text-gray-600'>{translations.activeCodes.description}</p>
         <div className='overflow-hidden rounded-lg border border-gray-200'>
           <table className='min-w-full divide-y divide-gray-200'>
             <thead className='bg-gray-50'>
               <tr>
                 <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Code</th>
                 <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Reward</th>
-                <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Description</th>
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200 bg-white'>
-              {translations.activeCodes.list.map((code: any) => (
+              {translations.activeCodes.list.map((code) => (
                 <tr key={`active-${code.code}`}>
                   <td className='whitespace-nowrap px-6 py-4 font-mono text-sm font-bold text-blue-600'>{code.code}</td>
                   <td className='px-6 py-4 text-sm text-gray-900'>{code.reward}</td>
-                  <td className='px-6 py-4 text-sm text-gray-500'>{code.description}</td>
                 </tr>
               ))}
             </tbody>
@@ -125,8 +119,8 @@ export default function CodesContent({ translations }: CodesContentProps) {
 
       {/* Expired Codes */}
       <section className='mb-16'>
-        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.activeCodes.expired.title}</h2>
-        <p className='mb-6 text-gray-600'>{translations.activeCodes.expired.description}</p>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.expiredCodes.title}</h2>
+        <p className='mb-6 text-gray-600'>{translations.expiredCodes.description}</p>
         <div className='overflow-hidden rounded-lg border border-gray-200 bg-gray-50'>
           <table className='min-w-full divide-y divide-gray-200'>
             <thead className='bg-gray-100'>
@@ -136,7 +130,7 @@ export default function CodesContent({ translations }: CodesContentProps) {
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200'>
-              {translations.activeCodes.expired.list.map((code: any) => (
+              {translations.expiredCodes.list.map((code) => (
                 <tr key={`expired-${code.code}`} className='bg-gray-50'>
                   <td className='whitespace-nowrap px-6 py-4 font-mono text-sm text-gray-500'>{code.code}</td>
                   <td className='px-6 py-4 text-sm text-gray-500'>{code.reward}</td>
@@ -147,11 +141,25 @@ export default function CodesContent({ translations }: CodesContentProps) {
         </div>
       </section>
 
+      {/* How to Redeem */}
+      <section className='mb-16'>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.howToRedeem.title}</h2>
+        <p className='mb-6 text-gray-600'>{translations.howToRedeem.description}</p>
+        <div className='grid gap-6 md:grid-cols-2'>
+          {translations.howToRedeem.steps.map((step) => (
+            <div key={`step-${step.title}`} className='rounded-lg bg-sky-50 p-6'>
+              <h3 className='mb-2 text-xl font-bold text-gray-900'>{step.title}</h3>
+              <p className='text-gray-600'>{step.description}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* Tips */}
       <section className='mb-16'>
         <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.tips.title}</h2>
         <div className='grid gap-6 md:grid-cols-2'>
-          {translations.tips.list.map((tip: any) => (
+          {translations.tips.list.map((tip) => (
             <div key={`tip-${tip.title}`} className='rounded-lg bg-white p-6 shadow'>
               <h3 className='mb-2 text-xl font-bold text-gray-900'>{tip.title}</h3>
               <p className='text-gray-600'>{tip.description}</p>
@@ -160,23 +168,48 @@ export default function CodesContent({ translations }: CodesContentProps) {
         </div>
       </section>
 
-      {/* Common Issues */}
+      {/* Rewards */}
       <section className='mb-16'>
-        <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.commonIssues.title}</h2>
-        <div className='space-y-6'>
-          {translations.commonIssues.list.map((issue: any) => (
-            <div key={`issue-${issue.problem}`} className='rounded-lg bg-gray-50 p-6'>
-              <h3 className='mb-2 text-lg font-bold text-red-600'>{issue.problem}</h3>
-              <p className='text-gray-600'>{issue.solution}</p>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.rewards.title}</h2>
+        <p className='mb-6 text-gray-600'>{translations.rewards.description}</p>
+        <div className='grid gap-6 md:grid-cols-2'>
+          {translations.rewards.list.map((reward) => (
+            <div key={`reward-${reward.title}`} className='rounded-lg bg-white p-6 shadow'>
+              <h3 className='mb-2 text-xl font-bold text-gray-900'>{reward.title}</h3>
+              <p className='text-gray-600'>{reward.description}</p>
             </div>
           ))}
         </div>
       </section>
 
-      {/* Updates */}
+      {/* Finding Codes */}
+      <section className='mb-16'>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.findingCodes.title}</h2>
+        <p className='mb-6 text-gray-600'>{translations.findingCodes.description}</p>
+        <ul className='list-inside list-disc space-y-4'>
+          {translations.findingCodes.list.map((item, index) => (
+            <li key={index} className='text-gray-600'>{item}</li>
+          ))}
+        </ul>
+      </section>
+
+      {/* FAQ */}
+      <section className='mb-16'>
+        <h2 className='mb-6 text-2xl font-bold text-gray-900'>{translations.faq.title}</h2>
+        <div className='space-y-6'>
+          {translations.faq.list.map((faq) => (
+            <div key={`faq-${faq.question}`} className='rounded-lg bg-gray-50 p-6'>
+              <h3 className='mb-2 text-lg font-bold text-gray-900'>{faq.question}</h3>
+              <p className='text-gray-600'>{faq.answer}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Conclusion */}
       <section className='rounded-lg bg-sky-50 p-8'>
-        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.updates.title}</h2>
-        <p className='text-gray-600'>{translations.updates.description}</p>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.conclusion.title}</h2>
+        <p className='text-gray-600'>{translations.conclusion.description}</p>
       </section>
     </article>
   );

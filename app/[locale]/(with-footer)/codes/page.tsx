@@ -48,36 +48,44 @@ export default async function CodesPage({ params: { locale } }: Props) {
       title: t('videoSection.title'),
       description: t('videoSection.description'),
     },
-    introduction: {
-      title: t('introduction.title'),
-      description: t('introduction.description'),
-    },
-    howToRedeem: {
-      title: t('howToRedeem.title'),
-      steps: t.raw('howToRedeem.steps'),
-    },
+    whatAreCodesTitle: t('whatAreCodesTitle'),
+    whatAreCodes: t('whatAreCodes'),
     activeCodes: {
       title: t('activeCodes.title'),
       description: t('activeCodes.description'),
-      note: t('activeCodes.note'),
       list: t.raw('activeCodes.list'),
-      expired: {
-        title: t('activeCodes.expired.title'),
-        description: t('activeCodes.expired.description'),
-        list: t.raw('activeCodes.expired.list'),
-      },
+    },
+    expiredCodes: {
+      title: t('expiredCodes.title'),
+      description: t('expiredCodes.description'),
+      list: t.raw('expiredCodes.list'),
+    },
+    howToRedeem: {
+      title: t('howToRedeem.title'),
+      description: t('howToRedeem.description'),
+      steps: t.raw('howToRedeem.steps'),
     },
     tips: {
       title: t('tips.title'),
       list: t.raw('tips.list'),
     },
-    commonIssues: {
-      title: t('commonIssues.title'),
-      list: t.raw('commonIssues.list'),
+    rewards: {
+      title: t('rewards.title'),
+      description: t('rewards.description'),
+      list: t.raw('rewards.list'),
     },
-    updates: {
-      title: t('updates.title'),
-      description: t('updates.description'),
+    findingCodes: {
+      title: t('findingCodes.title'),
+      description: t('findingCodes.description'),
+      list: t.raw('findingCodes.list'),
+    },
+    faq: {
+      title: t('faq.title'),
+      list: t.raw('faq.list'),
+    },
+    conclusion: {
+      title: t('conclusion.title'),
+      description: t('conclusion.description'),
     },
   };
 
