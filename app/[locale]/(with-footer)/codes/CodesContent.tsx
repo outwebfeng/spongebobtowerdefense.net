@@ -102,7 +102,9 @@ export default function CodesContent({ translations }: CodesContentProps) {
             <thead className='bg-gray-50'>
               <tr>
                 <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Code</th>
-                <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Reward</th>
+                <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>
+                  Reward
+                </th>
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200 bg-white'>
@@ -126,7 +128,9 @@ export default function CodesContent({ translations }: CodesContentProps) {
             <thead className='bg-gray-100'>
               <tr>
                 <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Code</th>
-                <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>Previous Reward</th>
+                <th className='px-6 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500'>
+                  Previous Reward
+                </th>
               </tr>
             </thead>
             <tbody className='divide-y divide-gray-200'>
@@ -187,8 +191,13 @@ export default function CodesContent({ translations }: CodesContentProps) {
         <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.findingCodes.title}</h2>
         <p className='mb-6 text-gray-600'>{translations.findingCodes.description}</p>
         <ul className='list-inside list-disc space-y-4'>
-          {translations.findingCodes.list.map((item, index) => (
-            <li key={index} className='text-gray-600'>{item}</li>
+          {translations.findingCodes.list.map((item) => (
+            <li
+              key={`finding-code-${item.substring(0, 20).replace(/\s+/g, '-').toLowerCase()}`}
+              className='text-gray-600'
+            >
+              {item}
+            </li>
           ))}
         </ul>
       </section>
@@ -213,4 +222,4 @@ export default function CodesContent({ translations }: CodesContentProps) {
       </section>
     </article>
   );
-} 
+}
