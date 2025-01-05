@@ -1,0 +1,4 @@
+Sitemap: https://spongebobtowerdefense.net/sitemap.xml
+
+User-agent: *
+Allow: /
