@@ -1,6 +1,6 @@
-# Squid Game Thanos
+# Spongebob Tower Defense
 
-一个基于 Next.js 14 构建的多语言游戏网站，集成了 Squid Game 在线游戏。
+一个基于 Next.js 14 构建的多语言游戏指南网站，为 Roblox 平台上的《Spongebob Tower Defense》游戏提供全面的游戏攻略、代码兑换和游戏资讯。
 
 ## 技术栈
 
@@ -8,88 +8,111 @@
 - **样式**: Tailwind CSS
 - **语言**: TypeScript
 - **国际化**: next-intl
-- **代码规范**: ESLint, Prettier
-- **包管理**: npm/yarn
+- **UI组件**: 
+  - Radix UI
+  - Lucide React Icons
+  - React Icons
+- **工具库**:
+  - clsx/tailwind-merge (类名合并)
+  - dayjs (日期处理)
+  - sonner (通知提示)
+- **开发工具**: 
+  - ESLint
+  - Prettier
+  - Husky
+  - TypeScript
+- **包管理**: pnpm
 
 ## 主要特性
 
-- 🌐 多语言支持 (en, tw, jp, es, fr)
-- 🎮 集成在线游戏
+- 🌐 多语言支持 (en, fr, es, jp, ko, tw)
+- 🎮 游戏代码兑换指南
 - 📱 响应式设计
-- 🎨 现代化 UI/UX
+- 🎨 深色/浅色主题
 - 🔍 SEO 优化
-- 🚀 快速加载
+- 📊 Google Analytics 集成
+- 💻 现代化 UI/UX 设计
 
 ## 项目结构
-squidgamethanos/
+```
+spongebobtowerdefense.net/
 ├── app/ # Next.js 14 应用目录
 │ ├── [locale]/ # 多语言路由
 │ │ ├── (with-footer) # 带页脚的布局组
 │ │ └── layout.tsx # 根布局
 ├── components/ # React 组件
 │ ├── home/ # 首页相关组件
-│ └── page/ # 通用页面组件
+│ ├── video/ # 视频播放组件
+│ └── seo/ # SEO相关组件
 ├── messages/ # 多语言翻译文件
+├── lib/ # 工具函数和配置
 ├── public/ # 静态资源
-│ └── images/ # 图片资源
 └── styles/ # 全局样式
+```
+
 
 ## 核心功能
 
-1. **首页内容**
-   - Hero 区域展示游戏
-   - 游戏特性介绍
-   - 游戏玩法说明
+1. **首页功能**
+   - 游戏介绍和特性展示
+   - YouTube 视频教程嵌入
+   - 游戏特色功能介绍
    - 玩家评价展示
    - FAQ 常见问题
 
-2. **导航功能**
-   - 响应式导航菜单
-   - 平滑滚动
-   - 语言切换
+2. **代码兑换系统**
+   - 最新可用代码列表
+   - 历史代码记录
+   - 代码兑换教程
+   - 奖励说明
 
-3. **游戏集成**
-   - 内嵌游戏框架
-   - 安全沙箱配置
-   - 全屏支持
+3. **游戏攻略**
+   - 新手入门指南
+   - 进阶策略
+   - 角色介绍
+   - 地图攻略
 
 ## 开发指南
 
 ### 环境要求
 
-- Node.js 18+
-- npm 或 yarn
+- Node.js 20.x
+- pnpm 7.14.0+
 
 ### 安装
-bash
+```bash
 克隆项目
-git clone https://github.com/yourusername/squidgamethanos.git
+git clone https://github.com/yourusername/spongebobtowerdefense.net.git
 安装依赖
-cd squidgamethanos
-npm install
-或
-yarn install
+cd spongebobtowerdefense.net
+pnpm install
+```
 
 ### 开发命令
-bash
+```bash
 开发环境运行
-npm run dev
-或
-yarn dev
+pnpm dev
+代码检查
+pnpm lint
+代码格式化
+pnpm prettier
 构建项目
-npm run build
-或
-yarn build
+pnpm build
 生产环境运行
-npm run start
-或
-yarn start
+pnpm start
+```
 
 ### 环境变量
 
 创建 `.env.local` 文件并配置以下变量：
-env
-NEXT_PUBLIC_BASE_URL=your_base_url
+
+```env
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+NEXT_PUBLIC_DOMAIN_URL=spongebobtowerdefense.net
+GOOGLE_TRACKING_ID=G-XXXXXXXX
+GOOGLE_ADSENSE_URL=https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+GOOGLE_ADSENSE_ACCOUNT=ca-pub-XXXXXXXXXX
+```
 
 
 ## 国际化
@@ -97,10 +120,11 @@ NEXT_PUBLIC_BASE_URL=your_base_url
 项目使用 next-intl 进行国际化管理，支持以下语言：
 
 - 英语 (en)
-- 繁体中文 (tw)
-- 日语 (jp)
-- 西班牙语 (es)
 - 法语 (fr)
+- 西班牙语 (es)
+- 日语 (jp)
+- 韩语 (ko)
+- 繁体中文 (tw)
 
 翻译文件位于 `messages/` 目录下。
 
@@ -126,16 +150,5 @@ NEXT_PUBLIC_BASE_URL=your_base_url
 
 ## 联系方式
 
-- Website: [squidgamethanos.com](https://squidgamethanos.com)
-- Email: support@squidgamethanos.com
-
-
-
-
-
-
-
-
-
-
-
+- Website: [spongebobtowerdefense.net](https://spongebobtowerdefense.net)
+- Email: support@spongebobtowerdefense.net
