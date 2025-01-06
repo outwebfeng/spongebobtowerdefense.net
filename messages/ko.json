@@ -1,495 +1,406 @@
 {
-    "Common": {
-      "loading": "loading..."
-    },
-    "Metadata": {
-      "home": {
-        "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-        "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-        "keywords": ""
-      },
-      "about": {
-        "title": "About Jujutsu Infinite - Character Analysis and Story Background",
-        "description": "Discover the story behind Jujutsu Infinite, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
-        "keywords": ""
-      },
-      "download": {
-        "title": "Download Jujutsu Infinite Tips - Get the Ultimate Survival Game",
-        "description": "Download Jujutsu Infinite Tips now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
-        "keywords": ""
-      },
-      "codes": {
-        "title": "Jujutsu Infinite Codes - Latest Working Codes and Rewards",
-        "description": "Find all the latest working codes for Jujutsu Infinite! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
-        "keywords": ""
-      }
-    },
-    "Navigation": {
-      "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-      "logoAlt": "Jujutsu Infinite Logo",
-      "logoTitle": "Jujutsu Infinite",
-      "playNow": "Home",
-      "toggleMenu": "Toggle Menu",
-      "about": "About",
-      "download": "Download",
-      "codes": "Codes"
-    },
-    "NotFound": {
-      "title": "404 Not Found",
-      "goHome": "go home"
-    },
-    "Home": {
-      "hero": {
-        "title": "Jujutsu Infinite",
-        "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-        "playNow": "Play Now",
-        "robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
-      },
-      "videoSection": {
-        "title": "Related Videos"
-      },
-      "introduction": {
-        "title": "How to Play Jujutsu Infinite",
-        "description": "Master the basics and become a pro!",
-        "steps": [
-          {
-            "title": "Getting Started with Jujutsu Infinite",
-            "description": "To begin your journey in Jujutsu Infinite, visit the official game page on Roblox and launch the game. Customize your character and choose your innate cursed technique to gain unique powers. Familiarize yourself with the controls and interface to navigate the game effortlessly. Don’t forget to redeem the latest codes for free rewards that will give you a head start!"
-          },
-          {
-            "title": "Mastering Cursed Techniques and Gameplay Mechanics",
-            "description": "Jujutsu Infinite revolves around mastering cursed techniques and engaging in epic battles. Learn how to unlock and upgrade your skills by earning experience points through quests and battles. Experiment with different techniques to discover the best combinations for your playstyle. Stay alert during encounters and practice dodging and timing for efficient combat strategies."
-          },
-          {
-            "title": "Advancing and Unlocking Rewards",
-            "description": "Progress in the game by completing quests, defeating powerful enemies, and teaming up with other players. Earn in-game currency to unlock new abilities, gear, and upgrades. Keep an eye out for limited-time events and updates that bring exciting new content to enhance your gameplay experience. Visit our website regularly for tips, guides, and code updates to stay ahead in the game!"
-          }
-        ]
-      },
-      "features": {
-        "title": "Game Features",
-        "description": "Discover what makes Jujutsu Infinite special",
-        "list": [
-          {
-            "title": "Unique Cursed Techniques",
-            "description": "Discover and master a variety of innate cursed techniques, each with its own unique abilities and combat styles. Customize your character to suit your playstyle and dominate battles."
-          },
-          {
-            "title": "Engaging Quests and Challenges",
-            "description": "Embark on thrilling quests and face challenging enemies as you progress through the game. Complete missions to earn rewards, level up, and unlock powerful upgrades."
-          },
-          {
-            "title": "Multiplayer Battles and Collaboration",
-            "description": "Team up with friends or compete against other players in intense multiplayer battles. Test your skills in PvP combat or join forces to tackle powerful bosses."
-          },
-          {
-            "title": "Code Redemption for Free Rewards",
-            "description": "Stay ahead by redeeming codes for free rewards, including in-game currency, boosts, and exclusive items. Regular updates ensure fresh codes and exciting perks."
-          },
-          {
-            "title": "Immersive World Inspired by Jujutsu Kaisen",
-            "description": "Explore a richly designed game world inspired by the popular anime series Jujutsu Kaisen. Experience stunning visuals, dynamic environments, and thrilling gameplay."
-          },
-          {
-            "title": "Constant Updates and New Content",
-            "description": "Enjoy frequent updates that bring new features, events, and enhancements to keep the game exciting. Stay tuned for fresh challenges and unlockable rewards."
-          }
-        ]
-      },
-      "testimonials": {
-        "title": "Player Reviews",
-        "description": "See what fans are saying about Jujutsu Infinite",
-        "list": [
-          {
-            "content": "Jujutsu Infinite brings the world of Jujutsu Kaisen to life! The cursed techniques are so unique, and the battles are intense. I can't stop playing!",
-            "author": "@CursedFighter",
-            "title": "An Epic Adventure!"
-          },
-          {
-            "content": "The graphics, quests, and combat mechanics are top-notch. It feels like I'm really in the anime. Plus, the code rewards are a huge bonus!",
-            "author": "@AnimeGamerX",
-            "title": "Best Roblox Game Ever!"
-          },
-          {
-            "content": "From teaming up with friends to exploring the map, this game keeps me hooked. Unlocking new abilities is so satisfying!",
-            "author": "@QuestMaster",
-            "title": "Addictive and Fun!"
-          },
-          {
-            "content": "As a fan of the anime, I love how they've incorporated the themes into this game. It's challenging, rewarding, and super fun!",
-            "author": "@KaisenLover",
-            "title": "A Must-Play for Jujutsu Kaisen Fans!"
-          },
-          {
-            "content": "I appreciate how often the game gets updated with new codes, events, and features. There's always something new to try!",
-            "author": "@CodeHunter21",
-            "title": "Constant Updates Keep It Fresh!"
-          },
-          {
-            "content": "The game makes you think about your moves while keeping the action fast-paced. It's the perfect blend of strategy and fun!",
-            "author": "@BattleTactician",
-            "title": "Perfect Balance of Strategy and Action!"
-          }
-        ]
-      },
-      "faq": {
-        "title": "Frequently Asked Questions",
-        "description": "Got questions? We've got answers!",
-        "list": [
-          {
-            "question": "What is Jujutsu Infinite?",
-            "answer": "Jujutsu Infinite is a popular Roblox game inspired by the anime Jujutsu Kaisen. Players can master cursed techniques, complete quests, and engage in epic battles."
-          },
-          {
-            "question": "How do I play Jujutsu Infinite?",
-            "answer": "Visit the game's page on Roblox, launch it, and create your character. Follow the tutorial to learn the basics and start your journey by completing quests and battling enemies."
-          },
-          {
-            "question": "Are there any codes for Jujutsu Infinite?",
-            "answer": "Yes! Codes are regularly released and can be redeemed for rewards like in-game currency and boosts. Check our website for the latest codes."
-          },
-          {
-            "question": "How do I redeem codes in Jujutsu Infinite?",
-            "answer": "To redeem codes, open the game, navigate to the code redemption section (usually in the settings or menu), enter the code, and claim your rewards."
-          },
-          {
-            "question": "Can I play Jujutsu Infinite with friends?",
-            "answer": "Absolutely! Jujutsu Infinite supports multiplayer gameplay. You can team up with friends to complete quests and defeat bosses or challenge them in PvP battles."
-          },
-          {
-            "question": "What are cursed techniques in Jujutsu Infinite?",
-            "answer": "Cursed techniques are unique abilities that give players special powers in combat. Each technique has its own strengths and can be upgraded as you progress."
-          },
-          {
-            "question": "How do I level up my character?",
-            "answer": "You can level up by completing quests, defeating enemies, and participating in battles. Earning experience points (XP) will help you unlock new abilities and gear."
-          },
-          {
-            "question": "Are there in-game purchases in Jujutsu Infinite?",
-            "answer": "Yes, you can purchase in-game currency and items to enhance your experience. However, the game is fully playable without spending real money."
-          },
-          {
-            "question": "Is Jujutsu Infinite beginner-friendly?",
-            "answer": "Yes! The game features a tutorial for new players and plenty of guides to help you get started. Plus, codes and free rewards make it easier to progress."
-          },
-          {
-            "question": "How often is Jujutsu Infinite updated?",
-            "answer": "The developers regularly update the game with new content, events, and features. Make sure to check for updates and stay tuned for fresh challenges and rewards!"
-          }
-        ]
-      }
-    },
-    "Footer": {
-      "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-      "subTitle": "Explore the ultimate guide to Jujutsu Infinite on Roblox!",
-      "support": "Support",
-      "privacy": "Privacy Policy",
-      "termsConditions": "Terms & Conditions"
-    },
-    "FooterNavigation": {
-      "privacyPolicy": {
-        "1-h1": "Privacy Policy for Jujutsu Infinite",
-        "1-p": "Jujutsu Infinite operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
-        "2-h2": "Information Collection",
-        "2-h3-1": "Personal Data",
-        "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
-        "2-h3-2": "Non-Personal Data",
-        "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
-        "3-h2": "Data Usage",
-        "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
-        "4-h2": "Updates to This Privacy Policy",
-        "6-h2": "Contact Us",
-        "6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
-      },
-      "termsConditions": {
-        "1-h1": "Terms of Service for Jujutsu Infinite",
-        "1-p": "Welcome to Jujutsu Infinite. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Jujutsu Infinite Roblox game.",
-        "2-h2": "1. Ownership",
-        "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Jujutsu Infinite unless otherwise stated. The text content created by users remains their property.",
-        "3-h2": "2. Usage Guidelines",
-        "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
-        "4-h2": "3. Governing Law",
-        "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
-        "5-h2": "4. Changes to Terms",
-        "5-p": "Jujutsu Infinite reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
-        "6-h2": "5. Contact Information",
-        "6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
-        "last-p": "By using Jujutsu Infinite, you acknowledge that you have read and agree to these Terms of Service."
-      }
-    },
-    "About": {
-      "title": "About Jujutsu Infinite",
-      "subtitle": "Your Ultimate Guide to the World of Jujutsu Infinite",
-      "content": {
-        "introTitle": "Welcome",
-        "intro": "Welcome to the ultimate destination for everything related to Jujutsu Infinite, the thrilling Roblox game inspired by the anime masterpiece Jujutsu Kaisen. This page serves as your comprehensive guide to the world of Jujutsu Infinite, where you can explore gameplay mechanics, unique features, and the vibrant community that makes this game truly special.",
-        
-        "whatIsTitle": "What is Jujutsu Infinite?",
-        "whatIs": "Jujutsu Infinite is a popular game on Roblox that takes players into an action-packed world filled with cursed techniques, epic battles, and immersive quests. Drawing inspiration from Jujutsu Kaisen, it brings the anime's essence into a dynamic gaming experience. Whether you're a fan of the anime or new to its universe, Jujutsu Infinite offers a rich and engaging adventure for players of all skill levels.",
-        "whatIsExtra": "In the game, players embark on a journey to master cursed techniques, fight powerful enemies, and level up their characters through various challenges. With frequent updates, exciting events, and a vibrant community, Jujutsu Infinite keeps players hooked for hours of gameplay.",
-  
-        "featuresTitle": "Key Features of Jujutsu Infinite",
-        "features": {
-          "cursedTechniques": {
-            "title": "Unique Cursed Techniques",
-            "description": "At the heart of Jujutsu Infinite lies its cursed techniques. These unique abilities define your gameplay style and determine your success in battles. From long-range attacks to devastating close-combat moves, the variety of techniques ensures every player can find a style that suits them."
-          },
-          "quests": {
-            "title": "Exciting Quests and Challenges",
-            "description": "The game offers an array of quests that test your skills and reward your efforts. Completing missions not only helps you progress but also unlocks new abilities and rewards. Boss battles add an extra layer of excitement, challenging players to strategize and work as a team."
-          },
-          "multiplayer": {
-            "title": "Multiplayer Collaboration and PvP Battles",
-            "description": "Jujutsu Infinite thrives on its multiplayer mode. Join forces with friends to tackle tough challenges or test your skills against other players in thrilling PvP battles. The cooperative and competitive aspects make the game highly engaging."
-          },
-          "world": {
-            "title": "Immersive Anime-Inspired World",
-            "description": "The game's world captures the essence of Jujutsu Kaisen with stunning visuals and dynamic environments. Explore detailed landscapes, interact with NPCs, and immerse yourself in a world full of surprises."
-          },
-          "codes": {
-            "title": "Code Rewards and Freebies",
-            "description": "Players can redeem codes for free rewards like in-game currency, power boosts, and exclusive items. Regular updates ensure there are always new codes to claim, helping you stay ahead in the game."
-          },
-          "updates": {
-            "title": "Constant Updates and New Content",
-            "description": "Jujutsu Infinite developers are committed to delivering fresh content through regular updates. From new cursed techniques to special events, there's always something exciting to look forward to."
-          }
-        },
-  
-        "howToPlayTitle": "How to Play Jujutsu Infinite",
-        "howToPlay": [
-          {
-            "title": "Launch the Game",
-            "description": "Visit the official Roblox page for Jujutsu Infinite and start the game. Create your character and select your innate cursed technique."
-          },
-          {
-            "title": "Complete Quests",
-            "description": "Begin your adventure by completing quests. These missions will introduce you to the game's mechanics, help you level up, and earn rewards."
-          },
-          {
-            "title": "Master Combat Mechanics",
-            "description": "Combat is a core element of Jujutsu Infinite. Practice using your cursed techniques and hone your skills to dominate in battles."
-          },
-          {
-            "title": "Team Up or Compete",
-            "description": "Join forces with other players to take on challenging quests or test your strength in PvP battles."
-          },
-          {
-            "title": "Redeem Codes",
-            "description": "Make sure to redeem the latest codes for bonuses and exclusive items that give you an edge in the game."
-          }
-        ],
-  
-        "tipsTitle": "Tips for Success in Jujutsu Infinite",
-        "tips": [
-          {
-            "title": "Experiment with Techniques",
-            "description": "Try different cursed techniques to find the one that matches your playstyle. Experimentation is key to mastering the game."
-          },
-          {
-            "title": "Stay Updated",
-            "description": "Keep an eye on game updates and new codes. Regularly checking the official website or fan pages ensures you never miss out on valuable rewards."
-          },
-          {
-            "title": "Collaborate with Other Players",
-            "description": "Teamwork often leads to success in difficult quests. Partner with experienced players to learn advanced strategies."
-          },
-          {
-            "title": "Invest in Upgrades",
-            "description": "Use in-game currency wisely to unlock and upgrade abilities. This can give you a significant advantage in battles."
-          },
-          {
-            "title": "Participate in Events",
-            "description": "Limited-time events often provide exclusive rewards and unique gameplay experiences. Don't miss out on these opportunities."
-          }
-        ],
-  
-        "communityTitle": "The Community Behind Jujutsu Infinite",
-        "community": "The Jujutsu Infinite community is one of the most vibrant and welcoming on Roblox. Players actively share tips, strategies, and code updates on platforms like Discord and Reddit. Whether you're looking for advice, a team to join, or just some fun conversations, the community adds an extra layer of enjoyment to the game.",
-  
-        "faqTitle": "Frequently Asked Questions",
-        "faq": [
-          {
-            "question": "What is Jujutsu Infinite about?",
-            "answer": "It's a Roblox game inspired by Jujutsu Kaisen, where players master cursed techniques, complete quests, and engage in battles."
-          },
-          {
-            "question": "How do I redeem codes?",
-            "answer": "Codes can be redeemed in the game's menu. Simply enter the code in the designated field and claim your rewards."
-          },
-          {
-            "question": "Can I play with friends?",
-            "answer": "Yes! Multiplayer mode allows you to team up with friends or challenge them in PvP."
-          },
-          {
-            "question": "Are there in-game purchases?",
-            "answer": "Yes, players can purchase currency and items, though the game is fully playable without spending real money."
-          },
-          {
-            "question": "How often is the game updated?",
-            "answer": "The developers release frequent updates with new content, features, and codes."
-          }
-        ],
-  
-        "conclusionTitle": "Join the Adventure Today",
-        "conclusion": "Whether you're a fan of Jujutsu Kaisen or a gamer seeking thrilling adventures, Jujutsu Infinite delivers an unforgettable experience. From mastering cursed techniques to collaborating with a passionate community, the game offers endless excitement. Start your journey today and become a legend in the world of Jujutsu Infinite!"
-      }
-    },
-    "Codes": {
-      "title": "Jujutsu Infinite Codes",
-      "subtitle": "Get the Latest Working Codes and Rewards",
-      "videoSection": {
-        "title": "How to Redeem Codes",
-        "description": "Watch our quick guide on how to redeem codes in Jujutsu Infinite"
-      },
-      "introduction": {
-        "title": "About Jujutsu Infinite Codes",
-        "description": "Codes are special rewards provided by the game developers that can be redeemed for various in-game items, currency, and boosts. These codes are regularly released to celebrate milestones, updates, or special events. Make sure to redeem them quickly as they may expire!"
-      },
-      "howToRedeem": {
-        "title": "How to Redeem Codes",
-        "steps": [
-          {
-            "title": "1. Launch the Game",
-            "description": "Start Jujutsu Infinite on Roblox and wait for the game to fully load."
-          },
-          {
-            "title": "2. Open Code Menu",
-            "description": "Click on the Menu button (usually represented by three lines or a gear icon), then look for the 'Codes' or 'Redeem Code' option."
-          },
-          {
-            "title": "3. Enter the Code",
-            "description": "Type or paste the code exactly as shown (codes are case-sensitive). Double-check for any typos or spaces."
-          },
-          {
-            "title": "4. Claim Your Reward",
-            "description": "Click the 'Redeem' or 'Submit' button. If the code is valid, you'll receive your rewards immediately!"
-          }
-        ]
-      },
-      "activeCodes": {
-        "title": "Active Codes (Updated Regularly)",
-        "description": "Here are all the currently working codes for Jujutsu Infinite. We update this list regularly as new codes are released and old ones expire.",
-        "note": "Note: Codes are case-sensitive and must be entered exactly as shown",
-        "list": [
-          {
-            "code": "TWITTER_75_YAY",
-            "reward": "100 Spins + 1h Double EXP",
-            "description": "Twitter milestone celebration"
-          },
-          {
-            "code": "HAPPY_2025",
-            "reward": "100 Spins + 1h Double EXP + Double Mastery",
-            "description": "New Year celebration"
-          },
-          {
-            "code": "50K_FOLLOWERS",
-            "reward": "50 Spins + 1h Double EXP",
-            "description": "Social media milestone"
-          },
-          {
-            "code": "MERRY_CHRISTMAS",
-            "reward": "100 Spins",
-            "description": "Christmas celebration"
-          },
-          {
-            "code": "RELEASE",
-            "reward": "200 Spins",
-            "description": "Game release celebration"
-          }
-        ],
-        "expired": {
-          "title": "Expired Codes for Reference",
-          "description": "These codes are no longer active, but they give a sense of past rewards available in the game:",
-          "list": [
-            {
-              "code": "JJ_SHUTDOWN",
-              "reward": "25 Spins"
-            },
-            {
-              "code": "BACK_UP_AGAIN",
-              "reward": "25 Spins + 1h Double EXP"
-            },
-            {
-              "code": "TOP_SECRET",
-              "reward": "150 Spins"
-            },
-            {
-              "code": "MISSION_SHUTDOWN",
-              "reward": "50 Spins"
-            },
-            {
-              "code": "RELEASE_SHUTDOWN_SRRY",
-              "reward": "200 Spins"
-            },
-            {
-              "code": "WAVE3_PATCH",
-              "reward": "Spins"
-            },
-            {
-              "code": "WELCOME_WAVE3",
-              "reward": "Spins"
-            },
-            {
-              "code": "DIM_MAX",
-              "reward": "Spins"
-            },
-            {
-              "code": "UPDATE_3",
-              "reward": "Spins"
-            },
-            {
-              "code": "350K_YAY",
-              "reward": "Spins"
-            },
-            {
-              "code": "ROLLBACK_SRRY",
-              "reward": "Spins"
-            }
-          ]
-        }
-      },
-      "tips": {
-        "title": "Tips for Code Redemption",
-        "list": [
-          {
-            "title": "Check Regularly",
-            "description": "New codes are often released during updates, events, and milestones. Check our page regularly for the latest codes."
-          },
-          {
-            "title": "Act Quickly",
-            "description": "Codes can expire without notice. Redeem them as soon as possible to ensure you don't miss out on rewards."
-          },
-          {
-            "title": "Follow Official Channels",
-            "description": "Follow the game's official social media accounts and join their Discord server for code announcements."
-          },
-          {
-            "title": "Bookmark This Page",
-            "description": "We update our codes list regularly. Bookmark this page to stay informed about new codes and rewards."
-          }
-        ]
-      },
-      "commonIssues": {
-        "title": "Common Issues and Solutions",
-        "list": [
-          {
-            "problem": "Code Not Working",
-            "solution": "Ensure you're entering the code exactly as shown, including any capital letters or special characters. Codes are case-sensitive."
-          },
-          {
-            "problem": "Already Redeemed",
-            "solution": "Each code can only be redeemed once per account. Try a different code if you've already used this one."
-          },
-          {
-            "problem": "Code Expired",
-            "solution": "Codes eventually expire. Check our active codes section for the latest working codes."
-          }
-        ]
-      },
-      "updates": {
-        "title": "Code Updates and News",
-        "description": "We constantly monitor for new Jujutsu Infinite codes and update this page as soon as they're released. Follow us on social media or join our Discord community to get instant notifications about new codes!"
-      }
-    }
-  }
+	"Common": {
+		"loading": "로딩 중..."
+	},
+	"Metadata": {
+		"home": {
+			"title": "스폰지밥 타워 디펜스 - 코드, 팁 및 더 많은 정보 플레이 및 탐색",
+			"description": "스폰지밥 타워 디펜스를 발견하세요! 내장된 게임을 통해 플레이하고, 게임 코드, 팁, 업데이트 및 가이드를 탐색하세요. 이 흥미진진한 Roblox 모험을 위한 최고의 리소스입니다!",
+			"keywords": ""
+		},
+		"about": {
+			"title": "스폰지밥 타워 디펜스에 대하여 - 캐릭터 분석 및 스토리 배경",
+			"description": "T.O.P(최승현)가 표현한 스폰지밥 타워 디펜스의 뒷이야기를 알아보세요. 이 독특한 캐릭터의 역할, 영향 및 디스토피아 드라마와 마블의 접목에 대해 알아보세요.",
+			"keywords": ""
+		},
+		"download": {
+			"title": "스폰지밥 타워 디펜스 팁 다운로드 - 궁극의 생존 게임 얻기",
+			"description": "지금 스폰지밥 타워 디펜스 팁을 다운로드하고 짜릿한 생존 도전을 경험하세요. 우리의 게임 플레이 비디오를 시청하고 전 세계 수백만 명의 플레이어와 함께하세요!",
+			"keywords": ""
+		},
+		"codes": {
+			"title": "스폰지밥 타워 디펜스 코드 - 최신 작동 코드 및 보상",
+			"description": "스폰지밥 타워 디펜스의 최신 작동 코드를 모두 찾아보세요! 이러한 코드를 교환하여 무료 보상, 부스트 및 인게임 아이템을 얻으세요. 새 코드로 정기적으로 업데이트됩니다!",
+			"keywords": ""
+		}
+	},
+	"Navigation": {
+		"title": "스폰지밥 타워 디펜스 - 코드, 팁 및 더 많은 정보 플레이 및 탐색",
+		"logoAlt": "스폰지밥 타워 디펜스 로고",
+		"logoTitle": "스폰지밥 타워 디펜스",
+		"playNow": "홈",
+		"toggleMenu": "메뉴 전환",
+		"about": "정보",
+		"download": "다운로드",
+		"codes": "코드"
+	},
+	"NotFound": {
+		"title": "404 찾을 수 없음",
+		"goHome": "홈으로 가기"
+	},
+	"Home": {
+		"hero": {
+			"title": "스폰지밥 타워 디펜스",
+			"description": "스폰지밥 타워 디펜스를 발견하세요! 내장된 게임을 통해 플레이하고, 게임 코드, 팁, 업데이트 및 가이드를 탐색하세요. 이 흥미진진한 Roblox 모험을 위한 최고의 리소스입니다!",
+			"playNow": "지금 플레이하기",
+			"robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
+		},
+		"videoSection": {
+			"title": "관련 비디오"
+		},
+		"introduction": {
+			"title": "스폰지밥 타워 디펜스 플레이하는 법",
+			"description": "기본기를 마스터하고 프로가 되세요!",
+			"steps": [{
+				"title": "스폰지밥 타워 디펜스 시작하기",
+				"description": "스폰지밥 타워 디펜스를 시작하는 방법을 배우세요! 팀을 구성하고 비키니 바텀을 방어하며 이 Roblox 모험에서 적들의 물결을 교란하는 전략을 탐색하세요."
+			}, {
+				"title": "스폰지밥 타워 디펜스 전략 마스터하기",
+				"description": "스폰지밥 타워 디펜스를 위한 프로 팁을 밝혀내세요! 최고의 캐릭터를 선택하고, 타워를 업그레이드하고, 배치를 최적화하여 적의 물결을 괴롭히고 기지를 방어하세요."
+			}, {
+				"title": "스폰지밥 타워 디펜스에서 코드 및 파워업 잠금 해제하기",
+				"description": "스폰지밥 타워 디펜스에서 게임 플레이를 향상시키세요! 코드를 교환하여 독점 아이템을 잠금 해제하고, 손쉽게 타워 디펜스 경험을 향상하세요."
+			}]
+		},
+		"features": {
+			"title": "게임 기능",
+			"description": "스폰지밥 타워 디펜스를 특별하게 만드는 것을 알아보세요",
+			"list": [{
+				"title": "아이코닉 스폰지밥 캐릭터들",
+				"description": "스폰지밥, 패트릭, 스퀴드워드 등과 함께 플레이하세요! 각 캐릭터는 흥미로운 타워 디펜스 전투에서 비키니 바텀을 방어하기 위한 독특한 기술과 능력을 제공합니다."
+			}, {
+				"title": "짜릿한 타워 디펜스 게임 플레이",
+				"description": "빠른 타워 디펜스 재미에 뛰어들세요! 전략적으로 타워를 배치하고, 적의 물결을 물리치고, 이 액션 가득한 Roblox 게임에서 비키니 바텀을 구하세요."
+			}, {
+				"title": "비키니 바텀 및 그 너머 탐색",
+				"description": "아이코닉 스폰지밥 장소를 모험하세요! 크러스티 크랩에서 젤리피쉬 필드까지, 각각의 지역을 침략하는 적들로부터 방어하는 몰입감 있는 환경을 경험해보세요."
+			}, {
+				"title": "보상을 위한 코드 교환 시스템",
+				"description": "독점 코드를 교환하여 강력한 아이템과 캐릭터를 잠금 해제하세요! 무료 업데이트 및 보너스로 앞서 나가며 스폰지밥 타워 디펜스 여정을 향상하세요."
+			}, {
+				"title": "사용자 정의 가능한 타워 및 업그레이드",
+				"description": "업그레이드 가능한 타워로 방어력을 향상하세요! 새로운 기능을 잠금 해제하고 캐릭터를 강화하며 더 어려운 도전에 대한 완벽한 전략을 수립하세요."
+			}, {
+				"title": "정기적인 업데이트 및 이벤트",
+				"description": "정기적인 업데이트 및 이벤트로 새로운 콘텐츠를 즐기세요! 새로운 레벨, 캐릭터 및 도전 과제를 통해 스폰지밥 타워 디펜스의 재미는 결코 끝나지 않아요!"
+			}]
+		},
+		"testimonials": {
+			"title": "플레이어 리뷰",
+			"description": "스폰지밥 타워 디펜스에 대한 팬들의 의견을 확인하세요",
+			"list": [{
+				"content": "스폰지밥 타워 디펜스는 향수와 전략을 완벽하게 결합합니다. 아이코닉 캐릭터와 생동감 넘치는 비키니 바텀 덕분에 모든 레벨이 즐겁습니다!",
+				"author": "엠마 R.",
+				"title": "스폰지밥 팬"
+			}, {
+				"content": "이 게임이 제공하는 도전이 너무 마음에 들어요! 업그레이드와 코드는 게임을 신선하게 유지하며, 이벤트는 저를 다시 돌아오게 만듭니다. 강력하게 추천합니다!",
+				"author": "제이크 T.",
+				"title": "Roblox 열성팬"
+			}, {
+				"content": "부모로서, 이 게임이 아이들에게 얼마나 재미있고 매력적인지에 대해 감사하게 생각합니다. 그들은 스폰지밥을 사랑하며, 이 게임은 문제 해결 능력을 키울 수 있도록 도와줍니다.",
+				"author": "사라 L.",
+				"title": "부모 및 게이머"
+			}, {
+				"content": "전략적 게임 플레이와 친숙한 스폰지밥 설정의 조합이 절묘합니다. 모든 연령대의 플레이어에게 도전과 재미의 완벽한 균형입니다!",
+				"author": "마이크 W.",
+				"title": "캐주얼 게이머"
+			}, {
+				"content": "캐릭터와 부스트를 잠금 해제하기 위해 코드를 교환하는 것이 너무 만족스럽습니다! 개발자들은 분명히 게임을 즐겁게 만들기 위해 많은 생각을 했습니다.",
+				"author": "레이첼 H.",
+				"title": "게임 리뷰어"
+			}, {
+				"content": "단연코 최고의 Roblox 게임 중 하나입니다. 정기적인 업데이트와 창의적인 레벨 디자인이 스폰지밥 타워 디펜스를 돋보이게 만듭니다.",
+				"author": "알렉스 P.",
+				"title": "타워 디펜스 전문가"
+			}]
+		},
+		"faq": {
+			"title": "자주 묻는 질문",
+			"description": "질문이 있나요? 우리는 답변이 있습니다!",
+			"list": [{
+				"question": "스폰지밥 타워 디펜스란?",
+				"answer": "스폰지밥 타워 디펜스는 플레이어가 캐릭터와 타워를 사용하여 적의 물결로부터 비키니 바텀을 방어하는 Roblox 게임입니다."
+			}, {
+				"question": "스폰지밥 타워 디펜스를 시작하려면 어떻게 하나요?",
+				"answer": "시작하려면 Roblox의 게임 페이지로 가서 \"플레이\"를 클릭하고 게임 내 튜토리얼을 따라 타워를 배치하고 적을 방어하는 방법을 배우세요."
+			}, {
+				"question": "스폰지밥 타워 디펜스에서 코드를 어떻게 교환하나요?",
+				"answer": "게임을 열고, 메인 메뉴에서 \"코드\" 버튼을 클릭하고, 활성 코드를 입력한 후 \"교환\"을 눌러 보상을 받아가세요."
+			}, {
+				"question": "활성 스폰지밥 타워 디펜스 코드는 어디에서 찾을 수 있나요?",
+				"answer": "게임의 공식 페이지, 소셜 미디어 플랫폼 및 Sportskeeda, Eurogamer, Fandom와 같은 웹사이트에서 활성 코드를 찾을 수 있습니다."
+			}, {
+				"question": "코드가 게임에서 제공하는 보상은 무엇인가요?",
+				"answer": "코드는 일반적으로 게임 내 통화, 독점 아이템, 캐릭터 잠금 해제, 게임 플레이에 도움이 되는 부스트와 같은 보상을 제공합니다."
+			}, {
+				"question": "친구와 함께 스폰지밥 타워 디펜스를 플레이할 수 있나요?",
+				"answer": "네, 스폰지밥 타워 디펜스는 멀티플레이어 모드를 지원하여 친구와 팀을 이뤄 함께 도전을 수행할 수 있습니다."
+			}, {
+				"question": "새로운 캐릭터와 타워를 잠금 해제하려면 어떻게 하나요?",
+				"answer": "게임 내 통화를 벌거나 코드를 교환하거나 특정 도전 과제를 완료하여 새로운 캐릭터와 타워를 잠금 해제할 수 있습니다."
+			}, {
+				"question": "스폰지밥 타워 디펜스에 업데이트와 새로운 콘텐츠가 있나요?",
+				"answer": "네, 개발자들은 자주 새로운 레벨, 캐릭터, 도전 및 특별 이벤트를 포함하는 업데이트를 출시하여 게임을 흥미롭게 유지합니다."
+			}, {
+				"question": "스폰지밥 타워 디펜스에서 승리하기 위한 최고의 전략은 무엇인가요?",
+				"answer": "타워를 업그레이드하고 캐릭터를strategically 배치하며 공격과 방어의 균형을 맞춰 적의 물결을 효과적으로 처리하세요."
+			}, {
+				"question": "스폰지밥 타워 디펜스는 무료로 플레이할 수 있나요?",
+				"answer": "네, 이 게임은 Roblox에서 무료로 플레이할 수 있습니다. 그러나 게임 플레이 경험을 향상시키기 위한 선택적 인게임 구매도 가능합니다."
+			}]
+		}
+	},
+	"Footer": {
+		"title": "스폰지밥 타워 디펜스 - 코드, 팁 및 더 많은 정보 플레이 및 탐색",
+		"subTitle": "Roblox에서 스폰지밥 타워 디펜스에 대한 궁극적인 가이드를 탐색하세요!",
+		"support": "지원",
+		"privacy": "개인정보 보호정책",
+		"termsConditions": "이용 약관"
+	},
+	"FooterNavigation": {
+		"privacyPolicy": {
+			"1-h1": "스폰지밥 타워 디펜스 개인정보 보호정책",
+			"1-p": "스폰지밥 타워 디펜스는 https://spongebobtowerdefense.net 웹사이트를 운영하며, 귀하의 개인정보 보호를 위해 최선을 다합니다. 이 개인정보 보호정책은 귀하가 온라인 게임 가이드를 사용할 때 정보를 처리하는 방법을 설명합니다.",
+			"2-h2": "정보 수집",
+			"2-h3-1": "개인 데이터",
+			"2-p-1": "사용자로부터 개인 식별 정보를 수집하지 않습니다. 우리의 서비스는 개인 데이터 요구 없이 사용되도록 설계되었습니다.",
+			"2-h3-2": "비개인 데이터",
+			"2-p-3": "웹 쿠키를 통해 비개인 데이터를 수집하며, 여기에는 사용 통계 및 선호도가 포함되어 사용자 경험과 서비스 개선에 활용됩니다. 여기에는 디스플레이 설정 및 사용자 정의 선호도가 포함될 수 있습니다.",
+			"3-h2": "데이터 사용",
+			"3-p": "수집된 비개인 데이터는 오로지 우리의 웹사이트 기능을 향상시키고 사용자 경험을 개선하기 위해 사용됩니다. 제3자와 데이터를 공유하지 않습니다.",
+			"4-h2": "이 개인정보 보호정책에 대한 업데이트",
+			"6-h2": "문의하기",
+			"6-p": "이 개인정보 보호정책에 대해 질문이 있는 경우 support@spongebobtowerdefense.net으로 문의해 주세요."
+		},
+		"termsConditions": {
+			"1-h1": "스폰지밥 타워 디펜스 이용 약관",
+			"1-p": "스폰지밥 타워 디펜스에 오신 것을 환영합니다. 우리 웹사이트(https://spongebobtowerdefense.net)에 액세스함으로써 이 이용 약관에 동의하게 됩니다. 우리의 서비스는 스폰지밥 타워 디펜스 Roblox 게임을 위한 포괄적인 가이드를 제공합니다.",
+			"2-h2": "1. 소유권",
+			"2-p": "웹사이트의 모든 콘텐츠는 가이드, 팁, 코드, 디자인 요소 및 관련 자료를 포함하여 특별한 언급이 없는 한 스폰지밥 타워 디펜스의 지적 재산입니다. 사용자가 생성한 텍스트 콘텐츠는 사용자의 재산으로 남습니다.",
+			"3-h2": "2. 사용 지침",
+			"3-p": "우리의 서비스는 정보 제공 및 교육 목적으로 제공됩니다. 사용자는 자신의 행동에 대해 책임이 있으며, 서비스를 불법적이거나 해로운 용도로 사용해서는 안 됩니다.",
+			"4-h2": "3. 준거법",
+			"4-p": "이 약관은 법률의 갈등 원칙과 관계없이 적용 가능한 법률에 따라 규율됩니다.",
+			"5-h2": "4. 약관 변경",
+			"5-p": "스폰지밥 타워 디펜스는 언제든지 이 약관을 수정할 권리를 보유합니다. 변경 사항은 웹사이트에 게시되는 즉시 효력이 발생합니다. 서비스의 지속적인 사용은 변경 사항을 수용하는 것으로 간주됩니다.",
+			"6-h2": "5. 연락처 정보",
+			"6-p": "이 약관에 대해 질문이 있는 경우 support@spongebobtowerdefense.net으로 문의해 주세요.",
+			"last-p": "스폰지밥 타워 디펜스를 사용함으로써, 귀하는 이 이용 약관을 읽고 동의하였음을 인정합니다."
+		}
+	},
+	"About": {
+		"title": "스폰지밥 타워 디펜스에 대하여",
+		"subtitle": "스폰지밥 스퀘어팬츠 팬들과 타워 디펜스 애호가를 위한 궁극의 게임 경험인 스폰지밥 타워 디펜스에 오신 것을 환영합니다! 전략과 액션-packed 게임 플레이가 만나는 비키니 바텀의 생생한 수중 세계로 뛰어드세요. 숙련된 게이머이든 타워 디펜스 게임에 처음이든, 스폰지밥 타워 디펜스는 재미있는 도전 레벨과 사랑받는 캐릭터들로 가득합니다.",
+		"content": {
+			"whatIsTitle": "스폰지밥 타워 디펜스란?",
+			"whatIs": "스폰지밥 타워 디펜스는 타워 디펜스 메커니즘의 흥분과 스폰지밥 유니버스의 유머와 매력을 결합한 Roblox 기반 게임입니다. 플레이어는 전략적으로 타워를 배치하고 스폰지밥, 패트릭, 스퀴드워드와 같은 아이코닉 캐릭터를 사용하여 적의 relentless 물결로부터 비키니 바텀을 방어해야 합니다. 각 캐릭터는 독특한 능력을 가지고 있어 게임 플레이에 깊이와 다양성을 추가합니다.",
+			"whatIsExtra": "이 게임은 단순히 전투에서 승리하는 것이 아닙니다 - 비키니 바텀의 친숙한 설정, 크러스티 크랩에서 젤리피쉬 필드까지 몰입하는 것입니다. 정기적인 업데이트, 특별 이벤트 및 커뮤니티가 성장하면서 스폰지밥 타워 디펜스는 진화하고 있어 Roblox 팬들에게 필수 플레이가 되었습니다.",
+			"featuresTitle": "스폰지밥 타워 디펜스의 주요 특징",
+			"features": {
+				"characters": {
+					"title": "아이코닉 캐릭터들",
+					"description": "스폰지밥, 패트릭 등 좋아하는 캐릭터로 플레이하세요. 각 캐릭터는 방어 전략을 강화하는 독특한 능력을 제공합니다."
+				},
+				"gameplay": {
+					"title": "역동적인 타워 디펜스 게임플레이",
+					"description": "전략적으로 타워를 배치하고 업그레이드하여 적의 물결을 막고 비키니 바텀을 보호하세요."
+				},
+				"codes": {
+					"title": "보상을 위한 교환 가능한 코드",
+					"description": "코드를 교환하여 독점 보상을 잠금 해제하여 게임에서 앞서 나가세요."
+				},
+				"locations": {
+					"title": "비키니 바텀의 장소들",
+					"description": "크러스티 크랩, 구 해변 등 스폰지밥 시리즈의 아이코닉한 장소를 탐험하세요."
+				},
+				"strategies": {
+					"title": "사용자 정의 가능한 전략",
+					"description": "타워 배치, 캐릭터 조합 및 업그레이드를 실험하여 승리 전략을 만드세요."
+				},
+				"updates": {
+					"title": "정기적인 업데이트",
+					"description": "정기적인 업데이트로 새로운 레벨, 캐릭터 및 도전 과제를 즐기며 게임 플레이를 신선하고 흥미롭게 유지하세요."
+				}
+			},
+			"howToPlayTitle": "스폰지밥 타워 디펜스 플레이하는 법",
+			"howToPlay": [{
+				"title": "게임에 참여하기",
+				"description": "Roblox 플랫폼을 방문하고 \"스폰지밥 타워 디펜스\"를 검색한 후 \"플레이\"를 클릭하세요."
+			}, {
+				"title": "기본 사항 배우기",
+				"description": "게임 내 튜토리얼을 따라 타워 배치, 적의 물결 및 업그레이드를 이해하세요."
+			}, {
+				"title": "보상을 위한 코드 사용하기",
+				"description": "코드를 교환하여 귀중한 인게임 리소스를 잠금 해제하세요. 코드는 공식 플랫폼, 게임 웹사이트 또는 팬 커뮤니티에서 찾을 수 있습니다."
+			}, {
+				"title": "비키니 바텀 방어하기",
+				"description": "전략적으로 타워와 캐릭터를 배치하여 점점 더 어려워지는 적의 물결로부터 방어하세요."
+			}],
+			"popularityTitle": "왜 스폰지밥 타워 디펜스가 이렇게 인기 있나요?",
+			"popularity": [{
+				"title": "향수",
+				"description": "스폰지밥 시리즈의 팬들은 좋아하는 캐릭터와 장소가 인터랙티브 형식으로 살아나는 것을 사랑합니다."
+			}, {
+				"title": "전략적 게임플레이",
+				"description": "이 게임은 재미와 두뇌를 결합하며 플레이어가 타워 배치와 업그레이드에 대해 비판적으로 생각해야 합니다."
+			}, {
+				"title": "커뮤니티 참여",
+				"description": "강력한 팬 기반과 정기적인 업데이트로 이 게임은 커뮤니티와 흥분을 불러일으킵니다."
+			}, {
+				"title": "무료 플레이 액세스",
+				"description": "Roblox에서 무료이기 때문에 광범위한 청중이 이용할 수 있으며, 선택적 인게임 구매는 추가 콘텐츠를 원하는 사람들을 제공합니다."
+			}],
+			"codesTitle": "스폰지밥 타워 디펜스에서 코드 교환하기",
+			"codes": "스폰지밥 타워 디펜스의 가장 흥미로운 특징 중 하나는 인게임 보상을 위한 코드 교환 능력입니다. 코드는 업그레이드를 구매하고 독점 캐릭터나 아이템, 도전을 도와주는 부스트와 같은 인게임 통화를 제공할 수 있습니다. 코드를 교환하려면 게임 메뉴에서 \"코드\" 버튼을 클릭하고 코드를 입력한 후 보상을 즐기세요. 최신 코드를 정기적으로 공식 소스 및 커뮤니티 플랫폼에서 확인하세요!",
+			"tipsTitle": "스폰지밥 타워 디펜스를 위한 팁과 전략",
+			"tips": [{
+				"title": "타워를 현명하게 업그레이드하세요",
+				"description": "기본 전략에 부합하는 타워를 업그레이드하세요."
+			}, {
+				"title": "캐릭터를 전략적으로 배치하세요",
+				"description": "캐릭터가 능력을 최대화할 수 있는 위치에 배치하세요."
+			}, {
+				"title": "업데이트를 주시하세요",
+				"description": "새로운 콘텐츠에는 종종 더 강력한 캐릭터와 더 좋은 보상이 포함됩니다."
+			}, {
+				"title": "친구와 함께하세요",
+				"description": "멀티플레이어 모드를 통해 친구와 팀을 이루어 더욱 도전적인 전투를 경험하세요."
+			}, {
+				"title": "실험하세요",
+				"description": "타워와 캐릭터의 다양한 조합을 시도하여 새로운 승리 전략을 발견하세요."
+			}],
+			"communityTitle": "커뮤니티 및 업데이트",
+			"community": "스폰지밥 타워 디펜스 커뮤니티는 활기차고 계속 성장하고 있습니다. 팬 포럼에 가입하고, 논의에 참여하며, 동료 플레이어와 전략을 공유하세요. 개발자들은 새로운 캐릭터, 레벨 및 특별 이벤트를 도입하는 정기적인 업데이트로 게임을 흥미롭게 유지하기 위해 최선을 다하고 있습니다.",
+			"conclusionTitle": "스폰지밥 타워 디펜스에 참여하세요",
+			"conclusion": "당신이 캐주얼 플레이어이든 경쟁적인 게이머이든, 스폰지밥 타워 디펜스는 다른 게임과는 비교할 수 없는 경험을 제공합니다. 비키니 바텀의 수중 세계로 뛰어들어 적으로부터 방어하고, 이 몰입감 있는 Roblox 게임 속에서 당신의 좋아하는 스폰지밥 순간을 재현하세요. 지금 플레이하여 비키니 바텀의 영웅이 되세요!"
+		}
+	},
+	"Codes": {
+		"title": "스폰지밥 타워 디펜스 코드",
+		"subtitle": "스폰지밥 타워 디펜스 코드에 대한 궁극적인 가이드에 오신 것을 환영합니다! 이 흥미진진한 Roblox 게임의 팬이라면 좋은 곳에 오셨습니다. 여기에는 활성 및 만료된 코드의 전체 목록, 사용 방법 설명 및 보상을 극대화하는 팁이 제공됩니다. 신규 플레이어든 경험이 많은 전략가든, 이러한 코드는 비키니 바텀을 방어하는 데 도움이 됩니다.",
+		"whatAreCodesTitle": "스폰지밥 타워 디펜스 코드는 무엇인가요?",
+		"whatAreCodes": "스폰지밥 타워 디펜스 코드는 게임 개발자가 제공하는 특별한 교환 가능한 문자열입니다. 이러한 코드는 종종 이정표, 업데이트 또는 특별 이벤트 중에 출시되며, 가치 있는 인게임 보상을 제공합니다. 이러한 코드를 사용하여 플레이어는 자원, 부스트 및 독점 아이템에 접근할 수 있어 빠르게 진행하고 독특한 게임 요소를 즐길 수 있습니다.",
+		"activeCodes": {
+			"title": "활성 스폰지밥 타워 디펜스 코드",
+			"description": "아래는 현재 활성 스폰지밥 타워 디펜스 코드입니다. 가능한 한 빨리 교환하세요, 왜냐하면 언제 만료될 수 있기 때문입니다.",
+			"list": [{
+				"code": "OPCodeForReal",
+				"reward": "2000 젬, 5 마법 조개, 5 특성 재조정"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000 젬 및 1 x2 젬"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 노화된 패티, 2 x2 XP, 및 1 x2 젬"
+			}]
+		},
+		"expiredCodes": {
+			"title": "만료된 스폰지밥 타워 디펜스 코드",
+			"description": "다음 코드는 더 이상 활성화되지 않지만 예전의 보상 유형을 보여줍니다. 향후 코드에서도 유사한 보상을 주의 깊게 살펴보세요!",
+			"list": [{
+				"code": "100KGoofyGoobers",
+				"reward": "10 이쁜 패티, 5 특성 재조정, 및 2 마법 조개"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000 젬"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5 특성 재조정 및 2 마법 조개"
+			}, {
+				"code": "OneUp",
+				"reward": "5 이쁜 패티, 3 노화된 패티, 및 x2 XP"
+			}, {
+				"code": "25KHooray",
+				"reward": "500 젬, 3 특성 재조정, 및 1 마법 조개"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2 특성 재조정"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "명절 테마의 보상"
+			}]
+		},
+		"howToRedeem": {
+			"title": "스폰지밥 타워 디펜스 코드 교환하는 방법",
+			"description": "스폰지밥 타워 디펜스에서 코드를 교환하는 것은 빠르고 쉬운 일입니다. 다음 단계를 따라 보상을_claim하세요:",
+			"steps": [{
+				"title": "게임 시작하기",
+				"description": "Roblox에서 스폰지밥 타워 디펜스를 엽니다."
+			}, {
+				"title": "코드 버튼 찾기",
+				"description": "메인 메뉴에서 화면 왼쪽에 위치한 \"코드\" 버튼을 찾습니다."
+			}, {
+				"title": "코드 입력하기",
+				"description": "코드 버튼을 클릭하고 코드 입력란에 코드를 정확히 입력한 후 (코드는 대소문자를 구분합니다) \"교환\"을 클릭합니다."
+			}, {
+				"title": "보상 받기",
+				"description": "한번 교환되면 보상이 즉시 당신의 계정에 추가됩니다."
+			}]
+		},
+		"tips": {
+			"title": "코드 교환 팁",
+			"list": [{
+				"title": "신속하게 행동하세요",
+				"description": "코드는 제한된 수명이 있습니다, 따라서 찾은 즉시 사용하세요."
+			}, {
+				"title": "오타 확인하기",
+				"description": "코드는 대소문자를 구분합니다. 제공된 대로 정확하게 입력했는지 확인하세요."
+			}, {
+				"title": "업데이트를 주시하세요",
+				"description": "새로운 코드가 출시될 때 공식 게임 채널 및 팬 커뮤니티를 팔로우하세요."
+			}, {
+				"title": "신뢰할 수 있는 소스 즐겨찾기",
+				"description": "웹사이트 및 포럼에서 최신 코드를 게시하므로 놓치지 않도록 하세요."
+			}]
+		},
+		"rewards": {
+			"title": "어떤 보상을 받을 수 있나요?",
+			"description": "스폰지밥 타워 디펜스 코드에서 받는 보상은 다양하지만 모두 게임 경험을 향상시키도록 설계되었습니다. 다음과 같은 것을 기대할 수 있습니다:",
+			"list": [{
+				"title": "젬",
+				"description": "이것을 사용하여 캐릭터를 잠금 해제하고, 업그레이드를 구매하고, 게임 플레이를 향상시킬 수 있습니다."
+			}, {
+				"title": "특성 재조정",
+				"description": "캐릭터의 능력을 개선하기 위해 특성을 재조정하여 더 나은 통계나 효과를 얻으세요."
+			}, {
+				"title": "부스트",
+				"description": "XP, 젬 또는 기타 자원을 위해 일시적인 곱셈기를 제공하여 진행을 더 빠르게 도와줍니다."
+			}, {
+				"title": "독점 아이템",
+				"description": "일반 게임 플레이를 통해 사용할 수 없는 한정판 스킨, 특별 무기 또는 독특한 타워."
+			}, {
+				"title": "마법 조개",
+				"description": "프리미엄 콘텐츠 잠금 해제 또는 전략을 강화하는 데 사용할 수 있는 희귀 자원."
+			}]
+		},
+		"findingCodes": {
+			"title": "새로운 스폰지밥 타워 디펜스 코드 찾는 방법",
+			"description": "새로운 코드를 따라가는 것은 게임에서 앞서 나가기 위해 필수적입니다. 이를 찾기 위한 몇 가지 팁은 다음과 같습니다:",
+			"list": ["공식 채널 팔로우: 개발자들은 종종 게임의 Roblox 페이지, Twitter 또는 Discord 서버에 새 코드를 게시합니다.", "팬 커뮤니티 가입: 많은 팬 포럼 및 소셜 미디어 그룹이 코드와 팁을 공유합니다.", "업데이트를 정기적으로 확인하세요: 코드가 게임 업데이트나 이벤트 중에 자주 출시됩니다.", "이정표 모니터링: 게임이 특정 플레이어 수나 기념일과 같은 이정표에 도달할 때 개발자는 커뮤니티를 보상하기 위해 코드를 제공합니다."]
+		},
+		"faq": {
+			"title": "자주 묻는 질문",
+			"list": [{
+				"question": "얼마나 자주 새로운 코드가 출시되나요?",
+				"answer": "코드는 일반적으로 업데이트, 이벤트 중에 또는 게임이 특정 수의 플레이어 수를 달성할 때 출시됩니다."
+			}, {
+				"question": "내 코드가 작동하지 않는 이유는 무엇인가요?",
+				"answer": "오타가 없는지 확인하고 해당 코드가 만료되지 않았는지 확인하세요. 일부 코드는 대소문자를 구분하므로 정확성이 중요합니다."
+			}, {
+				"question": "하나의 코드를 여러 번 사용할 수 있나요?",
+				"answer": "아니요, 각 코드는 계정당 한 번만 사용할 수 있습니다."
+			}, {
+				"question": "코드를 사용하는 데 비용이 드나요?",
+				"answer": "아니요, 코드는 무료이며 모든 플레이어가 사용할 수 있습니다. 이는 개발자가 커뮤니티를 보상하는 방법입니다."
+			}]
+		},
+		"conclusion": {
+			"title": "왜 스폰지밥 타워 디펜스 코드를 사용해야 하나요?",
+			"description": "코드는 스폰지밥 타워 디펜스에서 게임 경험을 향상시킬 수 있는 훌륭한 방법입니다. 무료 자원, 잠금 해제 항목 및 향상 효과를 제공하여 플레이어가 더 빨리 진행하고 독특한 콘텐츠를 즐길 수 있도록 해 줍니다. 코드를 정기적으로 교환함으로써 경쟁력을 유지하고 게임의 모든 잠재력을 탐색할 수 있습니다."
+		},
+		"videoSection": {
+			"title": "코드를 교환하는 방법",
+			"description": "스폰지밥 타워 디펜스에서 코드를 교환하는 방법에 대한 빠른 가이드를 시청하세요."
+		}
+	}
+}

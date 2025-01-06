@@ -1,495 +1,406 @@
 {
-  "Common": {
-    "loading": "loading..."
-  },
-  "Metadata": {
-    "home": {
-      "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "keywords": ""
-    },
-    "about": {
-      "title": "About Jujutsu Infinite - Character Analysis and Story Background",
-      "description": "Discover the story behind Jujutsu Infinite, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
-      "keywords": ""
-    },
-    "download": {
-      "title": "Download Jujutsu Infinite Tips - Get the Ultimate Survival Game",
-      "description": "Download Jujutsu Infinite Tips now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
-      "keywords": ""
-    },
-    "codes": {
-      "title": "Jujutsu Infinite Codes - Latest Working Codes and Rewards",
-      "description": "Find all the latest working codes for Jujutsu Infinite! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
-      "keywords": ""
-    }
-  },
-  "Navigation": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "logoAlt": "Jujutsu Infinite Logo",
-    "logoTitle": "Jujutsu Infinite",
-    "playNow": "Home",
-    "toggleMenu": "Toggle Menu",
-    "about": "About",
-    "download": "Download",
-    "codes": "Codes"
-  },
-  "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
-  },
-  "Home": {
-    "hero": {
-      "title": "Jujutsu Infinite",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "playNow": "Play Now",
-      "robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
-    },
-    "videoSection": {
-      "title": "Related Videos"
-    },
-    "introduction": {
-      "title": "How to Play Jujutsu Infinite",
-      "description": "Master the basics and become a pro!",
-      "steps": [
-        {
-          "title": "Getting Started with Jujutsu Infinite",
-          "description": "To begin your journey in Jujutsu Infinite, visit the official game page on Roblox and launch the game. Customize your character and choose your innate cursed technique to gain unique powers. Familiarize yourself with the controls and interface to navigate the game effortlessly. Don’t forget to redeem the latest codes for free rewards that will give you a head start!"
-        },
-        {
-          "title": "Mastering Cursed Techniques and Gameplay Mechanics",
-          "description": "Jujutsu Infinite revolves around mastering cursed techniques and engaging in epic battles. Learn how to unlock and upgrade your skills by earning experience points through quests and battles. Experiment with different techniques to discover the best combinations for your playstyle. Stay alert during encounters and practice dodging and timing for efficient combat strategies."
-        },
-        {
-          "title": "Advancing and Unlocking Rewards",
-          "description": "Progress in the game by completing quests, defeating powerful enemies, and teaming up with other players. Earn in-game currency to unlock new abilities, gear, and upgrades. Keep an eye out for limited-time events and updates that bring exciting new content to enhance your gameplay experience. Visit our website regularly for tips, guides, and code updates to stay ahead in the game!"
-        }
-      ]
-    },
-    "features": {
-      "title": "Game Features",
-      "description": "Discover what makes Jujutsu Infinite special",
-      "list": [
-        {
-          "title": "Unique Cursed Techniques",
-          "description": "Discover and master a variety of innate cursed techniques, each with its own unique abilities and combat styles. Customize your character to suit your playstyle and dominate battles."
-        },
-        {
-          "title": "Engaging Quests and Challenges",
-          "description": "Embark on thrilling quests and face challenging enemies as you progress through the game. Complete missions to earn rewards, level up, and unlock powerful upgrades."
-        },
-        {
-          "title": "Multiplayer Battles and Collaboration",
-          "description": "Team up with friends or compete against other players in intense multiplayer battles. Test your skills in PvP combat or join forces to tackle powerful bosses."
-        },
-        {
-          "title": "Code Redemption for Free Rewards",
-          "description": "Stay ahead by redeeming codes for free rewards, including in-game currency, boosts, and exclusive items. Regular updates ensure fresh codes and exciting perks."
-        },
-        {
-          "title": "Immersive World Inspired by Jujutsu Kaisen",
-          "description": "Explore a richly designed game world inspired by the popular anime series Jujutsu Kaisen. Experience stunning visuals, dynamic environments, and thrilling gameplay."
-        },
-        {
-          "title": "Constant Updates and New Content",
-          "description": "Enjoy frequent updates that bring new features, events, and enhancements to keep the game exciting. Stay tuned for fresh challenges and unlockable rewards."
-        }
-      ]
-    },
-    "testimonials": {
-      "title": "Player Reviews",
-      "description": "See what fans are saying about Jujutsu Infinite",
-      "list": [
-        {
-          "content": "Jujutsu Infinite brings the world of Jujutsu Kaisen to life! The cursed techniques are so unique, and the battles are intense. I can't stop playing!",
-          "author": "@CursedFighter",
-          "title": "An Epic Adventure!"
-        },
-        {
-          "content": "The graphics, quests, and combat mechanics are top-notch. It feels like I'm really in the anime. Plus, the code rewards are a huge bonus!",
-          "author": "@AnimeGamerX",
-          "title": "Best Roblox Game Ever!"
-        },
-        {
-          "content": "From teaming up with friends to exploring the map, this game keeps me hooked. Unlocking new abilities is so satisfying!",
-          "author": "@QuestMaster",
-          "title": "Addictive and Fun!"
-        },
-        {
-          "content": "As a fan of the anime, I love how they've incorporated the themes into this game. It's challenging, rewarding, and super fun!",
-          "author": "@KaisenLover",
-          "title": "A Must-Play for Jujutsu Kaisen Fans!"
-        },
-        {
-          "content": "I appreciate how often the game gets updated with new codes, events, and features. There's always something new to try!",
-          "author": "@CodeHunter21",
-          "title": "Constant Updates Keep It Fresh!"
-        },
-        {
-          "content": "The game makes you think about your moves while keeping the action fast-paced. It's the perfect blend of strategy and fun!",
-          "author": "@BattleTactician",
-          "title": "Perfect Balance of Strategy and Action!"
-        }
-      ]
-    },
-    "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Got questions? We've got answers!",
-      "list": [
-        {
-          "question": "What is Jujutsu Infinite?",
-          "answer": "Jujutsu Infinite is a popular Roblox game inspired by the anime Jujutsu Kaisen. Players can master cursed techniques, complete quests, and engage in epic battles."
-        },
-        {
-          "question": "How do I play Jujutsu Infinite?",
-          "answer": "Visit the game's page on Roblox, launch it, and create your character. Follow the tutorial to learn the basics and start your journey by completing quests and battling enemies."
-        },
-        {
-          "question": "Are there any codes for Jujutsu Infinite?",
-          "answer": "Yes! Codes are regularly released and can be redeemed for rewards like in-game currency and boosts. Check our website for the latest codes."
-        },
-        {
-          "question": "How do I redeem codes in Jujutsu Infinite?",
-          "answer": "To redeem codes, open the game, navigate to the code redemption section (usually in the settings or menu), enter the code, and claim your rewards."
-        },
-        {
-          "question": "Can I play Jujutsu Infinite with friends?",
-          "answer": "Absolutely! Jujutsu Infinite supports multiplayer gameplay. You can team up with friends to complete quests and defeat bosses or challenge them in PvP battles."
-        },
-        {
-          "question": "What are cursed techniques in Jujutsu Infinite?",
-          "answer": "Cursed techniques are unique abilities that give players special powers in combat. Each technique has its own strengths and can be upgraded as you progress."
-        },
-        {
-          "question": "How do I level up my character?",
-          "answer": "You can level up by completing quests, defeating enemies, and participating in battles. Earning experience points (XP) will help you unlock new abilities and gear."
-        },
-        {
-          "question": "Are there in-game purchases in Jujutsu Infinite?",
-          "answer": "Yes, you can purchase in-game currency and items to enhance your experience. However, the game is fully playable without spending real money."
-        },
-        {
-          "question": "Is Jujutsu Infinite beginner-friendly?",
-          "answer": "Yes! The game features a tutorial for new players and plenty of guides to help you get started. Plus, codes and free rewards make it easier to progress."
-        },
-        {
-          "question": "How often is Jujutsu Infinite updated?",
-          "answer": "The developers regularly update the game with new content, events, and features. Make sure to check for updates and stay tuned for fresh challenges and rewards!"
-        }
-      ]
-    }
-  },
-  "Footer": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "subTitle": "Explore the ultimate guide to Jujutsu Infinite on Roblox!",
-    "support": "Support",
-    "privacy": "Privacy Policy",
-    "termsConditions": "Terms & Conditions"
-  },
-  "FooterNavigation": {
-    "privacyPolicy": {
-      "1-h1": "Privacy Policy for Jujutsu Infinite",
-      "1-p": "Jujutsu Infinite operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
-      "2-h2": "Information Collection",
-      "2-h3-1": "Personal Data",
-      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
-      "2-h3-2": "Non-Personal Data",
-      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
-      "3-h2": "Data Usage",
-      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
-      "4-h2": "Updates to This Privacy Policy",
-      "6-h2": "Contact Us",
-      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
-    },
-    "termsConditions": {
-      "1-h1": "Terms of Service for Jujutsu Infinite",
-      "1-p": "Welcome to Jujutsu Infinite. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Jujutsu Infinite Roblox game.",
-      "2-h2": "1. Ownership",
-      "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Jujutsu Infinite unless otherwise stated. The text content created by users remains their property.",
-      "3-h2": "2. Usage Guidelines",
-      "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
-      "4-h2": "3. Governing Law",
-      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
-      "5-h2": "4. Changes to Terms",
-      "5-p": "Jujutsu Infinite reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
-      "6-h2": "5. Contact Information",
-      "6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
-      "last-p": "By using Jujutsu Infinite, you acknowledge that you have read and agree to these Terms of Service."
-    }
-  },
-  "About": {
-    "title": "About Jujutsu Infinite",
-    "subtitle": "Your Ultimate Guide to the World of Jujutsu Infinite",
-    "content": {
-      "introTitle": "Welcome",
-      "intro": "Welcome to the ultimate destination for everything related to Jujutsu Infinite, the thrilling Roblox game inspired by the anime masterpiece Jujutsu Kaisen. This page serves as your comprehensive guide to the world of Jujutsu Infinite, where you can explore gameplay mechanics, unique features, and the vibrant community that makes this game truly special.",
-      
-      "whatIsTitle": "What is Jujutsu Infinite?",
-      "whatIs": "Jujutsu Infinite is a popular game on Roblox that takes players into an action-packed world filled with cursed techniques, epic battles, and immersive quests. Drawing inspiration from Jujutsu Kaisen, it brings the anime's essence into a dynamic gaming experience. Whether you're a fan of the anime or new to its universe, Jujutsu Infinite offers a rich and engaging adventure for players of all skill levels.",
-      "whatIsExtra": "In the game, players embark on a journey to master cursed techniques, fight powerful enemies, and level up their characters through various challenges. With frequent updates, exciting events, and a vibrant community, Jujutsu Infinite keeps players hooked for hours of gameplay.",
-
-      "featuresTitle": "Key Features of Jujutsu Infinite",
-      "features": {
-        "cursedTechniques": {
-          "title": "Unique Cursed Techniques",
-          "description": "At the heart of Jujutsu Infinite lies its cursed techniques. These unique abilities define your gameplay style and determine your success in battles. From long-range attacks to devastating close-combat moves, the variety of techniques ensures every player can find a style that suits them."
-        },
-        "quests": {
-          "title": "Exciting Quests and Challenges",
-          "description": "The game offers an array of quests that test your skills and reward your efforts. Completing missions not only helps you progress but also unlocks new abilities and rewards. Boss battles add an extra layer of excitement, challenging players to strategize and work as a team."
-        },
-        "multiplayer": {
-          "title": "Multiplayer Collaboration and PvP Battles",
-          "description": "Jujutsu Infinite thrives on its multiplayer mode. Join forces with friends to tackle tough challenges or test your skills against other players in thrilling PvP battles. The cooperative and competitive aspects make the game highly engaging."
-        },
-        "world": {
-          "title": "Immersive Anime-Inspired World",
-          "description": "The game's world captures the essence of Jujutsu Kaisen with stunning visuals and dynamic environments. Explore detailed landscapes, interact with NPCs, and immerse yourself in a world full of surprises."
-        },
-        "codes": {
-          "title": "Code Rewards and Freebies",
-          "description": "Players can redeem codes for free rewards like in-game currency, power boosts, and exclusive items. Regular updates ensure there are always new codes to claim, helping you stay ahead in the game."
-        },
-        "updates": {
-          "title": "Constant Updates and New Content",
-          "description": "Jujutsu Infinite developers are committed to delivering fresh content through regular updates. From new cursed techniques to special events, there's always something exciting to look forward to."
-        }
-      },
-
-      "howToPlayTitle": "How to Play Jujutsu Infinite",
-      "howToPlay": [
-        {
-          "title": "Launch the Game",
-          "description": "Visit the official Roblox page for Jujutsu Infinite and start the game. Create your character and select your innate cursed technique."
-        },
-        {
-          "title": "Complete Quests",
-          "description": "Begin your adventure by completing quests. These missions will introduce you to the game's mechanics, help you level up, and earn rewards."
-        },
-        {
-          "title": "Master Combat Mechanics",
-          "description": "Combat is a core element of Jujutsu Infinite. Practice using your cursed techniques and hone your skills to dominate in battles."
-        },
-        {
-          "title": "Team Up or Compete",
-          "description": "Join forces with other players to take on challenging quests or test your strength in PvP battles."
-        },
-        {
-          "title": "Redeem Codes",
-          "description": "Make sure to redeem the latest codes for bonuses and exclusive items that give you an edge in the game."
-        }
-      ],
-
-      "tipsTitle": "Tips for Success in Jujutsu Infinite",
-      "tips": [
-        {
-          "title": "Experiment with Techniques",
-          "description": "Try different cursed techniques to find the one that matches your playstyle. Experimentation is key to mastering the game."
-        },
-        {
-          "title": "Stay Updated",
-          "description": "Keep an eye on game updates and new codes. Regularly checking the official website or fan pages ensures you never miss out on valuable rewards."
-        },
-        {
-          "title": "Collaborate with Other Players",
-          "description": "Teamwork often leads to success in difficult quests. Partner with experienced players to learn advanced strategies."
-        },
-        {
-          "title": "Invest in Upgrades",
-          "description": "Use in-game currency wisely to unlock and upgrade abilities. This can give you a significant advantage in battles."
-        },
-        {
-          "title": "Participate in Events",
-          "description": "Limited-time events often provide exclusive rewards and unique gameplay experiences. Don't miss out on these opportunities."
-        }
-      ],
-
-      "communityTitle": "The Community Behind Jujutsu Infinite",
-      "community": "The Jujutsu Infinite community is one of the most vibrant and welcoming on Roblox. Players actively share tips, strategies, and code updates on platforms like Discord and Reddit. Whether you're looking for advice, a team to join, or just some fun conversations, the community adds an extra layer of enjoyment to the game.",
-
-      "faqTitle": "Frequently Asked Questions",
-      "faq": [
-        {
-          "question": "What is Jujutsu Infinite about?",
-          "answer": "It's a Roblox game inspired by Jujutsu Kaisen, where players master cursed techniques, complete quests, and engage in battles."
-        },
-        {
-          "question": "How do I redeem codes?",
-          "answer": "Codes can be redeemed in the game's menu. Simply enter the code in the designated field and claim your rewards."
-        },
-        {
-          "question": "Can I play with friends?",
-          "answer": "Yes! Multiplayer mode allows you to team up with friends or challenge them in PvP."
-        },
-        {
-          "question": "Are there in-game purchases?",
-          "answer": "Yes, players can purchase currency and items, though the game is fully playable without spending real money."
-        },
-        {
-          "question": "How often is the game updated?",
-          "answer": "The developers release frequent updates with new content, features, and codes."
-        }
-      ],
-
-      "conclusionTitle": "Join the Adventure Today",
-      "conclusion": "Whether you're a fan of Jujutsu Kaisen or a gamer seeking thrilling adventures, Jujutsu Infinite delivers an unforgettable experience. From mastering cursed techniques to collaborating with a passionate community, the game offers endless excitement. Start your journey today and become a legend in the world of Jujutsu Infinite!"
-    }
-  },
-  "Codes": {
-    "title": "Jujutsu Infinite Codes",
-    "subtitle": "Get the Latest Working Codes and Rewards",
-    "videoSection": {
-      "title": "How to Redeem Codes",
-      "description": "Watch our quick guide on how to redeem codes in Jujutsu Infinite"
-    },
-    "introduction": {
-      "title": "About Jujutsu Infinite Codes",
-      "description": "Codes are special rewards provided by the game developers that can be redeemed for various in-game items, currency, and boosts. These codes are regularly released to celebrate milestones, updates, or special events. Make sure to redeem them quickly as they may expire!"
-    },
-    "howToRedeem": {
-      "title": "How to Redeem Codes",
-      "steps": [
-        {
-          "title": "1. Launch the Game",
-          "description": "Start Jujutsu Infinite on Roblox and wait for the game to fully load."
-        },
-        {
-          "title": "2. Open Code Menu",
-          "description": "Click on the Menu button (usually represented by three lines or a gear icon), then look for the 'Codes' or 'Redeem Code' option."
-        },
-        {
-          "title": "3. Enter the Code",
-          "description": "Type or paste the code exactly as shown (codes are case-sensitive). Double-check for any typos or spaces."
-        },
-        {
-          "title": "4. Claim Your Reward",
-          "description": "Click the 'Redeem' or 'Submit' button. If the code is valid, you'll receive your rewards immediately!"
-        }
-      ]
-    },
-    "activeCodes": {
-      "title": "Active Codes (Updated Regularly)",
-      "description": "Here are all the currently working codes for Jujutsu Infinite. We update this list regularly as new codes are released and old ones expire.",
-      "note": "Note: Codes are case-sensitive and must be entered exactly as shown",
-      "list": [
-        {
-          "code": "TWITTER_75_YAY",
-          "reward": "100 Spins + 1h Double EXP",
-          "description": "Twitter milestone celebration"
-        },
-        {
-          "code": "HAPPY_2025",
-          "reward": "100 Spins + 1h Double EXP + Double Mastery",
-          "description": "New Year celebration"
-        },
-        {
-          "code": "50K_FOLLOWERS",
-          "reward": "50 Spins + 1h Double EXP",
-          "description": "Social media milestone"
-        },
-        {
-          "code": "MERRY_CHRISTMAS",
-          "reward": "100 Spins",
-          "description": "Christmas celebration"
-        },
-        {
-          "code": "RELEASE",
-          "reward": "200 Spins",
-          "description": "Game release celebration"
-        }
-      ],
-      "expired": {
-        "title": "Expired Codes for Reference",
-        "description": "These codes are no longer active, but they give a sense of past rewards available in the game:",
-        "list": [
-          {
-            "code": "JJ_SHUTDOWN",
-            "reward": "25 Spins"
-          },
-          {
-            "code": "BACK_UP_AGAIN",
-            "reward": "25 Spins + 1h Double EXP"
-          },
-          {
-            "code": "TOP_SECRET",
-            "reward": "150 Spins"
-          },
-          {
-            "code": "MISSION_SHUTDOWN",
-            "reward": "50 Spins"
-          },
-          {
-            "code": "RELEASE_SHUTDOWN_SRRY",
-            "reward": "200 Spins"
-          },
-          {
-            "code": "WAVE3_PATCH",
-            "reward": "Spins"
-          },
-          {
-            "code": "WELCOME_WAVE3",
-            "reward": "Spins"
-          },
-          {
-            "code": "DIM_MAX",
-            "reward": "Spins"
-          },
-          {
-            "code": "UPDATE_3",
-            "reward": "Spins"
-          },
-          {
-            "code": "350K_YAY",
-            "reward": "Spins"
-          },
-          {
-            "code": "ROLLBACK_SRRY",
-            "reward": "Spins"
-          }
-        ]
-      }
-    },
-    "tips": {
-      "title": "Tips for Code Redemption",
-      "list": [
-        {
-          "title": "Check Regularly",
-          "description": "New codes are often released during updates, events, and milestones. Check our page regularly for the latest codes."
-        },
-        {
-          "title": "Act Quickly",
-          "description": "Codes can expire without notice. Redeem them as soon as possible to ensure you don't miss out on rewards."
-        },
-        {
-          "title": "Follow Official Channels",
-          "description": "Follow the game's official social media accounts and join their Discord server for code announcements."
-        },
-        {
-          "title": "Bookmark This Page",
-          "description": "We update our codes list regularly. Bookmark this page to stay informed about new codes and rewards."
-        }
-      ]
-    },
-    "commonIssues": {
-      "title": "Common Issues and Solutions",
-      "list": [
-        {
-          "problem": "Code Not Working",
-          "solution": "Ensure you're entering the code exactly as shown, including any capital letters or special characters. Codes are case-sensitive."
-        },
-        {
-          "problem": "Already Redeemed",
-          "solution": "Each code can only be redeemed once per account. Try a different code if you've already used this one."
-        },
-        {
-          "problem": "Code Expired",
-          "solution": "Codes eventually expire. Check our active codes section for the latest working codes."
-        }
-      ]
-    },
-    "updates": {
-      "title": "Code Updates and News",
-      "description": "We constantly monitor for new Jujutsu Infinite codes and update this page as soon as they're released. Follow us on social media or join our Discord community to get instant notifications about new codes!"
-    }
-  }
+	"Common": {
+		"loading": "載入中..."
+	},
+	"Metadata": {
+		"home": {
+			"title": "海綿寶寶塔防 - 玩樂與探索代碼、提示及更多",
+			"description": "探索海綿寶寶塔防！透過我們的嵌入式遊戲來玩，探索遊戲代碼、提示、更新和指南。您在這個令人興奮的Roblox冒險中的終極資源！",
+			"keywords": ""
+		},
+		"about": {
+			"title": "關於海綿寶寶塔防 - 角色分析和故事背景",
+			"description": "探索海綿寶寶塔防背後的故事，由T.O.P（崔勝賢）演繹。了解這個獨特角色的角色、影響力以及反烏托邦戲劇與漫威的融合。",
+			"keywords": ""
+		},
+		"download": {
+			"title": "下載海綿寶寶塔防提示 - 獲得終極生存遊戲",
+			"description": "立即下載海綿寶寶塔防提示並體驗驚險的生存挑戰。觀看我們的遊戲影片，加入全球數百萬玩家！",
+			"keywords": ""
+		},
+		"codes": {
+			"title": "海綿寶寶塔防代碼 - 最新有效代碼和獎勵",
+			"description": "找到所有最新有效的海綿寶寶塔防代碼！兌換這些代碼以獲取免費獎勵、提升和遊戲內物品。定期更新新代碼！",
+			"keywords": ""
+		}
+	},
+	"Navigation": {
+		"title": "海綿寶寶塔防 - 玩樂與探索代碼、提示及更多",
+		"logoAlt": "海綿寶寶塔防標誌",
+		"logoTitle": "海綿寶寶塔防",
+		"playNow": "首頁",
+		"toggleMenu": "切換菜單",
+		"about": "關於",
+		"download": "下載",
+		"codes": "代碼"
+	},
+	"NotFound": {
+		"title": "404 找不到",
+		"goHome": "回到首頁"
+	},
+	"Home": {
+		"hero": {
+			"title": "海綿寶寶塔防",
+			"description": "探索海綿寶寶塔防！透過我們的嵌入式遊戲來玩，探索遊戲代碼、提示、更新和指南。您在這個令人興奮的Roblox冒險中的終極資源！",
+			"playNow": "立即遊玩",
+			"robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
+		},
+		"videoSection": {
+			"title": "相關影片"
+		},
+		"introduction": {
+			"title": "如何玩海綿寶寶塔防",
+			"description": "掌握基本知識，成為專家！",
+			"steps": [{
+				"title": "在海綿寶寶塔防中開始",
+				"description": "學習如何開始玩海綿寶寶塔防！組建您的隊伍，保護比基尼海灘，並探索策略以智勝敵人。"
+			}, {
+				"title": "掌握海綿寶寶塔防策略",
+				"description": "揭示海綿寶寶塔防的專業提示！選擇最佳角色，升級塔防，優化位置以壓制敵人並保護您的基地。"
+			}, {
+				"title": "解鎖海綿寶寶塔防中的代碼和增益",
+				"description": "提升您的海綿寶寶塔防遊玩體驗！了解如何兌換代碼、解鎖專屬物品，並輕鬆提升您的塔防體驗。"
+			}]
+		},
+		"features": {
+			"title": "遊戲特色",
+			"description": "探索海綿寶寶塔防的獨特之處",
+			"list": [{
+				"title": "標誌性的海綿寶寶角色",
+				"description": "與海綿寶寶、派大星、章魚哥等一起遊玩！每個角色都擁有獨特技能和能力，以在刺激的塔防戰鬥中保護比基尼海灘。"
+			}, {
+				"title": "刺激的塔防遊戲玩法",
+				"description": "盡情享受快節奏的塔防樂趣！戰略性地放置塔防，擊敗敵人波，並在這個動作滿滿的Roblox遊戲中拯救比基尼海灘。"
+			}, {
+				"title": "探索比基尼海灘及其他地區",
+				"description": "在標誌性的海綿寶寶地點探險！從蟹堡王到水母田，保護每一個區域免受入侵者的侵擾，沉浸在遊戲世界中。"
+			}, {
+				"title": "代碼兌換系統獲取獎勵",
+				"description": "兌換專屬代碼以解鎖強力物品和角色！隨著免費的更新和獎勵，保持領先，提升您的海綿寶寶塔防之旅。"
+			}, {
+				"title": "可自定義的塔防和升級",
+				"description": "透過可升級的塔防強化您的防御！解鎖新功能，加強角色，並制定完美策略以應對更艱難的挑戰。"
+			}, {
+				"title": "定期更新和活動",
+				"description": "享受定期更新和活動中的新內容！新級別、角色和挑戰確保海綿寶寶塔防的樂趣不會停止。"
+			}]
+		},
+		"testimonials": {
+			"title": "玩家評價",
+			"description": "看看粉絲們怎麼說海綿寶寶塔防",
+			"list": [{
+				"content": "海綿寶寶塔防完美融合了懷舊和策略。標誌性的角色和充滿活力的比基尼海灘讓每一關都充滿遊玩樂趣！",
+				"author": "艾瑪·R.",
+				"title": "海綿寶寶迷"
+			}, {
+				"content": "我愛這款遊戲帶來的挑戰！升級和代碼讓遊戲保持新鮮，活動讓我不斷回來。強烈推薦！",
+				"author": "傑克·T.",
+				"title": "Roblox愛好者"
+			}, {
+				"content": "作為一名家長，我很感謝這款遊戲對我的孩子來說是多麼有趣和吸引人。他們喜愛海綿寶寶，這款遊戲幫助他們發展問題解決能力。",
+				"author": "薩拉·L.",
+				"title": "家長兼玩家"
+			}, {
+				"content": "戰略玩法和熟悉的海綿寶寶場景的結合真是天才之作。對於所有年齡段的玩家來說，這是挑戰和樂趣的完美平衡！",
+				"author": "邁克·W.",
+				"title": "休閒玩家"
+			}, {
+				"content": "兌換代碼解鎖角色和提升真是太滿足了！開發者明顯花了很多心思使遊戲充滿樂趣。",
+				"author": "瑞秋·H.",
+				"title": "遊戲評價者"
+			}, {
+				"content": "毫無疑問是最好的Roblox遊戲之一。定期更新和創意關卡設計使海綿寶寶塔防成為一個出色的體驗。",
+				"author": "亞歷克斯·P.",
+				"title": "塔防專家"
+			}]
+		},
+		"faq": {
+			"title": "常見問題",
+			"description": "有問題嗎？我們有答案！",
+			"list": [{
+				"question": "什麼是海綿寶寶塔防？",
+				"answer": "海綿寶寶塔防是Roblox遊戲，玩家使用角色和塔防來保護比基尼海灘，對抗敵人的波浪，並進行戰略性的塔防遊戲。"
+			}, {
+				"question": "我如何開始玩海綿寶寶塔防？",
+				"answer": "要開始，請訪問Roblox上的遊戲頁面，點擊「玩」，並按照遊戲內教程學習如何放置塔防和抵禦敵人。"
+			}, {
+				"question": "我如何在海綿寶寶塔防中兌換代碼？",
+				"answer": "打開遊戲，點擊主菜單上的「代碼」按鈕，輸入有效代碼，然後按「兌換」以獲取獎勵。"
+			}, {
+				"question": "我可以在哪裡找到有效的海綿寶寶塔防代碼？",
+				"answer": "您可以在遊戲的官方頁面、社交媒體平台以及類似Sportskeeda、Eurogamer和Fandom的網站上找到有效代碼。"
+			}, {
+				"question": "代碼在遊戲中提供什麼獎勵？",
+				"answer": "代碼通常提供獎勵，例如遊戲內貨幣、專屬物品、角色解鎖和幫助遊戲的提升。"
+			}, {
+				"question": "我可以和朋友一起玩海綿寶寶塔防嗎？",
+				"answer": "是的，海綿寶寶塔防支持多人模式，允許您與朋友組隊共同應對挑戰。"
+			}, {
+				"question": "我如何解鎖新角色和塔防？",
+				"answer": "您可以通過賺取遊戲內貨幣、兌換代碼或完成特定挑戰和任務來解鎖新角色和塔防。"
+			}, {
+				"question": "海綿寶寶塔防有更新和新內容嗎？",
+				"answer": "是的，開發者經常發布更新，包括新級別、角色、挑戰和特殊活動，以保持遊戲的趣味性。"
+			}, {
+				"question": "獲勝的最佳策略是什麼？",
+				"answer": "專注於升級塔防，戰略性地放置角色，並平衡攻擊和防禦，以有效處理敵人的波浪。"
+			}, {
+				"question": "海綿寶寶塔防可以免費遊玩嗎？",
+				"answer": "是的，這款遊戲在Roblox上免費遊玩。不過，還有選擇性的遊戲內購買來提升您的遊戲體驗。"
+			}]
+		}
+	},
+	"Footer": {
+		"title": "海綿寶寶塔防 - 玩樂與探索代碼、提示及更多",
+		"subTitle": "探索海綿寶寶塔防的終極指南！",
+		"support": "支持",
+		"privacy": "隱私政策",
+		"termsConditions": "條款與條件"
+	},
+	"FooterNavigation": {
+		"privacyPolicy": {
+			"1-h1": "海綿寶寶塔防的隱私政策",
+			"1-p": "海綿寶寶塔防運營網站https://spongebobtowerdefense.net，致力於保護您的隱私。本隱私政策概述了您使用我們的在線遊戲指南時我們如何處理信息。",
+			"2-h2": "信息收集",
+			"2-h3-1": "個人數據",
+			"2-p-1": "我們不收集任何個人識別信息。我们的服务旨在无须个人数据即可使用。",
+			"2-h3-2": "非個人數據",
+			"2-p-3": "我們通過網絡Cookies收集非個人數據，包括使用統計和偏好，以改善我們的服務和用戶體驗。這可能包括您的顯示設置和自定義偏好。",
+			"3-h2": "數據使用",
+			"3-p": "任何收集的非個人數據僅用於增強我們網站的功能和改善用戶體驗。我們不會與第三方分享任何數據。",
+			"4-h2": "對本隱私政策的更新",
+			"6-h2": "聯絡我們",
+			"6-p": "如果您對本隱私政策有任何問題，請通過support@spongebobtowerdefense.net與我們聯繫。"
+		},
+		"termsConditions": {
+			"1-h1": "海綿寶寶塔防的服務條款",
+			"1-p": "歡迎來到海綿寶寶塔防。通過訪問我們的網站（https://spongebobtowerdefense.net），您同意這些服務條款。我們的服務提供有關海綿寶寶塔防Roblox遊戲的綜合指南。",
+			"2-h2": "1. 所有權",
+			"2-p": "網站上的所有內容，包括指南、提示、代碼、設計元素和相關材料，都是海綿寶寶塔防的知識產權，除非另有說明。用戶創建的文本內容仍然是他們的財產。",
+			"3-h2": "2. 使用指導方針",
+			"3-p": "我們的服務旨在資訊和教育目的。用戶對其行為承擔責任，不應將該服務用於任何非法或有害的目的。",
+			"4-h2": "3. 管轄法律",
+			"4-p": "這些條款應受適用法律的管轄，而不考慮法規衝突原則。",
+			"5-h2": "4. 條款變更",
+			"5-p": "海綿寶寶塔防保留隨時修改這些條款的權利。更改將在發布到網站時立即生效。您對服務的持續使用將構成對任何變更的接受。",
+			"6-h2": "5. 聯絡信息",
+			"6-p": "如果您對這些條款有任何問題，請通過support@spongebobtowerdefense.net與我們聯繫。",
+			"last-p": "使用海綿寶寶塔防即表示您確認已閱讀並同意這些服務條款。"
+		}
+	},
+	"About": {
+		"title": "關於海綿寶寶塔防",
+		"subtitle": "歡迎來到海綿寶寶塔防，這是海綿寶寶與塔防愛好者的終極遊戲體驗！深入比基尼海灘的生動水下世界，在這個引人入勝的Roblox冒險中，策略將與動作遊戲玩法相遇。無論您是老玩家還是塔防遊戲的新手，海綿寶寶塔防都承諾提供數小時的樂趣、挑戰關卡和受人喜愛的角色。",
+		"content": {
+			"whatIsTitle": "什麼是海綿寶寶塔防？",
+			"whatIs": "海綿寶寶塔防是一款基於Roblox的遊戲，結合了塔防機制的興奮與海綿寶寶宇宙的幽默和魅力。玩家必須戰略性地放置塔防並使用像海綿寶寶、派大星和章魚哥等標誌性角色來保護比基尼海灘免受不斷襲來的敵人。每個角色都有自己獨特的能力，為遊戲增添了深度和多樣性。",
+			"whatIsExtra": "這款遊戲不僅僅是贏得戰鬥，更是深入比基尼海灘的熟悉場景，從蟹堡王到水母田。一系列的定期更新、特殊活動和不斷增長的社區，使海綿寶寶塔防持續演變，成為Roblox粉絲必玩的遊戲。",
+			"featuresTitle": "海綿寶寶塔防的主要特徵",
+			"features": {
+				"characters": {
+					"title": "標誌性角色",
+					"description": "選擇您最喜愛的角色遊玩，包括海綿寶寶、派大星等。每位角色提供獨特的能力來提升防禦策略。"
+				},
+				"gameplay": {
+					"title": "動態塔防遊戲玩法",
+					"description": "戰略性地放置和升級塔防以對抗敵人的波浪，保護比基尼海灘。"
+				},
+				"codes": {
+					"title": "可兌換的代碼以獲取獎勵",
+					"description": "透過兌換代碼來解鎖專屬獎勵，幫助您在遊戲中保持優勢。"
+				},
+				"locations": {
+					"title": "比基尼海灘地點",
+					"description": "探索海綿寶寶系列中的標誌性地點，包括蟹堡王、水凳沙灘等。"
+				},
+				"strategies": {
+					"title": "可自定義的策略",
+					"description": "實驗塔防位置、角色組合和升級，以制定您的獲勝策略。"
+				},
+				"updates": {
+					"title": "定期更新",
+					"description": "通過定期更新享受新級別、角色和挑戰，保持遊戲的新鮮感和刺激性。"
+				}
+			},
+			"howToPlayTitle": "如何玩海綿寶寶塔防",
+			"howToPlay": [{
+				"title": "加入遊戲",
+				"description": "訪問Roblox平台，搜索「海綿寶寶塔防」，然後點擊「玩」."
+			}, {
+				"title": "學習基本知識",
+				"description": "跟隨遊戲內教程了解塔防位置、敵人波和升級的基本知識."
+			}, {
+				"title": "使用代碼獲得獎勵",
+				"description": "通過兌換代碼來解鎖有價值的遊戲內資源。代碼可以在官方平台、遊戲網站或粉絲社區找到."
+			}, {
+				"title": "保護比基尼海灘",
+				"description": "戰略性地放置塔防和角色，抵禦不斷增強的敵人波."
+			}],
+			"popularityTitle": "為什麼海綿寶寶塔防如此受歡迎？",
+			"popularity": [{
+				"title": "懷舊",
+				"description": "海綿寶寶系列的粉絲喜愛看到他們最喜愛的角色和地點以互動格式重現."
+			}, {
+				"title": "戰略遊玩",
+				"description": "遊戲結合了樂趣與腦力，需要玩家對塔防位置和升級進行深思熟慮."
+			}, {
+				"title": "社區參與",
+				"description": "擁有強大的粉絲基礎和定期更新，遊戲促進社區和興奮感."
+			}, {
+				"title": "免費訪問",
+				"description": "在Roblox上免費即可體驗，並且可選的遊戲內購買為想要更多內容的玩家提供額外選擇."
+			}],
+			"codesTitle": "在海綿寶寶塔防中兌換代碼",
+			"codes": "海綿寶寶塔防最激動人心的功能之一是能夠兌換代碼以獲取遊戲內獎勵。代碼可以提供遊戲內貨幣，以幫助升級、解鎖專屬角色或物品、以及提供進步幫助。兌換代碼很簡單，只需點擊遊戲菜單中的「代碼」按鈕，輸入代碼，然後享受您的獎勵。務必定期檢查官方來源和社區平台，獲取最新代碼！",
+			"tipsTitle": "海綿寶寶塔防的提示和策略",
+			"tips": [{
+				"title": "明智地升級塔防",
+				"description": "關注升級與您的策略一致的塔防，無論是進攻還是防守."
+			}, {
+				"title": "戰略性地放置角色",
+				"description": "讓角色的位置能發揮其最大能力."
+			}, {
+				"title": "關注更新信息",
+				"description": "新內容常常包括更強大的角色和更好的獎勵."
+			}, {
+				"title": "與朋友合作",
+				"description": "多人模式允許您與朋友組隊挑戰更艱難的戰鬥."
+			}, {
+				"title": "進行實驗",
+				"description": "嘗試不同的塔防與角色組合，以發掘新的獲勝策略."
+			}],
+			"communityTitle": "社區與更新",
+			"community": "海綿寶寶塔防社區充滿活力，不斷增長。加入粉絲論壇，參與討論，與其他玩家分享你的策略。開發者致力於保持遊戲的刺激感，定期更新引入新角色、新級別和特殊活動。",
+			"conclusionTitle": "加入海綿寶寶塔防的樂趣",
+			"conclusion": "無論您是休閒玩家還是競技玩家，海綿寶寶塔防都提供無與倫比的體驗。深入海底世界的比基尼海灘，保護它免受敵人的侵擾，並在這款身臨其境的Roblox遊戲中重新體驗您最喜愛的海綿寶寶瞬間。今天就開始遊玩，成為比基尼海灘的英雄！"
+		}
+	},
+	"Codes": {
+		"title": "海綿寶寶塔防代碼",
+		"subtitle": "歡迎來到海綿寶寶塔防代碼的終極指南！如果您是這個激動人心的Roblox遊戲的粉絲，您來對地方了。在這裡，我們提供有效和過期代碼的完整列表，解釋如何使用它們，並提供獲取獎勵的提示。無論您是新玩家還是資深策略家，這些代碼都可以幫助您在保護比基尼海灘方面取得優勢。",
+		"whatAreCodesTitle": "什麼是海綿寶寶塔防代碼？",
+		"whatAreCodes": "海綿寶寶塔防代碼是由遊戲開發者提供的特殊可兌換字符串。這些代碼通常在里程碑、更新或特殊事件中發布，並提供有價值的遊戲內獎勵。通過兌換這些代碼，玩家可以獲得資源，如寶石、提升和專屬物品，幫助他們更快進展並享受獨特的遊戲元素。",
+		"activeCodes": {
+			"title": "有效的海綿寶寶塔防代碼",
+			"description": "以下是目前有效的海綿寶寶塔防代碼。確保盡快兌換它們，因為它們可能隨時過期。",
+			"list": [{
+				"code": "OPCodeForReal",
+				"reward": "2000顆寶石、5個魔法貝殼和5次屬性重擲"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000顆寶石和1個x2寶石"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10個陳年漢堡、2個x2經驗和1個x2寶石"
+			}]
+		},
+		"expiredCodes": {
+			"title": "過期的海綿寶寶塔防代碼",
+			"description": "雖然以下代碼不再有效，但顯示了以前提供的獎勵類型！請注意未來代碼中可能出現類似獎勵！",
+			"list": [{
+				"code": "100KGoofyGoobers",
+				"reward": "10個漂亮漢堡、5次屬性重擲和2個魔法貝殼"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000顆寶石"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5次屬性重擲和2個魔法貝殼"
+			}, {
+				"code": "OneUp",
+				"reward": "5個漂亮漢堡、3個陳年漢堡和x2經驗"
+			}, {
+				"code": "25KHooray",
+				"reward": "500顆寶石、3次屬性重擲和1個魔法貝殼"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2次屬性重擲"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "節日主題的獎勵"
+			}]
+		},
+		"howToRedeem": {
+			"title": "如何兌換海綿寶寶塔防代碼",
+			"description": "在海綿寶寶塔防中兌換代碼快速而簡單。按照以下步驟領取獎勵：",
+			"steps": [{
+				"title": "啟動遊戲",
+				"description": "在Roblox中打開海綿寶寶塔防."
+			}, {
+				"title": "找到代碼按鈕",
+				"description": "在主菜單上，尋找通常位於屏幕左側的「代碼」按鈕."
+			}, {
+				"title": "輸入代碼",
+				"description": "單擊「代碼」按鈕，正確輸入代碼（代碼區分大小寫），然後單擊「兌換」."
+			}, {
+				"title": "領取獎勵",
+				"description": "一旦兌換，獎勵將立即添加到您的帳戶."
+			}]
+		},
+		"tips": {
+			"title": "兌換代碼的提示",
+			"list": [{
+				"title": "迅速行動",
+				"description": "代碼的有效期有限，因此在找到後儘快使用它們."
+			}, {
+				"title": "檢查拼寫錯誤",
+				"description": "代碼區分大小寫。確保正確輸入."
+			}, {
+				"title": "保持更新",
+				"description": "關注官方遊戲渠道和粉絲社區，以便及時捕捉新代碼."
+			}, {
+				"title": "收藏值得信賴的來源",
+				"description": "網站和論壇通常會發布最新代碼，確保您不會錯過."
+			}]
+		},
+		"rewards": {
+			"title": "您可以獲得什麼獎勵？",
+			"description": "來自海綿寶寶塔防代碼的獎勵各不相同，但都旨在提升您的遊戲體驗。以下是您可以期待的內容：",
+			"list": [{
+				"title": "寶石",
+				"description": "用這些解鎖角色、購買升級並提升您的遊戲體驗."
+			}, {
+				"title": "屬性重擲",
+				"description": "通過重新擲出屬性來改善角色的能力，獲得更好的統計或效果."
+			}, {
+				"title": "提升",
+				"description": "經驗、寶石或其他資源的臨時乘數，幫助您更快進步."
+			}, {
+				"title": "專屬物品",
+				"description": "限量版外觀、特殊武器或獨特塔，無法通過正常遊戲獲得."
+			}, {
+				"title": "魔法貝殼",
+				"description": "一種稀有資源，用於解鎖高級內容或增強您的策略."
+			}]
+		},
+		"findingCodes": {
+			"title": "如何找到新的海綿寶寶塔防代碼",
+			"description": "保持獲取新代碼對於在遊戲中保持優勢至關重要。以下是一些查找新代碼的提示：",
+			"list": ["關注官方渠道：開發者通常會在遊戲的Roblox頁面、Twitter或Discord伺服器上發布新代碼。", "加入粉絲社區：很多粉絲論壇和社交媒體小組會分享代碼和提示。", "定期檢查更新：代碼經常在遊戲更新或活動期間發布。", "監控里程碑：當遊戲達成里程碑，例如玩家數量或周年慶，開發者經常會用代碼回饋社區。"]
+		},
+		"faq": {
+			"title": "常見問題",
+			"list": [{
+				"question": "多長時間發布一次新代碼？",
+				"answer": "代碼通常在更新、活動或遊戲達到里程碑時發布，例如特定的玩家或追隨者數量."
+			}, {
+				"question": "為什麼我的代碼無法使用？",
+				"answer": "仔細檢查拼寫錯誤，確保代碼尚未過期。有些代碼區分大小寫，因此準確性至關重要。"
+			}, {
+				"question": "我可以多次兌換同一代碼嗎？",
+				"answer": "不可以，每個代碼每個帳戶只能兌換一次。"
+			}, {
+				"question": "我需要付費才能使用代碼嗎？",
+				"answer": "不需要，代碼是免費且向所有玩家開放的。這是開發者用來回饋社區的一種方式。"
+			}]
+		},
+		"conclusion": {
+			"title": "為什麼使用海綿寶寶塔防代碼？",
+			"description": "代碼是提升您在海綿寶寶塔防中遊戲體驗的絕佳方式。它們提供免費資源、可解鎖物品和增強功能，讓玩家更快進步並享受獨特內容。通過定期兌換代碼，您可以持續競爭並探索遊戲的全部潛力。"
+		},
+		"videoSection": {
+			"title": "如何兌換代碼",
+			"description": "觀看我們的快速指南，學習如何在海綿寶寶塔防中兌換代碼"
+		}
+	}
 }

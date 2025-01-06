@@ -1,495 +1,406 @@
 {
-  "Common": {
-    "loading": "loading..."
-  },
-  "Metadata": {
-    "home": {
-      "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "keywords": ""
-    },
-    "about": {
-      "title": "About Jujutsu Infinite - Character Analysis and Story Background",
-      "description": "Discover the story behind Jujutsu Infinite, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
-      "keywords": ""
-    },
-    "download": {
-      "title": "Download Jujutsu Infinite Tips - Get the Ultimate Survival Game",
-      "description": "Download Jujutsu Infinite Tips now and experience the thrilling survival challenges. Watch our gameplay video and join millions of players worldwide!",
-      "keywords": ""
-    },
-    "codes": {
-      "title": "Jujutsu Infinite Codes - Latest Working Codes and Rewards",
-      "description": "Find all the latest working codes for Jujutsu Infinite! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
-      "keywords": ""
-    }
-  },
-  "Navigation": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "logoAlt": "Jujutsu Infinite Logo",
-    "logoTitle": "Jujutsu Infinite",
-    "playNow": "Home",
-    "toggleMenu": "Toggle Menu",
-    "about": "About",
-    "download": "Download",
-    "codes": "Codes"
-  },
-  "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
-  },
-  "Home": {
-    "hero": {
-      "title": "Jujutsu Infinite",
-      "description": "Explore the ultimate guide to Jujutsu Infinite on Roblox! Find the latest codes, gameplay tips, and tier lists. Play now and master cursed techniques with ease!",
-      "playNow": "Play Now",
-      "robloxUrl": "https://www.roblox.com/games/18505741738/Jujutsu-Infinite-12-HOURS"
-    },
-    "videoSection": {
-      "title": "Related Videos"
-    },
-    "introduction": {
-      "title": "How to Play Jujutsu Infinite",
-      "description": "Master the basics and become a pro!",
-      "steps": [
-        {
-          "title": "Getting Started with Jujutsu Infinite",
-          "description": "To begin your journey in Jujutsu Infinite, visit the official game page on Roblox and launch the game. Customize your character and choose your innate cursed technique to gain unique powers. Familiarize yourself with the controls and interface to navigate the game effortlessly. Don’t forget to redeem the latest codes for free rewards that will give you a head start!"
-        },
-        {
-          "title": "Mastering Cursed Techniques and Gameplay Mechanics",
-          "description": "Jujutsu Infinite revolves around mastering cursed techniques and engaging in epic battles. Learn how to unlock and upgrade your skills by earning experience points through quests and battles. Experiment with different techniques to discover the best combinations for your playstyle. Stay alert during encounters and practice dodging and timing for efficient combat strategies."
-        },
-        {
-          "title": "Advancing and Unlocking Rewards",
-          "description": "Progress in the game by completing quests, defeating powerful enemies, and teaming up with other players. Earn in-game currency to unlock new abilities, gear, and upgrades. Keep an eye out for limited-time events and updates that bring exciting new content to enhance your gameplay experience. Visit our website regularly for tips, guides, and code updates to stay ahead in the game!"
-        }
-      ]
-    },
-    "features": {
-      "title": "Game Features",
-      "description": "Discover what makes Jujutsu Infinite special",
-      "list": [
-        {
-          "title": "Unique Cursed Techniques",
-          "description": "Discover and master a variety of innate cursed techniques, each with its own unique abilities and combat styles. Customize your character to suit your playstyle and dominate battles."
-        },
-        {
-          "title": "Engaging Quests and Challenges",
-          "description": "Embark on thrilling quests and face challenging enemies as you progress through the game. Complete missions to earn rewards, level up, and unlock powerful upgrades."
-        },
-        {
-          "title": "Multiplayer Battles and Collaboration",
-          "description": "Team up with friends or compete against other players in intense multiplayer battles. Test your skills in PvP combat or join forces to tackle powerful bosses."
-        },
-        {
-          "title": "Code Redemption for Free Rewards",
-          "description": "Stay ahead by redeeming codes for free rewards, including in-game currency, boosts, and exclusive items. Regular updates ensure fresh codes and exciting perks."
-        },
-        {
-          "title": "Immersive World Inspired by Jujutsu Kaisen",
-          "description": "Explore a richly designed game world inspired by the popular anime series Jujutsu Kaisen. Experience stunning visuals, dynamic environments, and thrilling gameplay."
-        },
-        {
-          "title": "Constant Updates and New Content",
-          "description": "Enjoy frequent updates that bring new features, events, and enhancements to keep the game exciting. Stay tuned for fresh challenges and unlockable rewards."
-        }
-      ]
-    },
-    "testimonials": {
-      "title": "Player Reviews",
-      "description": "See what fans are saying about Jujutsu Infinite",
-      "list": [
-        {
-          "content": "Jujutsu Infinite brings the world of Jujutsu Kaisen to life! The cursed techniques are so unique, and the battles are intense. I can't stop playing!",
-          "author": "@CursedFighter",
-          "title": "An Epic Adventure!"
-        },
-        {
-          "content": "The graphics, quests, and combat mechanics are top-notch. It feels like I'm really in the anime. Plus, the code rewards are a huge bonus!",
-          "author": "@AnimeGamerX",
-          "title": "Best Roblox Game Ever!"
-        },
-        {
-          "content": "From teaming up with friends to exploring the map, this game keeps me hooked. Unlocking new abilities is so satisfying!",
-          "author": "@QuestMaster",
-          "title": "Addictive and Fun!"
-        },
-        {
-          "content": "As a fan of the anime, I love how they've incorporated the themes into this game. It's challenging, rewarding, and super fun!",
-          "author": "@KaisenLover",
-          "title": "A Must-Play for Jujutsu Kaisen Fans!"
-        },
-        {
-          "content": "I appreciate how often the game gets updated with new codes, events, and features. There's always something new to try!",
-          "author": "@CodeHunter21",
-          "title": "Constant Updates Keep It Fresh!"
-        },
-        {
-          "content": "The game makes you think about your moves while keeping the action fast-paced. It's the perfect blend of strategy and fun!",
-          "author": "@BattleTactician",
-          "title": "Perfect Balance of Strategy and Action!"
-        }
-      ]
-    },
-    "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Got questions? We've got answers!",
-      "list": [
-        {
-          "question": "What is Jujutsu Infinite?",
-          "answer": "Jujutsu Infinite is a popular Roblox game inspired by the anime Jujutsu Kaisen. Players can master cursed techniques, complete quests, and engage in epic battles."
-        },
-        {
-          "question": "How do I play Jujutsu Infinite?",
-          "answer": "Visit the game's page on Roblox, launch it, and create your character. Follow the tutorial to learn the basics and start your journey by completing quests and battling enemies."
-        },
-        {
-          "question": "Are there any codes for Jujutsu Infinite?",
-          "answer": "Yes! Codes are regularly released and can be redeemed for rewards like in-game currency and boosts. Check our website for the latest codes."
-        },
-        {
-          "question": "How do I redeem codes in Jujutsu Infinite?",
-          "answer": "To redeem codes, open the game, navigate to the code redemption section (usually in the settings or menu), enter the code, and claim your rewards."
-        },
-        {
-          "question": "Can I play Jujutsu Infinite with friends?",
-          "answer": "Absolutely! Jujutsu Infinite supports multiplayer gameplay. You can team up with friends to complete quests and defeat bosses or challenge them in PvP battles."
-        },
-        {
-          "question": "What are cursed techniques in Jujutsu Infinite?",
-          "answer": "Cursed techniques are unique abilities that give players special powers in combat. Each technique has its own strengths and can be upgraded as you progress."
-        },
-        {
-          "question": "How do I level up my character?",
-          "answer": "You can level up by completing quests, defeating enemies, and participating in battles. Earning experience points (XP) will help you unlock new abilities and gear."
-        },
-        {
-          "question": "Are there in-game purchases in Jujutsu Infinite?",
-          "answer": "Yes, you can purchase in-game currency and items to enhance your experience. However, the game is fully playable without spending real money."
-        },
-        {
-          "question": "Is Jujutsu Infinite beginner-friendly?",
-          "answer": "Yes! The game features a tutorial for new players and plenty of guides to help you get started. Plus, codes and free rewards make it easier to progress."
-        },
-        {
-          "question": "How often is Jujutsu Infinite updated?",
-          "answer": "The developers regularly update the game with new content, events, and features. Make sure to check for updates and stay tuned for fresh challenges and rewards!"
-        }
-      ]
-    }
-  },
-  "Footer": {
-    "title": "Jujutsu Infinite Codes, Tips, and Gameplay Guide",
-    "subTitle": "Explore the ultimate guide to Jujutsu Infinite on Roblox!",
-    "support": "Support",
-    "privacy": "Privacy Policy",
-    "termsConditions": "Terms & Conditions"
-  },
-  "FooterNavigation": {
-    "privacyPolicy": {
-      "1-h1": "Privacy Policy for Jujutsu Infinite",
-      "1-p": "Jujutsu Infinite operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
-      "2-h2": "Information Collection",
-      "2-h3-1": "Personal Data",
-      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
-      "2-h3-2": "Non-Personal Data",
-      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
-      "3-h2": "Data Usage",
-      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
-      "4-h2": "Updates to This Privacy Policy",
-      "6-h2": "Contact Us",
-      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
-    },
-    "termsConditions": {
-      "1-h1": "Terms of Service for Jujutsu Infinite",
-      "1-p": "Welcome to Jujutsu Infinite. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Jujutsu Infinite Roblox game.",
-      "2-h2": "1. Ownership",
-      "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Jujutsu Infinite unless otherwise stated. The text content created by users remains their property.",
-      "3-h2": "2. Usage Guidelines",
-      "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
-      "4-h2": "3. Governing Law",
-      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
-      "5-h2": "4. Changes to Terms",
-      "5-p": "Jujutsu Infinite reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
-      "6-h2": "5. Contact Information",
-      "6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
-      "last-p": "By using Jujutsu Infinite, you acknowledge that you have read and agree to these Terms of Service."
-    }
-  },
-  "About": {
-    "title": "About Jujutsu Infinite",
-    "subtitle": "Your Ultimate Guide to the World of Jujutsu Infinite",
-    "content": {
-      "introTitle": "Welcome",
-      "intro": "Welcome to the ultimate destination for everything related to Jujutsu Infinite, the thrilling Roblox game inspired by the anime masterpiece Jujutsu Kaisen. This page serves as your comprehensive guide to the world of Jujutsu Infinite, where you can explore gameplay mechanics, unique features, and the vibrant community that makes this game truly special.",
-      
-      "whatIsTitle": "What is Jujutsu Infinite?",
-      "whatIs": "Jujutsu Infinite is a popular game on Roblox that takes players into an action-packed world filled with cursed techniques, epic battles, and immersive quests. Drawing inspiration from Jujutsu Kaisen, it brings the anime's essence into a dynamic gaming experience. Whether you're a fan of the anime or new to its universe, Jujutsu Infinite offers a rich and engaging adventure for players of all skill levels.",
-      "whatIsExtra": "In the game, players embark on a journey to master cursed techniques, fight powerful enemies, and level up their characters through various challenges. With frequent updates, exciting events, and a vibrant community, Jujutsu Infinite keeps players hooked for hours of gameplay.",
-
-      "featuresTitle": "Key Features of Jujutsu Infinite",
-      "features": {
-        "cursedTechniques": {
-          "title": "Unique Cursed Techniques",
-          "description": "At the heart of Jujutsu Infinite lies its cursed techniques. These unique abilities define your gameplay style and determine your success in battles. From long-range attacks to devastating close-combat moves, the variety of techniques ensures every player can find a style that suits them."
-        },
-        "quests": {
-          "title": "Exciting Quests and Challenges",
-          "description": "The game offers an array of quests that test your skills and reward your efforts. Completing missions not only helps you progress but also unlocks new abilities and rewards. Boss battles add an extra layer of excitement, challenging players to strategize and work as a team."
-        },
-        "multiplayer": {
-          "title": "Multiplayer Collaboration and PvP Battles",
-          "description": "Jujutsu Infinite thrives on its multiplayer mode. Join forces with friends to tackle tough challenges or test your skills against other players in thrilling PvP battles. The cooperative and competitive aspects make the game highly engaging."
-        },
-        "world": {
-          "title": "Immersive Anime-Inspired World",
-          "description": "The game's world captures the essence of Jujutsu Kaisen with stunning visuals and dynamic environments. Explore detailed landscapes, interact with NPCs, and immerse yourself in a world full of surprises."
-        },
-        "codes": {
-          "title": "Code Rewards and Freebies",
-          "description": "Players can redeem codes for free rewards like in-game currency, power boosts, and exclusive items. Regular updates ensure there are always new codes to claim, helping you stay ahead in the game."
-        },
-        "updates": {
-          "title": "Constant Updates and New Content",
-          "description": "Jujutsu Infinite developers are committed to delivering fresh content through regular updates. From new cursed techniques to special events, there's always something exciting to look forward to."
-        }
-      },
-
-      "howToPlayTitle": "How to Play Jujutsu Infinite",
-      "howToPlay": [
-        {
-          "title": "Launch the Game",
-          "description": "Visit the official Roblox page for Jujutsu Infinite and start the game. Create your character and select your innate cursed technique."
-        },
-        {
-          "title": "Complete Quests",
-          "description": "Begin your adventure by completing quests. These missions will introduce you to the game's mechanics, help you level up, and earn rewards."
-        },
-        {
-          "title": "Master Combat Mechanics",
-          "description": "Combat is a core element of Jujutsu Infinite. Practice using your cursed techniques and hone your skills to dominate in battles."
-        },
-        {
-          "title": "Team Up or Compete",
-          "description": "Join forces with other players to take on challenging quests or test your strength in PvP battles."
-        },
-        {
-          "title": "Redeem Codes",
-          "description": "Make sure to redeem the latest codes for bonuses and exclusive items that give you an edge in the game."
-        }
-      ],
-
-      "tipsTitle": "Tips for Success in Jujutsu Infinite",
-      "tips": [
-        {
-          "title": "Experiment with Techniques",
-          "description": "Try different cursed techniques to find the one that matches your playstyle. Experimentation is key to mastering the game."
-        },
-        {
-          "title": "Stay Updated",
-          "description": "Keep an eye on game updates and new codes. Regularly checking the official website or fan pages ensures you never miss out on valuable rewards."
-        },
-        {
-          "title": "Collaborate with Other Players",
-          "description": "Teamwork often leads to success in difficult quests. Partner with experienced players to learn advanced strategies."
-        },
-        {
-          "title": "Invest in Upgrades",
-          "description": "Use in-game currency wisely to unlock and upgrade abilities. This can give you a significant advantage in battles."
-        },
-        {
-          "title": "Participate in Events",
-          "description": "Limited-time events often provide exclusive rewards and unique gameplay experiences. Don't miss out on these opportunities."
-        }
-      ],
-
-      "communityTitle": "The Community Behind Jujutsu Infinite",
-      "community": "The Jujutsu Infinite community is one of the most vibrant and welcoming on Roblox. Players actively share tips, strategies, and code updates on platforms like Discord and Reddit. Whether you're looking for advice, a team to join, or just some fun conversations, the community adds an extra layer of enjoyment to the game.",
-
-      "faqTitle": "Frequently Asked Questions",
-      "faq": [
-        {
-          "question": "What is Jujutsu Infinite about?",
-          "answer": "It's a Roblox game inspired by Jujutsu Kaisen, where players master cursed techniques, complete quests, and engage in battles."
-        },
-        {
-          "question": "How do I redeem codes?",
-          "answer": "Codes can be redeemed in the game's menu. Simply enter the code in the designated field and claim your rewards."
-        },
-        {
-          "question": "Can I play with friends?",
-          "answer": "Yes! Multiplayer mode allows you to team up with friends or challenge them in PvP."
-        },
-        {
-          "question": "Are there in-game purchases?",
-          "answer": "Yes, players can purchase currency and items, though the game is fully playable without spending real money."
-        },
-        {
-          "question": "How often is the game updated?",
-          "answer": "The developers release frequent updates with new content, features, and codes."
-        }
-      ],
-
-      "conclusionTitle": "Join the Adventure Today",
-      "conclusion": "Whether you're a fan of Jujutsu Kaisen or a gamer seeking thrilling adventures, Jujutsu Infinite delivers an unforgettable experience. From mastering cursed techniques to collaborating with a passionate community, the game offers endless excitement. Start your journey today and become a legend in the world of Jujutsu Infinite!"
-    }
-  },
-  "Codes": {
-    "title": "Jujutsu Infinite Codes",
-    "subtitle": "Get the Latest Working Codes and Rewards",
-    "videoSection": {
-      "title": "How to Redeem Codes",
-      "description": "Watch our quick guide on how to redeem codes in Jujutsu Infinite"
-    },
-    "introduction": {
-      "title": "About Jujutsu Infinite Codes",
-      "description": "Codes are special rewards provided by the game developers that can be redeemed for various in-game items, currency, and boosts. These codes are regularly released to celebrate milestones, updates, or special events. Make sure to redeem them quickly as they may expire!"
-    },
-    "howToRedeem": {
-      "title": "How to Redeem Codes",
-      "steps": [
-        {
-          "title": "1. Launch the Game",
-          "description": "Start Jujutsu Infinite on Roblox and wait for the game to fully load."
-        },
-        {
-          "title": "2. Open Code Menu",
-          "description": "Click on the Menu button (usually represented by three lines or a gear icon), then look for the 'Codes' or 'Redeem Code' option."
-        },
-        {
-          "title": "3. Enter the Code",
-          "description": "Type or paste the code exactly as shown (codes are case-sensitive). Double-check for any typos or spaces."
-        },
-        {
-          "title": "4. Claim Your Reward",
-          "description": "Click the 'Redeem' or 'Submit' button. If the code is valid, you'll receive your rewards immediately!"
-        }
-      ]
-    },
-    "activeCodes": {
-      "title": "Active Codes (Updated Regularly)",
-      "description": "Here are all the currently working codes for Jujutsu Infinite. We update this list regularly as new codes are released and old ones expire.",
-      "note": "Note: Codes are case-sensitive and must be entered exactly as shown",
-      "list": [
-        {
-          "code": "TWITTER_75_YAY",
-          "reward": "100 Spins + 1h Double EXP",
-          "description": "Twitter milestone celebration"
-        },
-        {
-          "code": "HAPPY_2025",
-          "reward": "100 Spins + 1h Double EXP + Double Mastery",
-          "description": "New Year celebration"
-        },
-        {
-          "code": "50K_FOLLOWERS",
-          "reward": "50 Spins + 1h Double EXP",
-          "description": "Social media milestone"
-        },
-        {
-          "code": "MERRY_CHRISTMAS",
-          "reward": "100 Spins",
-          "description": "Christmas celebration"
-        },
-        {
-          "code": "RELEASE",
-          "reward": "200 Spins",
-          "description": "Game release celebration"
-        }
-      ],
-      "expired": {
-        "title": "Expired Codes for Reference",
-        "description": "These codes are no longer active, but they give a sense of past rewards available in the game:",
-        "list": [
-          {
-            "code": "JJ_SHUTDOWN",
-            "reward": "25 Spins"
-          },
-          {
-            "code": "BACK_UP_AGAIN",
-            "reward": "25 Spins + 1h Double EXP"
-          },
-          {
-            "code": "TOP_SECRET",
-            "reward": "150 Spins"
-          },
-          {
-            "code": "MISSION_SHUTDOWN",
-            "reward": "50 Spins"
-          },
-          {
-            "code": "RELEASE_SHUTDOWN_SRRY",
-            "reward": "200 Spins"
-          },
-          {
-            "code": "WAVE3_PATCH",
-            "reward": "Spins"
-          },
-          {
-            "code": "WELCOME_WAVE3",
-            "reward": "Spins"
-          },
-          {
-            "code": "DIM_MAX",
-            "reward": "Spins"
-          },
-          {
-            "code": "UPDATE_3",
-            "reward": "Spins"
-          },
-          {
-            "code": "350K_YAY",
-            "reward": "Spins"
-          },
-          {
-            "code": "ROLLBACK_SRRY",
-            "reward": "Spins"
-          }
-        ]
-      }
-    },
-    "tips": {
-      "title": "Tips for Code Redemption",
-      "list": [
-        {
-          "title": "Check Regularly",
-          "description": "New codes are often released during updates, events, and milestones. Check our page regularly for the latest codes."
-        },
-        {
-          "title": "Act Quickly",
-          "description": "Codes can expire without notice. Redeem them as soon as possible to ensure you don't miss out on rewards."
-        },
-        {
-          "title": "Follow Official Channels",
-          "description": "Follow the game's official social media accounts and join their Discord server for code announcements."
-        },
-        {
-          "title": "Bookmark This Page",
-          "description": "We update our codes list regularly. Bookmark this page to stay informed about new codes and rewards."
-        }
-      ]
-    },
-    "commonIssues": {
-      "title": "Common Issues and Solutions",
-      "list": [
-        {
-          "problem": "Code Not Working",
-          "solution": "Ensure you're entering the code exactly as shown, including any capital letters or special characters. Codes are case-sensitive."
-        },
-        {
-          "problem": "Already Redeemed",
-          "solution": "Each code can only be redeemed once per account. Try a different code if you've already used this one."
-        },
-        {
-          "problem": "Code Expired",
-          "solution": "Codes eventually expire. Check our active codes section for the latest working codes."
-        }
-      ]
-    },
-    "updates": {
-      "title": "Code Updates and News",
-      "description": "We constantly monitor for new Jujutsu Infinite codes and update this page as soon as they're released. Follow us on social media or join our Discord community to get instant notifications about new codes!"
-    }
-  }
+	"Common": {
+		"loading": "cargando..."
+	},
+	"Metadata": {
+		"home": {
+			"title": "Spongebob Tower Defense - Juega y Explora Códigos, Consejos y Más",
+			"description": "¡Descubre Spongebob Tower Defense! Juega a través de nuestro juego incrustado, explora códigos de juego, consejos, actualizaciones y guías. ¡Tu recurso definitivo para esta emocionante aventura de Roblox!",
+			"keywords": ""
+		},
+		"about": {
+			"title": "Acerca de Spongebob Tower Defense - Análisis de Personajes y Antecedentes de la Historia",
+			"description": "Descubre la historia detrás de Spongebob Tower Defense, interpretado por T.O.P (Choi Seung-hyun). Aprende sobre el papel único de este personaje, su impacto y la fusión del drama distópico con la influencia de Marvel.",
+			"keywords": ""
+		},
+		"download": {
+			"title": "Descarga Consejos de Spongebob Tower Defense - Obtén el Juego de Supervivencia Definitivo",
+			"description": "Descarga Consejos de Spongebob Tower Defense ahora y experimenta los emocionantes desafíos de supervivencia. ¡Mira nuestro video de juego y únete a millones de jugadores en todo el mundo!",
+			"keywords": ""
+		},
+		"codes": {
+			"title": "Códigos de Spongebob Tower Defense - Últimos Códigos Activos y Recompensas",
+			"description": "¡Encuentra todos los últimos códigos activos para Spongebob Tower Defense! Canjea estos códigos por recompensas gratuitas, potenciadores y artículos dentro del juego. ¡Actualizado regularmente con nuevos códigos!",
+			"keywords": ""
+		}
+	},
+	"Navigation": {
+		"title": "Spongebob Tower Defense - Juega y Explora Códigos, Consejos y Más",
+		"logoAlt": "Logo de Spongebob Tower Defense",
+		"logoTitle": "Spongebob Tower Defense",
+		"playNow": "Inicio",
+		"toggleMenu": "Alternar Menú",
+		"about": "Acerca de",
+		"download": "Descargar",
+		"codes": "Códigos"
+	},
+	"NotFound": {
+		"title": "404 No Encontrado",
+		"goHome": "ir a la página de inicio"
+	},
+	"Home": {
+		"hero": {
+			"title": "Spongebob Tower Defense",
+			"description": "¡Descubre Spongebob Tower Defense! Juega a través de nuestro juego incrustado, explora códigos de juego, consejos, actualizaciones y guías. ¡Tu recurso definitivo para esta emocionante aventura de Roblox!",
+			"playNow": "Jugar Ahora",
+			"robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
+		},
+		"videoSection": {
+			"title": "Videos Relacionados"
+		},
+		"introduction": {
+			"title": "Cómo Jugar Spongebob Tower Defense",
+			"description": "¡Domina los conceptos básicos y conviértete en un profesional!",
+			"steps": [{
+				"title": "Comenzando en Spongebob Tower Defense",
+				"description": "¡Aprende cómo empezar a jugar Spongebob Tower Defense! Construye tu equipo, defiende Bikini Bottom y explora estrategias para superar oleadas de enemigos en esta aventura de Roblox."
+			}, {
+				"title": "Dominando las Estrategias de Spongebob Tower Defense",
+				"description": "¡Descubre consejos profesionales para Spongebob Tower Defense! Elige los mejores personajes, mejora torres y optimiza posiciones para dominar las oleadas y proteger tu base."
+			}, {
+				"title": "Desbloqueando Códigos y Potenciadores en Spongebob Tower Defense",
+				"description": "¡Mejora tu experiencia de juego en Spongebob Tower Defense! Aprende a canjear códigos, desbloquear artículos exclusivos y mejorar tu experiencia de defensa de torres sin esfuerzo."
+			}]
+		},
+		"features": {
+			"title": "Características del Juego",
+			"description": "Descubre qué hace especial a Spongebob Tower Defense",
+			"list": [{
+				"title": "Personajes Icónicos de Spongebob",
+				"description": "¡Juega con Spongebob, Patrick, Squidward y más! Cada personaje aporta habilidades y capacidades únicas para defender Bikini Bottom en emocionantes batallas de defensa de torres."
+			}, {
+				"title": "Emocionante Juego de Defensa de Torres",
+				"description": "¡Sumérgete en la diversión acelerada de la defensa de torres! Coloca torres estratégicamente, derrota oleadas de enemigos y salva Bikini Bottom en este juego de Roblox lleno de acción."
+			}, {
+				"title": "Explora Bikini Bottom y Más Allá",
+				"description": "¡Aventura a través de lugares icónicos de Spongebob! Desde el Krusty Krab hasta Jellyfish Fields, defiende cada área de los enemigos invasores en entornos inmersivos."
+			}, {
+				"title": "Sistema de Canje de Códigos para Recompensas",
+				"description": "¡Canjea códigos exclusivos para desbloquear poderosos artículos y personajes! Mantente a la vanguardia con actualizaciones y bonificaciones gratuitas para mejorar tu viaje en Spongebob Tower Defense."
+			}, {
+				"title": "Torres y Mejoras Personalizables",
+				"description": "¡Mejora tus defensas con torres mejorables! Desbloquea nuevas características, fortalece personajes y crea una estrategia perfecta para afrontar desafíos más difíciles."
+			}, {
+				"title": "Actualizaciones y Eventos Regulares",
+				"description": "¡Disfruta de contenido fresco con actualizaciones y eventos regulares! Nuevos niveles, personajes y desafíos aseguran que la diversión en Spongebob Tower Defense nunca se detenga."
+			}]
+		},
+		"testimonials": {
+			"title": "Opiniones de Jugadores",
+			"description": "Ve lo que los fanáticos dicen sobre Spongebob Tower Defense",
+			"list": [{
+				"content": "Spongebob Tower Defense combina perfectamente la nostalgia y la estrategia. ¡Los personajes icónicos y el vibrante Bikini Bottom hacen que cada nivel sea un placer jugar!",
+				"author": "Emma R.",
+				"title": "Fanática de Spongebob"
+			}, {
+				"content": "¡Me encanta el desafío que ofrece este juego! Las mejoras y los códigos lo mantienen fresco, y los eventos me hacen regresar por más. ¡Lo recomiendo mucho!",
+				"author": "Jake T.",
+				"title": "Entusiasta de Roblox"
+			}, {
+				"content": "Como padre, aprecio lo divertido y atractivo que es este juego para mis hijos. Ellos adoran a Spongebob, y el juego les ayuda a desarrollar habilidades para resolver problemas.",
+				"author": "Sarah L.",
+				"title": "Padre y Jugador"
+			}, {
+				"content": "La mezcla de jugabilidad estratégica y los escenarios familiares de Spongebob es genial. ¡Es el equilibrio perfecto entre desafío y diversión para jugadores de todas las edades!",
+				"author": "Mike W.",
+				"title": "Jugador Casual"
+			}, {
+				"content": "¡Canjear códigos para desbloquear personajes y potenciadores es muy satisfactorio! Los desarrolladores claramente pusieron mucho pensamiento en hacer que el juego sea agradable.",
+				"author": "Rachel H.",
+				"title": "Revisora de Juegos"
+			}, {
+				"content": "Sin lugar a dudas, uno de los mejores juegos de Roblox. Las actualizaciones regulares y los diseños creativos de niveles hacen que Spongebob Tower Defense sea una experiencia destacada.",
+				"author": "Alex P.",
+				"title": "Experto en Defensa de Torres"
+			}]
+		},
+		"faq": {
+			"title": "Preguntas Frecuentes",
+			"description": "¿Tienes preguntas? ¡Tenemos respuestas!",
+			"list": [{
+				"question": "¿Qué es Spongebob Tower Defense?",
+				"answer": "Spongebob Tower Defense es un juego de Roblox donde los jugadores utilizan personajes y torres para defender Bikini Bottom de oleadas de enemigos en una jugabilidad estratégica de defensa de torres."
+			}, {
+				"question": "¿Cómo empiezo a jugar Spongebob Tower Defense?",
+				"answer": "Para comenzar, visita la página del juego en Roblox, haz clic en \"Jugar\" y sigue el tutorial del juego para aprender a colocar torres y defenderte de los enemigos."
+			}, {
+				"question": "¿Cómo puedo canjear códigos en Spongebob Tower Defense?",
+				"answer": "Abre el juego, haz clic en el botón \"Códigos\" en el menú principal, ingresa un código activo y presiona \"Canjear\" para reclamar tus recompensas."
+			}, {
+				"question": "¿Dónde puedo encontrar códigos activos de Spongebob Tower Defense?",
+				"answer": "Puedes encontrar códigos activos en la página oficial del juego, en plataformas de redes sociales y en sitios web como Sportskeeda, Eurogamer y Fandom."
+			}, {
+				"question": "¿Qué recompensas proporcionan los códigos en el juego?",
+				"answer": "Los códigos normalmente ofrecen recompensas como moneda dentro del juego, artículos exclusivos, desbloqueos de personajes y potenciadores para ayudar en el juego."
+			}, {
+				"question": "¿Puedo jugar Spongebob Tower Defense con amigos?",
+				"answer": "Sí, Spongebob Tower Defense admite el modo multijugador, lo que te permite unirte a amigos y afrontar desafíos juntos."
+			}, {
+				"question": "¿Cómo desbloqueo nuevos personajes y torres?",
+				"answer": "Puedes desbloquear nuevos personajes y torres ganando moneda dentro del juego, canjeando códigos o completando desafíos y misiones específicas."
+			}, {
+				"question": "¿Hay actualizaciones y nuevo contenido en Spongebob Tower Defense?",
+				"answer": "Sí, los desarrolladores lanzan actualizaciones con frecuencia que incluyen nuevos niveles, personajes, desafíos y eventos especiales para mantener el juego atractivo."
+			}, {
+				"question": "¿Qué estrategias son las mejores para ganar en Spongebob Tower Defense?",
+				"answer": "Concéntrate en mejorar torres, colocar personajes estratégicamente y equilibrar ofensiva y defensa para manejar eficazmente las oleadas de enemigos."
+			}, {
+				"question": "¿Es Spongebob Tower Defense gratuito para jugar?",
+				"answer": "Sí, el juego es gratuito para jugar en Roblox. Sin embargo, están disponibles compras opcionales dentro del juego para mejorar tu experiencia de juego."
+			}]
+		}
+	},
+	"Footer": {
+		"title": "Spongebob Tower Defense - Juega y Explora Códigos, Consejos y Más",
+		"subTitle": "¡Explora la guía definitiva de Spongebob Tower Defense en Roblox!",
+		"support": "Soporte",
+		"privacy": "Política de Privacidad",
+		"termsConditions": "Términos y Condiciones"
+	},
+	"FooterNavigation": {
+		"privacyPolicy": {
+			"1-h1": "Política de Privacidad para Spongebob Tower Defense",
+			"1-p": "Spongebob Tower Defense opera el sitio web https://spongebobtowerdefense.net y está comprometido a proteger tu privacidad. Esta política de privacidad describe cómo manejamos la información cuando utilizas nuestra guía de juegos en línea.",
+			"2-h2": "Recopilación de Información",
+			"2-h3-1": "Datos Personales",
+			"2-p-1": "No recopilamos ninguna información de identificación personal de los usuarios. Nuestro servicio está diseñado para usarse sin requerir datos personales.",
+			"2-h3-2": "Datos No Personales",
+			"2-p-3": "Recopilamos datos no personales a través de cookies web, incluyendo estadísticas de uso y preferencias, para mejorar nuestro servicio y la experiencia del usuario. Esto puede incluir tus configuraciones de pantalla y preferencias de personalización.",
+			"3-h2": "Uso de Datos",
+			"3-p": "Cualquier dato no personal recopilado se utiliza únicamente para mejorar la funcionalidad de nuestro sitio web y mejorar la experiencia del usuario. No compartimos ningún dato con terceros.",
+			"4-h2": "Actualizaciones a Esta Política de Privacidad",
+			"6-h2": "Contáctanos",
+			"6-p": "Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en support@spongebobtowerdefense.net."
+		},
+		"termsConditions": {
+			"1-h1": "Términos de Servicio para Spongebob Tower Defense",
+			"1-p": "Bienvenido a Spongebob Tower Defense. Al acceder a nuestro sitio web (https://spongebobtowerdefense.net), aceptas estos Términos de Servicio. Nuestro servicio proporciona una guía completa para el juego de Roblox Spongebob Tower Defense.",
+			"2-h2": "1. Propiedad",
+			"2-p": "Todo el contenido del sitio web, incluidos guías, consejos, códigos, elementos de diseño y materiales relacionados, es propiedad intelectual de Spongebob Tower Defense a menos que se indique lo contrario. El contenido de texto creado por los usuarios sigue siendo de su propiedad.",
+			"3-h2": "2. Directrices de Uso",
+			"3-p": "Nuestro servicio se proporciona con fines informativos y educativos. Los usuarios son responsables de su conducta y no deben utilizar el servicio para ningún propósito ilegal o dañino.",
+			"4-h2": "3. Ley Aplicable",
+			"4-p": "Estos Términos se regirán por las leyes aplicables, sin tener en cuenta los principios de conflicto de leyes.",
+			"5-h2": "4. Cambios a los Términos",
+			"5-p": "Spongebob Tower Defense se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán efectivos inmediatamente después de su publicación en el sitio web. Tu uso continuado del servicio constituye aceptación de cualquier cambio.",
+			"6-h2": "5. Información de Contacto",
+			"6-p": "Si tienes alguna pregunta sobre estos Términos, contáctanos en support@spongebobtowerdefense.net.",
+			"last-p": "Al utilizar Spongebob Tower Defense, reconoces que has leído y aceptas estos Términos de Servicio."
+		}
+	},
+	"About": {
+		"title": "Acerca de Spongebob Tower Defense",
+		"subtitle": "¡Bienvenido a Spongebob Tower Defense, la experiencia de juego definitiva para los fanáticos de Spongebob Squarepants y los entusiastas de la defensa de torres! Sumérgete en el vibrante mundo submarino de Bikini Bottom, donde la estrategia se encuentra con la jugabilidad llena de acción en esta aventura atractiva de Roblox. Ya seas un jugador experimentado o nuevo en los juegos de defensa de torres, Spongebob Tower Defense promete horas de diversión, niveles desafiantes y personajes queridos.",
+		"content": {
+			"whatIsTitle": "¿Qué es Spongebob Tower Defense?",
+			"whatIs": "Spongebob Tower Defense es un juego basado en Roblox que combina la emoción de la mecánica de defensa de torres con el humor y el encanto del universo de Spongebob. Los jugadores deben colocar torres estratégicamente y utilizar personajes icónicos como Spongebob, Patrick y Squidward para defender Bikini Bottom de oleadas implacables de enemigos. Cada personaje viene con habilidades únicas, agregando profundidad y variedad a la jugabilidad.",
+			"whatIsExtra": "Este juego no se trata solo de ganar batallas, se trata de sumergirte en los escenarios familiares de Bikini Bottom, desde el Krusty Krab hasta Jellyfish Fields. Con actualizaciones regulares, eventos especiales y una comunidad en crecimiento, Spongebob Tower Defense continúa evolucionando, convirtiéndolo en un juego imprescindible para los fanáticos de Roblox.",
+			"featuresTitle": "Características Clave de Spongebob Tower Defense",
+			"features": {
+				"characters": {
+					"title": "Personajes Icónicos",
+					"description": "Juega como tus personajes favoritos, incluyendo Spongebob, Patrick y más. Cada personaje aporta habilidades únicas para mejorar tus estrategias de defensa."
+				},
+				"gameplay": {
+					"title": "Jugabilidad Dinámica de Defensa de Torres",
+					"description": "Coloca y mejora torres estratégicamente para repeler oleadas de enemigos y proteger Bikini Bottom."
+				},
+				"codes": {
+					"title": "Códigos Canjeables para Recompensas",
+					"description": "Mantente a la vanguardia en el juego canjeando códigos para desbloquear recompensas exclusivas como personajes, artículos y potenciadores."
+				},
+				"locations": {
+					"title": "Lugares de Bikini Bottom",
+					"description": "Explora lugares icónicos de la serie Spongebob, incluyendo el Krusty Krab, Goo Lagoon y más."
+				},
+				"strategies": {
+					"title": "Estrategias Personalizables",
+					"description": "Experimenta con la colocación de torres, combinaciones de personajes y mejoras para crear tu estrategia ganadora."
+				},
+				"updates": {
+					"title": "Actualizaciones Regulares",
+					"description": "Disfruta de nuevos niveles, personajes y desafíos con actualizaciones regulares que mantienen la jugabilidad fresca y emocionante."
+				}
+			},
+			"howToPlayTitle": "Cómo Jugar Spongebob Tower Defense",
+			"howToPlay": [{
+				"title": "Únete al Juego",
+				"description": "Visita la plataforma de Roblox, busca \"Spongebob Tower Defense\" y haz clic en \"Jugar.\""
+			}, {
+				"title": "Aprende lo Básico",
+				"description": "Sigue el tutorial del juego para entender la colocación de torres, las oleadas de enemigos y las mejoras."
+			}, {
+				"title": "Usa Códigos para Recompensas",
+				"description": "Canjea códigos para desbloquear valiosos recursos dentro del juego. Los códigos se pueden encontrar en plataformas oficiales, sitios web de juegos o comunidades de fanáticos."
+			}, {
+				"title": "Defiende Bikini Bottom",
+				"description": "Coloca torres y personajes estratégicamente para defenderte de oleadas de enemigos cada vez más difíciles."
+			}],
+			"popularityTitle": "¿Por qué es Spongebob Tower Defense Tan Popular?",
+			"popularity": [{
+				"title": "Nostalgia",
+				"description": "Los fanáticos de la serie Spongebob aman ver a sus personajes y lugares favoritos cobrar vida en un formato interactivo."
+			}, {
+				"title": "Jugabilidad Estratégica",
+				"description": "El juego combina diversión con poder mental, requiriendo que los jugadores piensen críticamente sobre la colocación y mejora de torres."
+			}, {
+				"title": "Participación de la Comunidad",
+				"description": "Con una fuerte base de seguidores y actualizaciones regulares, el juego fomenta un sentido de comunidad y emoción."
+			}, {
+				"title": "Acceso Gratuito",
+				"description": "Ser gratuito en Roblox lo hace accesible a una amplia audiencia, mientras que las compras opcionales dentro del juego ofrecen contenido adicional para quienes quieren más."
+			}],
+			"codesTitle": "Canjeando Códigos en Spongebob Tower Defense",
+			"codes": "Una de las características más emocionantes de Spongebob Tower Defense es la capacidad de canjear códigos por recompensas dentro del juego. Los códigos pueden proporcionar moneda del juego para comprar mejoras, personajes o artículos exclusivos, y potenciadores para ayudarte a enfrentar niveles desafiantes. Para canjear un código, simplemente haz clic en el botón \"Códigos\" en el menú del juego, ingresa el código y disfruta de tus recompensas. ¡Asegúrate de revisar fuentes oficiales y plataformas comunitarias regularmente para los últimos códigos!",
+			"tipsTitle": "Consejos y Estrategias para Spongebob Tower Defense",
+			"tips": [{
+				"title": "Mejora Torres con Sabiduría",
+				"description": "Concéntrate en mejorar las torres que se alineen con tu estrategia, ya sea ofensiva o defensiva."
+			}, {
+				"title": "Coloca Personajes Estratégicamente",
+				"description": "Coloca a tus personajes donde puedan maximizar sus habilidades."
+			}, {
+				"title": "Mantente Al Tanto de las Actualizaciones",
+				"description": "El nuevo contenido a menudo incluye personajes más fuertes y mejores recompensas."
+			}, {
+				"title": "Trabaja con Amigos",
+				"description": "El modo multijugador te permite unirte a amigos para batallas más desafiantes."
+			}, {
+				"title": "Experimenta",
+				"description": "Prueba diferentes combinaciones de torres y personajes para descubrir nuevas estrategias ganadoras."
+			}],
+			"communityTitle": "Comunidad y Actualizaciones",
+			"community": "La comunidad de Spongebob Tower Defense es vibrante y siempre en crecimiento. Únete a foros de fanáticos, participa en discusiones y comparte tus estrategias con otros jugadores. Los desarrolladores están comprometidos a mantener el juego emocionante, con actualizaciones regulares que introducen nuevos personajes, niveles y eventos especiales.",
+			"conclusionTitle": "Únete a la Diversión en Spongebob Tower Defense",
+			"conclusion": "Ya seas un jugador casual o un jugador competitivo, Spongebob Tower Defense ofrece una experiencia como ninguna otra. Sumérgete en el mundo submarino de Bikini Bottom, defiéndelo de los enemigos y revive tus momentos favoritos de Spongebob en este juego inmersivo de Roblox. ¡Comienza a jugar hoy y conviértete en un héroe en Bikini Bottom!"
+		}
+	},
+	"Codes": {
+		"title": "Códigos de Spongebob Tower Defense",
+		"subtitle": "¡Bienvenido a la guía definitiva para los Códigos de Spongebob Tower Defense! Si eres fanático de este emocionante juego de Roblox, estás en el lugar correcto. Aquí, proporcionamos una lista completa de códigos activos y expirados, explicamos cómo usarlos y ofrecemos consejos para aprovechar al máximo tus recompensas. Ya seas un nuevo jugador o un estratega experimentado, estos códigos pueden darte una ventaja en la defensa de Bikini Bottom.",
+		"whatAreCodesTitle": "¿Qué Son los Códigos de Spongebob Tower Defense?",
+		"whatAreCodes": "Los Códigos de Spongebob Tower Defense son cadenas especiales canjeables proporcionadas por los desarrolladores del juego. Estos códigos a menudo se liberan durante hitos, actualizaciones o eventos especiales y ofrecen valiosas recompensas dentro del juego. Al canjear estos códigos, los jugadores pueden acceder a recursos como Gemas, potenciadores y artículos exclusivos, ayudándoles a progresar más rápido y disfrutar de elementos de jugabilidad únicos.",
+		"activeCodes": {
+			"title": "Códigos Activos de Spongebob Tower Defense",
+			"description": "A continuación se presentan los códigos actualmente activos para Spongebob Tower Defense. Asegúrate de canjearlos lo antes posible, ya que pueden expirar en cualquier momento.",
+			"list": [{
+				"code": "OPCodeForReal",
+				"reward": "2000 Gemas, 5 Conchas Mágicas y 5 Reentrenamientos de Rasgos"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000 Gemas y 1 x2 Gemas"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 Hamburguesas Envejecidas, 2 x2 XP y 1 x2 Gemas"
+			}]
+		},
+		"expiredCodes": {
+			"title": "Códigos Expirados de Spongebob Tower Defense",
+			"description": "Aunque los siguientes códigos ya no están activos, muestran el tipo de recompensas que se ofrecieron previamente. ¡Esté atento a recompensas similares en futuros códigos!",
+			"list": [{
+				"code": "100KGoofyGoobers",
+				"reward": "10 Hamburguesas Bonitas, 5 Reentrenamientos de Rasgos y 2 Conchas Mágicas"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000 Gemas"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5 Reentrenamientos de Rasgos y 2 Conchas Mágicas"
+			}, {
+				"code": "OneUp",
+				"reward": "5 Hamburguesas Bonitas, 3 Hamburguesas Envejecidas y x2 XP"
+			}, {
+				"code": "25KHooray",
+				"reward": "500 Gemas, 3 Reentrenamientos de Rasgos y 1 Concha Mágica"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2 Reentrenamientos de Rasgos"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "recompensas de temática navideña"
+			}]
+		},
+		"howToRedeem": {
+			"title": "Cómo Canjear Códigos de Spongebob Tower Defense",
+			"description": "Canjear códigos en Spongebob Tower Defense es rápido y fácil. Sigue estos pasos para reclamar tus recompensas:",
+			"steps": [{
+				"title": "Inicia el Juego",
+				"description": "Abre Spongebob Tower Defense en Roblox."
+			}, {
+				"title": "Encuentra el Botón de Códigos",
+				"description": "En el menú principal, busca el botón \"Códigos\", que generalmente se encuentra en el lado izquierdo de la pantalla."
+			}, {
+				"title": "Ingresa el Código",
+				"description": "Haz clic en el botón \"Códigos\", escribe el código exactamente como se muestra (los códigos son sensibles a mayúsculas y minúsculas) y presiona \"Canjear\"."
+			}, {
+				"title": "Reclama Tu Recompensa",
+				"description": "Una vez canjeado, tus recompensas se agregarán a tu cuenta al instante."
+			}]
+		},
+		"tips": {
+			"title": "Consejos para Canjear Códigos",
+			"list": [{
+				"title": "Actúa Rápido",
+				"description": "Los códigos tienen una vida útil limitada, así que úsalos tan pronto como los encuentres."
+			}, {
+				"title": "Verifica si Hay Errores Tipográficos",
+				"description": "Los códigos son sensibles a mayúsculas y minúsculas. Asegúrate de ingresarlos exactamente como se proporcionan."
+			}, {
+				"title": "Mantente Actualizado",
+				"description": "Sigue canales oficiales del juego y comunidades de fanáticos para atrapar nuevos códigos a medida que se publican."
+			}, {
+				"title": "Marca Fuentes de Confianza",
+				"description": "Los sitios web y foros a menudo publican los últimos códigos, asegurando que no te los pierdas."
+			}]
+		},
+		"rewards": {
+			"title": "¿Qué Recompensas Puedes Obtener?",
+			"description": "Las recompensas de los Códigos de Spongebob Tower Defense varían, pero todas están diseñadas para mejorar tu experiencia de juego. Aquí tienes un resumen de lo que puedes esperar:",
+			"list": [{
+				"title": "Gemas",
+				"description": "Úsalas para desbloquear personajes, comprar mejoras y mejorar tu experiencia de juego."
+			}, {
+				"title": "Reentrenamientos de Rasgos",
+				"description": "Mejora las habilidades de tus personajes volviendo a tirar rasgos para obtener mejores estadísticas o efectos."
+			}, {
+				"title": "Potenciadores",
+				"description": "Multiplicadores temporales para XP, Gemas u otros recursos que te ayudan a progresar más rápido."
+			}, {
+				"title": "Artículos Exclusivos",
+				"description": "Aspectos de edición limitada, armas especiales o torres únicas que no están disponibles a través del juego normal."
+			}, {
+				"title": "Conchas Mágicas",
+				"description": "Un recurso raro para desbloquear contenido premium o mejorar tus estrategias."
+			}]
+		},
+		"findingCodes": {
+			"title": "Cómo Encontrar Nuevos Códigos de Spongebob Tower Defense",
+			"description": "Mantenerse al tanto de nuevos códigos es esencial para mantenerse a la vanguardia en el juego. Aquí tienes algunos consejos para encontrarlos:",
+			"list": ["Sigue Canales Oficiales: Los desarrolladores a menudo publican nuevos códigos en la página de Roblox del juego, Twitter o Discord.", "Únete a Comunidades de Fanáticos: Muchos foros de fanáticos y grupos de redes sociales comparten códigos y consejos.", "Revisa Actualizaciones Regularmente: Los códigos se lanzan frecuentemente durante actualizaciones de juegos o eventos.", "Monitorea Hitos: Cuando el juego alcanza hitos como recuentos de jugadores o aniversarios, los desarrolladores a menudo recompensan a la comunidad con códigos."]
+		},
+		"faq": {
+			"title": "Preguntas Frecuentes",
+			"list": [{
+				"question": "¿Con qué frecuencia se publican nuevos códigos?",
+				"answer": "Los códigos suelen lanzarse durante actualizaciones, eventos o cuando el juego alcanza un hito, como un número específico de jugadores o seguidores."
+			}, {
+				"question": "¿Por qué no funciona mi código?",
+				"answer": "Verifica si hay errores tipográficos y asegúrate de que el código no haya expirado. Algunos códigos son sensibles a mayúsculas y minúsculas, por lo que la precisión es crucial."
+			}, {
+				"question": "¿Puedo canjear un código más de una vez?",
+				"answer": "No, cada código solo se puede canjear una vez por cuenta."
+			}, {
+				"question": "¿Necesito pagar para usar códigos?",
+				"answer": "No, los códigos son gratuitos y están disponibles para todos los jugadores. Son una forma en que los desarrolladores recompensan a la comunidad."
+			}]
+		},
+		"conclusion": {
+			"title": "¿Por qué Usar Códigos de Spongebob Tower Defense?",
+			"description": "Los códigos son una excelente manera de mejorar tu experiencia de juego en Spongebob Tower Defense. Proporcionan recursos gratuitos, desbloqueos y mejoras, permitiendo a los jugadores avanzar más rápido y disfrutar de contenido único. Al canjear códigos regularmente, puedes mantenerte competitivo y explorar todo el potencial del juego."
+		},
+		"videoSection": {
+			"title": "Cómo Canjear Códigos",
+			"description": "Mira nuestra guía rápida sobre cómo canjear códigos en Spongebob Tower Defense"
+		}
+	}
 }
