@@ -275,43 +275,109 @@
 		"whatAreCodesTitle": "스폰지밥 타워 디펜스 코드는 무엇인가요?",
 		"whatAreCodes": "스폰지밥 타워 디펜스 코드는 게임 개발자가 제공하는 특별한 교환 가능한 문자열입니다. 이러한 코드는 종종 이정표, 업데이트 또는 특별 이벤트 중에 출시되며, 가치 있는 인게임 보상을 제공합니다. 이러한 코드를 사용하여 플레이어는 자원, 부스트 및 독점 아이템에 접근할 수 있어 빠르게 진행하고 독특한 게임 요소를 즐길 수 있습니다.",
 		"activeCodes": {
-			"title": "활성 스폰지밥 타워 디펜스 코드",
-			"description": "아래는 현재 활성 스폰지밥 타워 디펜스 코드입니다. 가능한 한 빨리 교환하세요, 왜냐하면 언제 만료될 수 있기 때문입니다.",
+			"title": "스폰지밥 타워 디펜스 활성 코드",
+			"description": "다음은 현재 활성화된 스폰지밥 타워 디펜스 코드입니다. 만료될 수 있으니 가능한 한 빨리 사용하세요.",
 			"list": [{
-				"code": "OPCodeForReal",
-				"reward": "2000 젬, 5 마법 조개, 5 특성 재조정"
+				"code": "550KAllTheWay",
+				"reward": "1,000 보석, 5 매직 콘치"
 			}, {
-				"code": "ImReadyImReady",
-				"reward": "1000 젬 및 1 x2 젬"
+				"code": "ONTHATGRIND",
+				"reward": "1,500 보석, 1 x2 XP"
+			}, {
+				"code": "iWATCHEDTHEVIDEO",
+				"reward": "5 매직 콘치"
+			}, {
+				"code": "MassiveUpdate4",
+				"reward": "2,000 보석, 3 매직 콘치, 2 x2 XP"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "5 매직 콘치"
+			}, {
+				"code": "500KFeelingOkay",
+				"reward": "2,000 보석, 1 매직 콘치, 10 보물 상자"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2,000 보석, 3 매직 콘치, 5 특성 리롤"
+			}, {
+				"code": "PiratesBooty",
+				"reward": "10 보물 상자"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5,000 코인, 1 x2 EXP, 1 x2 보석"
+			}, {
+				"code": "900GemsPLS",
+				"reward": "900 보석"
+			}, {
+				"code": "FUUUTURE",
+				"reward": "1,000 보석, 100 크래비 패티, 3 에픽 보물 상자"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25 보물 상자"
+			}, {
+				"code": "TrinketsAPlenty",
+				"reward": "1,000 보석, 10 보물 상자"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25,000 코인, 10 보물 상자"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5,000 보석"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10,000 코인, 1,000 보석"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 특성 리롤, 3 매직 콘치"
+			}, {
+				"code": "SummonTime",
+				"reward": "1,000 보석, 1 매직 콘치"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1,500 보석, 2 x2 보석"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2,000 보석, 5 매직 콘치, 5 특성 리롤"
 			}, {
 				"code": "BoostJuice",
-				"reward": "10 노화된 패티, 2 x2 XP, 및 1 x2 젬"
+				"reward": "10 숙성된 패티, 2 x2 XP, 1 x2 보석"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1,000 보석, x2 보석 부스트 (1시간)"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1,000 보석, 3 매직 콘치, 5 특성 리롤, 5 보물 상자"
+			}, {
+				"code": "LoyalKrabbyKrewSub",
+				"reward": "500 골드 스파출라, 10 보물 상자"
 			}]
 		},
 		"expiredCodes": {
-			"title": "만료된 스폰지밥 타워 디펜스 코드",
-			"description": "다음 코드는 더 이상 활성화되지 않지만 예전의 보상 유형을 보여줍니다. 향후 코드에서도 유사한 보상을 주의 깊게 살펴보세요!",
+			"title": "스폰지밥 타워 디펜스 만료된 코드",
+			"description": "이 코드들은 더 이상 활성화되지 않았지만, 향후 코드에서 기대할 수 있는 보상 유형을 보여줍니다:",
 			"list": [{
 				"code": "100KGoofyGoobers",
-				"reward": "10 이쁜 패티, 5 특성 재조정, 및 2 마법 조개"
+				"reward": "10 프리티 패티, 5 특성 리롤, 2 매직 콘치"
 			}, {
 				"code": "GemsOnGems",
-				"reward": "2000 젬"
+				"reward": "2,000 보석"
 			}, {
 				"code": "NowThisIsOP",
-				"reward": "5 특성 재조정 및 2 마법 조개"
+				"reward": "5 특성 리롤, 2 매직 콘치"
 			}, {
 				"code": "OneUp",
-				"reward": "5 이쁜 패티, 3 노화된 패티, 및 x2 XP"
+				"reward": "5 프리티 패티, 2 숙성된 패티, x2 EXP (60분)"
 			}, {
 				"code": "25KHooray",
-				"reward": "500 젬, 3 특성 재조정, 및 1 마법 조개"
+				"reward": "500 보석, 3 특성 리롤, 1 매직 콘치"
 			}, {
 				"code": "SandysDojo",
-				"reward": "2 특성 재조정"
+				"reward": "2 특성 리롤"
 			}, {
 				"code": "XmasUnderDaSea",
-				"reward": "명절 테마의 보상"
+				"reward": "x2 보석 부스트 (60분), x2 EXP 부스트 (60분), 1 매직 콘치"
+			}, {
+				"code": "Sorry4Bugs",
+				"reward": "15 보물 상자"
 			}]
 		},
 		"howToRedeem": {

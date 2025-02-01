@@ -277,42 +277,142 @@
     "activeCodes": {
       "title": "Active Spongebob Tower Defense Codes",
       "description": "Below are the currently active codes for Spongebob Tower Defense. Make sure to redeem them as soon as possible, as they may expire at any time.",
-      "list": [{
-        "code": "OPCodeForReal",
-        "reward": "2000 Gems, 5 Magic Conches, and 5 Trait Rerolls"
-      }, {
-        "code": "ImReadyImReady",
-        "reward": "1000 Gems and 1 x2 Gems"
-      }, {
-        "code": "BoostJuice",
-        "reward": "10 Aged Patties, 2 x2 XP, and 1 x2 Gems"
-      }]
+      "list": [
+        {
+          "code": "550KAllTheWay",
+          "reward": "1,000 Gems, 5 Magic Conches"
+        },
+        {
+          "code": "ONTHATGRIND",
+          "reward": "1,500 Gems, 1 x2 XP"
+        },
+        {
+          "code": "iWATCHEDTHEVIDEO",
+          "reward": "5 Magic Conches"
+        },
+        {
+          "code": "MassiveUpdate4",
+          "reward": "2,000 Gems, 3 Magic Conches, 2 x2 XP"
+        },
+        {
+          "code": "KRABBYKREWYT",
+          "reward": "5 Magic Conches"
+        },
+        {
+          "code": "500KFeelingOkay",
+          "reward": "2,000 Gems, 1 Magic Conch, 10 Treasure Chests"
+        },
+        {
+          "code": "450KHipHipHooray",
+          "reward": "2,000 Gems, 3 Magic Conches, 5 Trait Rerolls"
+        },
+        {
+          "code": "PiratesBooty",
+          "reward": "10 Treasure Chests"
+        },
+        {
+          "code": "VaultedYummies",
+          "reward": "5,000 Coins, 1 x2 EXP, 1 x2 Gems"
+        },
+        {
+          "code": "900GemsPLS",
+          "reward": "900 Gems"
+        },
+        {
+          "code": "FUUUTURE",
+          "reward": "1,000 Gems, 100 Krabby Patties, 3 Epic Treasure Chests"
+        },
+        {
+          "code": "400KNoWay",
+          "reward": "25 Treasure Chests"
+        },
+        {
+          "code": "TrinketsAPlenty",
+          "reward": "1,000 Gems, 10 Treasure Chests"
+        },
+        {
+          "code": "ShowMeTheUpdate",
+          "reward": "25,000 Coins, 10 Treasure Chests"
+        },
+        {
+          "code": "500KAnchovies",
+          "reward": "5,000 Gems"
+        },
+        {
+          "code": "QuarterMillion",
+          "reward": "10,000 Coins, 1,000 Gems"
+        },
+        {
+          "code": "ThatWasFast",
+          "reward": "10 Trait Rerolls, 3 Magic Conches"
+        },
+        {
+          "code": "SummonTime",
+          "reward": "1,000 Gems, 1 Magic Conch"
+        },
+        {
+          "code": "SecretHunter",
+          "reward": "1,500 Gems, 2 x2 Gems"
+        },
+        {
+          "code": "OPCodeForReal",
+          "reward": "2,000 Gems, 5 Magic Conches, 5 Trait Rerolls"
+        },
+        {
+          "code": "BoostJuice",
+          "reward": "10 Aged Patties, 2 x2 XP, 1 x2 Gems"
+        },
+        {
+          "code": "ImReadyImReady",
+          "reward": "1,000 Gems, x2 Gems Boost (1 hour)"
+        },
+        {
+          "code": "600KMillionAnchovies",
+          "reward": "1,000 Gems, 3 Magic Conches, 5 Trait Rerolls, 5 Treasure Chests"
+        },
+        {
+          "code": "LoyalKrabbyKrewSub",
+          "reward": "500 Gold Spatulas, 10 Treasure Chests"
+        }
+      ]
     },
     "expiredCodes": {
       "title": "Expired Spongebob Tower Defense Codes",
-      "description": "While the following codes are no longer active, they show the type of rewards previously offered. Keep an eye out for similar rewards in future codes!",
-      "list": [{
-        "code": "100KGoofyGoobers",
-        "reward": "10 Pretty Patties, 5 Trait Rerolls, and 2 Magic Conches"
-      }, {
-        "code": "GemsOnGems",
-        "reward": "2000 Gems"
-      }, {
-        "code": "NowThisIsOP",
-        "reward": "5 Trait Rerolls and 2 Magic Conches"
-      }, {
-        "code": "OneUp",
-        "reward": "5 Pretty Patties, 3 Aged Patties, and x2 XP"
-      }, {
-        "code": "25KHooray",
-        "reward": "500 Gems, 3 Trait Rerolls, and 1 Magic Conch"
-      }, {
-        "code": "SandysDojo",
-        "reward": "2 Trait Rerolls"
-      }, {
-        "code": "XmasUnderDaSea",
-        "reward": "holiday-themed rewards"
-      }]
+      "description": "These codes are no longer active, but they show what kind of rewards you can expect from future codes:",
+      "list": [
+        {
+          "code": "100KGoofyGoobers",
+          "reward": "10 Pretty Patties, 5 Trait Rerolls, 2 Magic Conches"
+        },
+        {
+          "code": "GemsOnGems",
+          "reward": "2,000 Gems"
+        },
+        {
+          "code": "NowThisIsOP",
+          "reward": "5 Trait Rerolls, 2 Magic Conches"
+        },
+        {
+          "code": "OneUp",
+          "reward": "5 Pretty Patties, 2 Aged Patties, x2 EXP (60 minutes)"
+        },
+        {
+          "code": "25KHooray",
+          "reward": "500 Gems, 3 Trait Rerolls, 1 Magic Conch"
+        },
+        {
+          "code": "SandysDojo",
+          "reward": "2 Trait Rerolls"
+        },
+        {
+          "code": "XmasUnderDaSea",
+          "reward": "x2 Gems Boost (60 minutes), x2 EXP Boost (60 minutes), 1 Magic Conch"
+        },
+        {
+          "code": "Sorry4Bugs",
+          "reward": "15 Treasure Chests"
+        }
+      ]
     },
     "howToRedeem": {
       "title": "How to Redeem Spongebob Tower Defense Codes",

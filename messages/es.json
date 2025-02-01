@@ -275,44 +275,144 @@
 		"whatAreCodesTitle": "¿Qué Son los Códigos de Spongebob Tower Defense?",
 		"whatAreCodes": "Los Códigos de Spongebob Tower Defense son cadenas especiales canjeables proporcionadas por los desarrolladores del juego. Estos códigos a menudo se liberan durante hitos, actualizaciones o eventos especiales y ofrecen valiosas recompensas dentro del juego. Al canjear estos códigos, los jugadores pueden acceder a recursos como Gemas, potenciadores y artículos exclusivos, ayudándoles a progresar más rápido y disfrutar de elementos de jugabilidad únicos.",
 		"activeCodes": {
-			"title": "Códigos Activos de Spongebob Tower Defense",
-			"description": "A continuación se presentan los códigos actualmente activos para Spongebob Tower Defense. Asegúrate de canjearlos lo antes posible, ya que pueden expirar en cualquier momento.",
-			"list": [{
-				"code": "OPCodeForReal",
-				"reward": "2000 Gemas, 5 Conchas Mágicas y 5 Reentrenamientos de Rasgos"
-			}, {
-				"code": "ImReadyImReady",
-				"reward": "1000 Gemas y 1 x2 Gemas"
-			}, {
-				"code": "BoostJuice",
-				"reward": "10 Hamburguesas Envejecidas, 2 x2 XP y 1 x2 Gemas"
-			}]
+			"title": "Códigos activos de Spongebob Tower Defense",
+			"description": "A continuación se muestran los códigos actualmente activos para Spongebob Tower Defense. Asegúrate de canjearlos lo antes posible, ya que pueden caducar en cualquier momento.",
+			"list": [
+				{
+					"code": "550KAllTheWay",
+					"reward": "1,000 Gemas, 5 Conchas Mágicas"
+				},
+				{
+					"code": "ONTHATGRIND",
+					"reward": "1,500 Gemas, 1 x2 XP"
+				},
+				{
+					"code": "iWATCHEDTHEVIDEO",
+					"reward": "5 Conchas Mágicas"
+				},
+				{
+					"code": "MassiveUpdate4",
+					"reward": "2,000 Gemas, 3 Conchas Mágicas, 2 x2 XP"
+				},
+				{
+					"code": "KRABBYKREWYT",
+					"reward": "5 Conchas Mágicas"
+				},
+				{
+					"code": "500KFeelingOkay",
+					"reward": "2,000 Gemas, 1 Concha Mágica, 10 Cofres del Tesoro"
+				},
+				{
+					"code": "450KHipHipHooray",
+					"reward": "2,000 Gemas, 3 Conchas Mágicas, 5 Rerolls de Rasgo"
+				},
+				{
+					"code": "PiratesBooty",
+					"reward": "10 Cofres del Tesoro"
+				},
+				{
+					"code": "VaultedYummies",
+					"reward": "5,000 Monedas, 1 x2 EXP, 1 x2 Gemas"
+				},
+				{
+					"code": "900GemsPLS",
+					"reward": "900 Gemas"
+				},
+				{
+					"code": "FUUUTURE",
+					"reward": "1,000 Gemas, 100 Cangreburgers, 3 Cofres del Tesoro Épicos"
+				},
+				{
+					"code": "400KNoWay",
+					"reward": "25 Cofres del Tesoro"
+				},
+				{
+					"code": "TrinketsAPlenty",
+					"reward": "1,000 Gemas, 10 Cofres del Tesoro"
+				},
+				{
+					"code": "ShowMeTheUpdate",
+					"reward": "25,000 Monedas, 10 Cofres del Tesoro"
+				},
+				{
+					"code": "500KAnchovies",
+					"reward": "5,000 Gemas"
+				},
+				{
+					"code": "QuarterMillion",
+					"reward": "10,000 Monedas, 1,000 Gemas"
+				},
+				{
+					"code": "ThatWasFast",
+					"reward": "10 Rerolls de Rasgo, 3 Conchas Mágicas"
+				},
+				{
+					"code": "SummonTime",
+					"reward": "1,000 Gemas, 1 Concha Mágica"
+				},
+				{
+					"code": "SecretHunter",
+					"reward": "1,500 Gemas, 2 x2 Gemas"
+				},
+				{
+					"code": "OPCodeForReal",
+					"reward": "2,000 Gemas, 5 Conchas Mágicas, 5 Rerolls de Rasgo"
+				},
+				{
+					"code": "BoostJuice",
+					"reward": "10 Cangreburgers Añejas, 2 x2 XP, 1 x2 Gemas"
+				},
+				{
+					"code": "ImReadyImReady",
+					"reward": "1,000 Gemas, x2 Gemas Boost (1 hora)"
+				},
+				{
+					"code": "600KMillionAnchovies",
+					"reward": "1,000 Gemas, 3 Conchas Mágicas, 5 Rerolls de Rasgo, 5 Cofres del Tesoro"
+				},
+				{
+					"code": "LoyalKrabbyKrewSub",
+					"reward": "500 Espátulas Doradas, 10 Cofres del Tesoro"
+				}
+			]
 		},
 		"expiredCodes": {
-			"title": "Códigos Expirados de Spongebob Tower Defense",
-			"description": "Aunque los siguientes códigos ya no están activos, muestran el tipo de recompensas que se ofrecieron previamente. ¡Esté atento a recompensas similares en futuros códigos!",
-			"list": [{
-				"code": "100KGoofyGoobers",
-				"reward": "10 Hamburguesas Bonitas, 5 Reentrenamientos de Rasgos y 2 Conchas Mágicas"
-			}, {
-				"code": "GemsOnGems",
-				"reward": "2000 Gemas"
-			}, {
-				"code": "NowThisIsOP",
-				"reward": "5 Reentrenamientos de Rasgos y 2 Conchas Mágicas"
-			}, {
-				"code": "OneUp",
-				"reward": "5 Hamburguesas Bonitas, 3 Hamburguesas Envejecidas y x2 XP"
-			}, {
-				"code": "25KHooray",
-				"reward": "500 Gemas, 3 Reentrenamientos de Rasgos y 1 Concha Mágica"
-			}, {
-				"code": "SandysDojo",
-				"reward": "2 Reentrenamientos de Rasgos"
-			}, {
-				"code": "XmasUnderDaSea",
-				"reward": "recompensas de temática navideña"
-			}]
+			"title": "Códigos expirados de Spongebob Tower Defense",
+			"description": "Estos códigos ya no están activos, pero muestran qué tipo de recompensas puedes esperar de futuros códigos:",
+			"list": [
+				{
+					"code": "100KGoofyGoobers",
+					"reward": "10 Cangreburgers Bonitas, 5 Rerolls de Rasgo, 2 Conchas Mágicas"
+				},
+				{
+					"code": "GemsOnGems",
+					"reward": "2,000 Gemas"
+				},
+				{
+					"code": "NowThisIsOP",
+					"reward": "5 Rerolls de Rasgo, 2 Conchas Mágicas"
+				},
+				{
+					"code": "OneUp",
+					"reward": "5 Cangreburgers Bonitas, 2 Cangreburgers Añejas, x2 EXP (60 minutos)"
+				},
+				{
+					"code": "25KHooray",
+					"reward": "500 Gemas, 3 Rerolls de Rasgo, 1 Concha Mágica"
+				},
+				{
+					"code": "SandysDojo",
+					"reward": "2 Rerolls de Rasgo"
+				},
+				{
+					"code": "XmasUnderDaSea",
+					"reward": "x2 Gemas Boost (60 minutos), x2 EXP Boost (60 minutos), 1 Concha Mágica"
+				},
+				{
+					"code": "Sorry4Bugs",
+					"reward": "15 Cofres del Tesoro"
+				}
+			]
 		},
 		"howToRedeem": {
 			"title": "Cómo Canjear Códigos de Spongebob Tower Defense",

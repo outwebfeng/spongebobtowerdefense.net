@@ -275,43 +275,109 @@
 		"whatAreCodesTitle": "什麼是海綿寶寶塔防代碼？",
 		"whatAreCodes": "海綿寶寶塔防代碼是由遊戲開發者提供的特殊可兌換字符串。這些代碼通常在里程碑、更新或特殊事件中發布，並提供有價值的遊戲內獎勵。通過兌換這些代碼，玩家可以獲得資源，如寶石、提升和專屬物品，幫助他們更快進展並享受獨特的遊戲元素。",
 		"activeCodes": {
-			"title": "有效的海綿寶寶塔防代碼",
-			"description": "以下是目前有效的海綿寶寶塔防代碼。確保盡快兌換它們，因為它們可能隨時過期。",
+			"title": "海綿寶寶塔防有效代碼",
+			"description": "以下是目前海綿寶寶塔防的有效代碼。請盡快使用，因為這些代碼可能會過期。",
 			"list": [{
-				"code": "OPCodeForReal",
-				"reward": "2000顆寶石、5個魔法貝殼和5次屬性重擲"
+				"code": "550KAllTheWay",
+				"reward": "1,000 寶石、5 魔法海螺"
 			}, {
-				"code": "ImReadyImReady",
-				"reward": "1000顆寶石和1個x2寶石"
+				"code": "ONTHATGRIND",
+				"reward": "1,500 寶石、1 x2 經驗值"
+			}, {
+				"code": "iWATCHEDTHEVIDEO",
+				"reward": "5 魔法海螺"
+			}, {
+				"code": "MassiveUpdate4",
+				"reward": "2,000 寶石、3 魔法海螺、2 x2 經驗值"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "5 魔法海螺"
+			}, {
+				"code": "500KFeelingOkay",
+				"reward": "2,000 寶石、1 魔法海螺、10 寶箱"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2,000 寶石、3 魔法海螺、5 特質重抽"
+			}, {
+				"code": "PiratesBooty",
+				"reward": "10 寶箱"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5,000 金幣、1 x2 經驗值、1 x2 寶石"
+			}, {
+				"code": "900GemsPLS",
+				"reward": "900 寶石"
+			}, {
+				"code": "FUUUTURE",
+				"reward": "1,000 寶石、100 蟹堡、3 史詩寶箱"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25 寶箱"
+			}, {
+				"code": "TrinketsAPlenty",
+				"reward": "1,000 寶石、10 寶箱"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25,000 金幣、10 寶箱"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5,000 寶石"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10,000 金幣、1,000 寶石"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 特質重抽、3 魔法海螺"
+			}, {
+				"code": "SummonTime",
+				"reward": "1,000 寶石、1 魔法海螺"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1,500 寶石、2 x2 寶石"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2,000 寶石、5 魔法海螺、5 特質重抽"
 			}, {
 				"code": "BoostJuice",
-				"reward": "10個陳年漢堡、2個x2經驗和1個x2寶石"
+				"reward": "10 陳年蟹堡、2 x2 經驗值、1 x2 寶石"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1,000 寶石、x2 寶石加成（1小時）"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1,000 寶石、3 魔法海螺、5 特質重抽、5 寶箱"
+			}, {
+				"code": "LoyalKrabbyKrewSub",
+				"reward": "500 金鏟子、10 寶箱"
 			}]
 		},
 		"expiredCodes": {
-			"title": "過期的海綿寶寶塔防代碼",
-			"description": "雖然以下代碼不再有效，但顯示了以前提供的獎勵類型！請注意未來代碼中可能出現類似獎勵！",
+			"title": "海綿寶寶塔防過期代碼",
+			"description": "這些代碼已經失效，但它們顯示了未來代碼可能提供的獎勵類型：",
 			"list": [{
 				"code": "100KGoofyGoobers",
-				"reward": "10個漂亮漢堡、5次屬性重擲和2個魔法貝殼"
+				"reward": "10 美味蟹堡、5 特質重抽、2 魔法海螺"
 			}, {
 				"code": "GemsOnGems",
-				"reward": "2000顆寶石"
+				"reward": "2,000 寶石"
 			}, {
 				"code": "NowThisIsOP",
-				"reward": "5次屬性重擲和2個魔法貝殼"
+				"reward": "5 特質重抽、2 魔法海螺"
 			}, {
 				"code": "OneUp",
-				"reward": "5個漂亮漢堡、3個陳年漢堡和x2經驗"
+				"reward": "5 美味蟹堡、2 陳年蟹堡、x2 經驗值（60分鐘）"
 			}, {
 				"code": "25KHooray",
-				"reward": "500顆寶石、3次屬性重擲和1個魔法貝殼"
+				"reward": "500 寶石、3 特質重抽、1 魔法海螺"
 			}, {
 				"code": "SandysDojo",
-				"reward": "2次屬性重擲"
+				"reward": "2 特質重抽"
 			}, {
 				"code": "XmasUnderDaSea",
-				"reward": "節日主題的獎勵"
+				"reward": "x2 寶石加成（60分鐘）、x2 經驗值加成（60分鐘）、1 魔法海螺"
+			}, {
+				"code": "Sorry4Bugs",
+				"reward": "15 寶箱"
 			}]
 		},
 		"howToRedeem": {
