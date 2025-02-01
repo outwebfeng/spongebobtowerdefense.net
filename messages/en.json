@@ -112,7 +112,7 @@
       "title": "Frequently Asked Questions",
       "description": "Got questions? We've got answers!",
       "list": [{
-        "question": "What is Spongebob Tower Defense?",
+          "question": "What is Spongebob Tower Defense?",
         "answer": "Spongebob Tower Defense is a Roblox game where players use characters and towers to defend Bikini Bottom against waves of enemies in strategic tower defense gameplay."
       }, {
         "question": "How do I start playing Spongebob Tower Defense?",
@@ -127,7 +127,7 @@
         "question": "What rewards do codes provide in the game?",
         "answer": "Codes typically provide rewards such as in-game currency, exclusive items, character unlocks, and boosts to help in gameplay."
       }, {
-        "question": "Can I play Spongebob Tower Defense with friends?",
+          "question": "Can I play Spongebob Tower Defense with friends?",
         "answer": "Yes, Spongebob Tower Defense supports multiplayer mode, allowing you to team up with friends and tackle challenges together."
       }, {
         "question": "How do I unlock new characters and towers?",
@@ -272,6 +272,7 @@
   "Codes": {
     "title": "Spongebob Tower Defense Codes",
     "subtitle": "Welcome to the ultimate guide for Spongebob Tower Defense Codes! If you're a fan of this exciting Roblox game, you're in the right place. Here, we provide a complete list of active and expired codes, explain how to use them, and offer tips for making the most of your rewards. Whether you're a new player or a seasoned strategist, these codes can give you an edge in defending Bikini Bottom.",
+    "lastUpdate": "Last Updated: February 1, 2025",
     "whatAreCodesTitle": "What Are Spongebob Tower Defense Codes?",
     "whatAreCodes": "Spongebob Tower Defense Codes are special redeemable strings provided by the game developers. These codes are often released during milestones, updates, or special events and offer valuable in-game rewards. By redeeming these codes, players can gain access to resources like Gems, boosts, and exclusive items, helping them progress faster and enjoy unique gameplay elements.",
     "activeCodes": {

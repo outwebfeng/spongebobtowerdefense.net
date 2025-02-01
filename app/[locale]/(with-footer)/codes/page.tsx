@@ -1,5 +1,6 @@
-import { unstable_setRequestLocale, getTranslations } from 'next-intl/server';
 import { Metadata } from 'next';
+import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
+
 import CodesContent from './CodesContent';
 
 type Props = {
@@ -9,7 +10,7 @@ type Props = {
 export async function generateMetadata({ params: { locale } }: Props): Promise<Metadata> {
   const t = await getTranslations('Metadata.codes');
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://spongebobtowerdefense.net';
-  
+
   const canonicalPath = locale === 'en' ? '/codes' : `/${locale}/codes`;
   const canonicalUrl = `${baseUrl}${canonicalPath}`;
 
@@ -37,13 +38,14 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
 
 export default async function CodesPage({ params: { locale } }: Props) {
   unstable_setRequestLocale(locale);
-  
+
   const t = await getTranslations('Codes');
 
   // 将翻译内容转换为普通对象
   const translations = {
     title: t('title'),
     subtitle: t('subtitle'),
+    lastUpdate: t('lastUpdate'),
     videoSection: {
       title: t('videoSection.title'),
       description: t('videoSection.description'),
@@ -90,4 +92,4 @@ export default async function CodesPage({ params: { locale } }: Props) {
   };
 
   return <CodesContent translations={translations} />;
-} 
+}

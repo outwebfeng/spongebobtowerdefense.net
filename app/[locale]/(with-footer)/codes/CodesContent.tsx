@@ -5,6 +5,7 @@ import YouTubeVideo from '@/components/video/YouTubeVideo';
 interface TranslationsType {
   title: string;
   subtitle: string;
+  lastUpdate: string;
   videoSection: {
     title: string;
     description: string;
@@ -77,6 +78,7 @@ export default function CodesContent({ translations }: CodesContentProps) {
     <article className='mx-auto max-w-4xl px-4 py-16'>
       <h1 className='mb-4 text-4xl font-bold text-gray-900'>{translations.title}</h1>
       <p className='mb-8 text-lg text-gray-600'>{translations.subtitle}</p>
+      <p className='mb-8 text-sm italic text-gray-500'>{translations.lastUpdate}</p>
 
       {/* Video Section */}
       <section className='mb-16'>
