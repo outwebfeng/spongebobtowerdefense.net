@@ -13,11 +13,6 @@
 			"description": "Descubre la historia detrás de Spongebob Tower Defense, interpretado por T.O.P (Choi Seung-hyun). Aprende sobre el papel único de este personaje, su impacto y la fusión del drama distópico con la influencia de Marvel.",
 			"keywords": ""
 		},
-		"download": {
-			"title": "Descarga Consejos de Spongebob Tower Defense - Obtén el Juego de Supervivencia Definitivo",
-			"description": "Descarga Consejos de Spongebob Tower Defense ahora y experimenta los emocionantes desafíos de supervivencia. ¡Mira nuestro video de juego y únete a millones de jugadores en todo el mundo!",
-			"keywords": ""
-		},
 		"codes": {
 			"title": "Códigos de Spongebob Tower Defense - Últimos Códigos Activos y Recompensas",
 			"description": "¡Encuentra todos los últimos códigos activos para Spongebob Tower Defense! Canjea estos códigos por recompensas gratuitas, potenciadores y artículos dentro del juego. ¡Actualizado regularmente con nuevos códigos!",
@@ -31,7 +26,6 @@
 		"playNow": "Inicio",
 		"toggleMenu": "Alternar Menú",
 		"about": "Acerca de",
-		"download": "Descargar",
 		"codes": "Códigos"
 	},
 	"NotFound": {
