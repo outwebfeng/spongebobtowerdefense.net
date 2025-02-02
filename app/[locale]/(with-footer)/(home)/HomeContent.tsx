@@ -1,6 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
+
 import YouTubeVideo from '@/components/video/YouTubeVideo';
 
 const ScrollToTop = dynamic(() => import('@/components/page/ScrollToTop'), { ssr: false });
@@ -39,7 +40,7 @@ interface HomeContentProps {
         content: string;
         author: string;
         title: string;
-      }>,
+      }>;
     };
     faq: {
       title: string;
@@ -57,29 +58,20 @@ export default function HomeContent({ translations }: HomeContentProps) {
     <>
       <ScrollToTop />
       {/* Hero Section */}
-      <section 
-        id='hero' 
-        className='relative flex min-h-[80vh] items-center justify-center w-full bg-cover bg-center bg-no-repeat bg-gray-900'
+      <section
+        id='hero'
+        className='relative flex min-h-[80vh] w-full items-center justify-center bg-gray-900 bg-cover bg-center bg-no-repeat'
         style={{
-          background: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero-bg.jpg") center/cover no-repeat',
+          background:
+            'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero-bg.jpg") center/cover no-repeat',
         }}
       >
         <div className='relative z-10 mx-auto w-full max-w-pc px-4 text-center sm:px-6 lg:px-8'>
           <div className='mx-auto max-w-3xl'>
-            <h1 className='mb-4 text-4xl font-bold text-white sm:text-6xl whitespace-normal'>
+            <h1 className='mb-4 whitespace-normal text-4xl font-bold text-white sm:text-6xl'>
               {translations.hero.title}
             </h1>
-            <p className='mb-8 text-lg text-gray-200 whitespace-normal'>
-              {translations.hero.description}
-            </p>
-            <a
-              href={translations.hero.robloxUrl}
-              target='_blank'
-              rel='noopener noreferrer'
-              className='inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white bg-[rgb(54,198,255)] hover:bg-[rgb(44,188,245)] rounded-lg transition-colors duration-200 transform hover:scale-105'
-            >
-              {translations.hero.playNow}
-            </a>
+            <p className='mb-8 whitespace-normal text-lg text-gray-200'>{translations.hero.description}</p>
           </div>
         </div>
       </section>
@@ -87,10 +79,10 @@ export default function HomeContent({ translations }: HomeContentProps) {
       {/* Related Video Section */}
       <section className='bg-white py-16'>
         <div className='mx-auto max-w-pc px-4 sm:px-6 lg:px-8'>
-          <div className='text-center mb-8'>
-            <h2 className='text-3xl font-bold text-gray-900 mb-4'>{translations.videoSection.title}</h2>
+          <div className='mb-8 text-center'>
+            <h2 className='mb-4 text-3xl font-bold text-gray-900'>{translations.videoSection.title}</h2>
           </div>
-          <div className='w-full aspect-[16/9] rounded-lg overflow-hidden shadow-lg'>
+          <div className='aspect-[16/9] w-full overflow-hidden rounded-lg shadow-lg'>
             <YouTubeVideo videoId='bpAGlLbEujA' />
           </div>
         </div>
