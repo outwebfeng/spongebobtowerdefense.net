@@ -72,6 +72,14 @@ export default function HomeContent({ translations }: HomeContentProps) {
               {translations.hero.title}
             </h1>
             <p className='mb-8 whitespace-normal text-lg text-gray-200'>{translations.hero.description}</p>
+            <a
+              href={translations.hero.robloxUrl}
+              target='_blank'
+              rel='noopener noreferrer'
+              className='inline-flex transform items-center justify-center rounded-lg bg-[rgb(54,198,255)] px-8 py-4 text-lg font-bold text-white transition-colors duration-200 hover:scale-105 hover:bg-[rgb(44,188,245)]'
+            >
+              {translations.hero.playNow}
+            </a>
           </div>
         </div>
       </section>
