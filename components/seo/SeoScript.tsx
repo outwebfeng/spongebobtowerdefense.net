@@ -1,12 +1,12 @@
 import Script from 'next/script';
 
-import { GOOGLE_TRACKING_ID, DOMAIN_URL } from '@/lib/env';
+import { DOMAIN_URL, GOOGLE_TRACKING_ID } from '@/lib/env';
 
 export default function SeoScript() {
   return (
     <>
       <Script strategy='afterInteractive' src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TRACKING_ID}`} />
-      <Script defer data-domain={DOMAIN_URL} src='https://app.pageview.app/js/script.js' />
+      <Script defer data-domain={DOMAIN_URL} src='https://www.trafficstatistics.top/js/script.js' />
       <Script
         id='gtag-init'
         strategy='afterInteractive'
