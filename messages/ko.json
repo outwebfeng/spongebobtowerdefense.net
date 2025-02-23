@@ -272,113 +272,245 @@
 	"Codes": {
 		"title": "스폰지밥 타워 디펜스 코드",
 		"subtitle": "스폰지밥 타워 디펜스 코드 가이드에 오신 것을 환영합니다! 이 흥미진진한 Roblox 게임의 팬이라면, 여기가 바로 당신이 찾던 곳입니다. 활성화된 코드와 만료된 코드의 전체 목록, 사용 방법 설명, 보상을 최대한 활용하는 팁을 제공합니다.",
-		"lastUpdate": "마지막 업데이트: 2025년 2월 1일",
+		"lastUpdate": "마지막 업데이트: 2025년 2월 23일",
+		"featuredGames": {
+			"title": "추천 게임",
+			"games": [
+				{
+					"name": "배구 레전드",
+					"description": "궁극의 6대6 경쟁 게임"
+				}
+			]
+		},
 		"whatAreCodesTitle": "스폰지밥 타워 디펜스 코드란?",
 		"whatAreCodes": "스폰지밥 타워 디펜스 코드는 게임 개발자가 제공하는 특별한 교환 가능한 문자열입니다. 이러한 코드는 종종 이정표, 업데이트 또는 특별 이벤트 중에 출시되며, 가치 있는 인게임 보상을 제공합니다. 이러한 코드를 사용하여 플레이어는 자원, 부스트 및 독점 아이템에 접근할 수 있어 빠르게 진행하고 독특한 게임 요소를 즐길 수 있습니다.",
 		"activeCodes": {
-			"title": "스폰지밥 타워 디펜스 활성 코드",
-			"description": "다음은 현재 활성화된 스폰지밥 타워 디펜스 코드입니다. 만료될 수 있으니 가능한 한 빨리 사용하세요.",
+			"title": "활성 스폰지밥 타워 방어 코드",
+			"description": "아래는 현재 활성화된 스폰지밥 타워 방어 코드입니다. 가능한 한 빨리 교환해야 하며, 언제든지 만료될 수 있습니다.",
 			"list": [{
-				"code": "550KAllTheWay",
-				"reward": "1,000 보석, 5 매직 콘치"
+				"code": "NextStopOneMillion",
+				"reward": "10 에픽+ 보물 상자, 15 특성 재설정, 10 마법 조개, 3 금 특성 재설정"
 			}, {
-				"code": "ONTHATGRIND",
-				"reward": "1,500 보석, 1 x2 XP"
+				"code": "STARTERGENIUS",
+				"reward": "특성 재설정 및 마법 조개"
 			}, {
-				"code": "iWATCHEDTHEVIDEO",
-				"reward": "5 매직 콘치"
+				"code": "SundayFUNDay2",
+				"reward": "1 골든 특성 재설정, 15 특성 재설정, 2000 보석, 그리고 10 마법 조개"
 			}, {
-				"code": "MassiveUpdate4",
-				"reward": "2,000 보석, 3 매직 콘치, 2 x2 XP"
+				"code": "HEARTBOOSTER",
+				"reward": "무료 하트부스트"
 			}, {
-				"code": "KRABBYKREWYT",
-				"reward": "5 매직 콘치"
+				"code": "750KLikesThanks",
+				"reward": "10 특성 재설정, 5 마법 조개, 그리고 10 에픽 보물 상자"
+			}, {
+				"code": "LoyalKrabbyKrewSub",
+				"reward": "500 골든 주걱, 10 보물 상자"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1,000 보석, 5 특성 롤, 3 마법 조개, 5 보물 상자"
 			}, {
 				"code": "500KFeelingOkay",
-				"reward": "2,000 보석, 1 매직 콘치, 10 보물 상자"
+				"reward": "2,000 보석, 1 마법 조개, 10 보물 상자"
 			}, {
-				"code": "450KHipHipHooray",
-				"reward": "2,000 보석, 3 매직 콘치, 5 특성 리롤"
+				"code": "SATURDAYGRIND",
+				"reward": "4 더블 경험치 및 10 특성 재설정"
 			}, {
-				"code": "PiratesBooty",
+				"code": "VDayUpdate",
+				"reward": "4 더블 경험치, 5K 보석, 15 마법 조개, 그리고 5 골든 특성 재설정"
+			}, {
+				"code": "ytloyalist",
+				"reward": "무료 보상"
+			}, {
+				"code": "vdayreveal",
+				"reward": "무료 보상"
+			}, {
+				"code": "TradeChatYay",
+				"reward": "1 골든 특성 재설정 및 10 특성 재설정"
+			}, {
+				"code": "Spatula9000",
+				"reward": "무료 보상"
+			}, {
+				"code": "Goldeneye",
+				"reward": "무료 보상"
+			}, {
+				"code": "TraitsPls",
+				"reward": "무료 보상"
+			}, {
+				"code": "MidasTouch",
+				"reward": "1 골든 특성 재설정"
+			}, {
+				"code": "GoldenTraitRoll4U",
+				"reward": "1 골든 특성 재설정"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1.5k 보석 및 5 마법 조개"
+			}, {
+				"code": "DownTime",
 				"reward": "10 보물 상자"
 			}, {
-				"code": "VaultedYummies",
-				"reward": "5,000 코인, 1 x2 EXP, 1 x2 보석"
+				"code": "WhatATimeToBelive",
+				"reward": "무료 보상"
 			}, {
-				"code": "900GemsPLS",
-				"reward": "900 보석"
+				"code": "ThisIsWhatWeLive4",
+				"reward": "무료 보상"
+			}, {
+				"code": "LookAtAllThemFishies",
+				"reward": "무료 보상"
+			}, {
+				"code": "EXPKRABBYKREW",
+				"reward": "1k 보석 및 5 마법 조개"
+			}, {
+				"code": "Sorry4DaBugz",
+				"reward": "5 신화 보물 상자 및 5 마법 조개"
+			}, {
+				"code": "ObeyTheConch",
+				"reward": "5 보물 상자 및 10 마법 조개"
+			}, {
+				"code": "550KAllTheWay",
+				"reward": "1k 보석 및 5 마법 조개"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "무료 보상"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2,000 보석, 3 마법 조개, 및 5 특성 재설정"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5,000 코인, x2 경험치, x2 보석"
 			}, {
 				"code": "FUUUTURE",
-				"reward": "1,000 보석, 100 크래비 패티, 3 에픽 보물 상자"
+				"reward": "1k 보석, 100 크래비 패티, 및 3 에픽 보물 상자"
 			}, {
 				"code": "400KNoWay",
 				"reward": "25 보물 상자"
 			}, {
 				"code": "TrinketsAPlenty",
-				"reward": "1,000 보석, 10 보물 상자"
+				"reward": "1k 보석 및 10 보물 상자"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25k 코인 및 10 보물 상자"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5k 보석"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 특성 재설정 및 3 마법 조개"
+			}, {
+				"code": "SummonTime",
+				"reward": "1k 보석 및 1 마법 조개"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1.5 보석 및 2x 보석 부스트"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2k 보석, 5 마법 조개, 및 5 특성 재설정"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 노화된 패티, 2x 더블 경험치, 및 더블 보석"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "무료 보상"
+			}, {
+				"code": "OneUp",
+				"reward": "무료 보상"
+			}, {
+				"code": "25KHooray",
+				"reward": "무료 보상"
+			}, {
+				"code": "SandysDojo",
+				"reward": "무료 보상"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "2x 보석 부스트 (60분), 2x 경험치 부스트 (60분), 및 1 마법 조개"
+			}]
+		},
+		"expiredCodes": {
+			"title": "만료된 스폰지밥 타워 방어 코드",
+			"description": "이 코드는 더 이상 활성화되지 않았지만, 향후 코드에서 기대할 수 있는 보상 유형을 보여줍니다:",
+			"list": [{
+				"code": "SATURDAYGRIND",
+				"reward": "3x, 2x 경험치 (60분), 3x, 2x 보석 (60분), 3x, 2x 코인 (60분)"
+			}, {
+				"code": "VDAYREVEAL",
+				"reward": "1,000 보석, 3 마법 조개, 5 특성 재설정"
+			}, {
+				"code": "YTLOYALIST",
+				"reward": "10 희귀 보물 상자"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1,500 보석, 5 마법 조개"
+			}, {
+				"code": "ShowMeDaFormula",
+				"reward": "10 특성 재설정, 5 에픽 보물 상자"
 			}, {
 				"code": "ShowMeTheUpdate",
 				"reward": "25,000 코인, 10 보물 상자"
 			}, {
-				"code": "500KAnchovies",
-				"reward": "5,000 보석"
+				"code": "MassiveUpdate4",
+				"reward": "2,000 보석, (2) x2 경험치, (3) 마법 조개"
 			}, {
-				"code": "QuarterMillion",
-				"reward": "10,000 코인, 1,000 보석"
+				"code": "KRABBYKREWYT",
+				"reward": "5x 마법 조개"
 			}, {
-				"code": "ThatWasFast",
-				"reward": "10 특성 리롤, 3 매직 콘치"
+				"code": "PiratesBooty",
+				"reward": "10 보물 상자"
 			}, {
-				"code": "SummonTime",
-				"reward": "1,000 보석, 1 매직 콘치"
+				"code": "450KHipHipHooray",
+				"reward": "2,000 보석, 3 마법 조개, 5 특성 재설정"
 			}, {
-				"code": "SecretHunter",
-				"reward": "1,500 보석, 2 x2 보석"
+				"code": "VaultedYumies",
+				"reward": "5,000 코인, 1 x2 경험치, 1 x2 보석"
 			}, {
-				"code": "OPCodeForReal",
-				"reward": "2,000 보석, 5 매직 콘치, 5 특성 리롤"
+				"code": "900GemsPLS",
+				"reward": "900 보석"
 			}, {
-				"code": "BoostJuice",
-				"reward": "10 숙성된 패티, 2 x2 XP, 1 x2 보석"
+				"code": "4FUUUTUREy",
+				"reward": "1,000 보석, 100 크래비 패티, 3 에픽 보물 상자"
 			}, {
-				"code": "ImReadyImReady",
-				"reward": "1,000 보석, x2 보석 부스트 (1시간)"
-			}, {
-				"code": "600KMillionAnchovies",
-				"reward": "1,000 보석, 3 매직 콘치, 5 특성 리롤, 5 보물 상자"
-			}, {
-				"code": "LoyalKrabbyKrewSub",
-				"reward": "500 골드 스파출라, 10 보물 상자"
-			}]
-		},
-		"expiredCodes": {
-			"title": "스폰지밥 타워 디펜스 만료된 코드",
-			"description": "이 코드들은 더 이상 활성화되지 않았지만, 향후 코드에서 기대할 수 있는 보상 유형을 보여줍니다:",
-			"list": [{
-				"code": "100KGoofyGoobers",
-				"reward": "10 프리티 패티, 5 특성 리롤, 2 매직 콘치"
-			}, {
-				"code": "GemsOnGems",
-				"reward": "2,000 보석"
-			}, {
-				"code": "NowThisIsOP",
-				"reward": "5 특성 리롤, 2 매직 콘치"
-			}, {
-				"code": "OneUp",
-				"reward": "5 프리티 패티, 2 숙성된 패티, x2 EXP (60분)"
-			}, {
-				"code": "25KHooray",
-				"reward": "500 보석, 3 특성 리롤, 1 매직 콘치"
-			}, {
-				"code": "SandysDojo",
-				"reward": "2 특성 리롤"
-			}, {
-				"code": "XmasUnderDaSea",
-				"reward": "x2 보석 부스트 (60분), x2 EXP 부스트 (60분), 1 매직 콘치"
+				"code": "400KNoWay",
+				"reward": "25 보물 상자"
 			}, {
 				"code": "Sorry4Bugs",
 				"reward": "15 보물 상자"
+			}, {
+				"code": "500kanchovies",
+				"reward": "5000 보석"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10,000 코인, 1000 보석"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 특성 재설정, 3 마법 조개"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1500 보석, 2 x2 보석"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000 보석, 5 마법 조개, 5 특성 재설정"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 노화된 패티, 2 x2 경험치 (60분), 1 x2 보석 (60분)"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000 보석, 1 x2 보석"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000 보석"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5 특성 재설정, 2 마법 조개"
+			}, {
+				"code": "OneUp",
+				"reward": "5 예쁜 패티, 3 노화된 패티, x2 경험치"
+			}, {
+				"code": "25KHooray",
+				"reward": "500 보석, 3 특성 재설정, 1 마법 조개"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2 특성 재설정"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "x2 보석 부스트 (60분), x2 경험치 부스트 (60분), 1 마법 조개"
 			}]
 		},
 		"howToRedeem": {

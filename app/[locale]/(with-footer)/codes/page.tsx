@@ -46,6 +46,10 @@ export default async function CodesPage({ params: { locale } }: Props) {
     title: t('title'),
     subtitle: t('subtitle'),
     lastUpdate: t('lastUpdate'),
+    featuredGames: {
+      title: t('featuredGames.title'),
+      games: t.raw('featuredGames.games'),
+    },
     videoSection: {
       title: t('videoSection.title'),
       description: t('videoSection.description'),

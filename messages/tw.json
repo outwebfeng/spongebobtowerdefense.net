@@ -272,113 +272,245 @@
 	"Codes": {
 		"title": "海綿寶寶塔防代碼",
 		"subtitle": "歡迎來到海綿寶寶塔防代碼終極指南！如果你是這款精彩Roblox遊戲的粉絲，你來對地方了。在這裡，我們提供完整的有效和過期代碼列表，說明如何使用它們，並提供讓獎勵最大化的技巧。",
-		"lastUpdate": "最後更新時間：2025年2月1日",
+		"lastUpdate": "最後更新時間：2025年2月23日",
+		"featuredGames": {
+			"title": "精選遊戲",
+			"games": [
+				{
+					"name": "排球傳說",
+					"description": "終極6對6競技遊戲"
+				}
+			]
+		},
 		"whatAreCodesTitle": "什麼是海綿寶寶塔防代碼？",
 		"whatAreCodes": "海綿寶寶塔防代碼是由遊戲開發者提供的特殊可兌換字符串。這些代碼通常在里程碑、更新或特殊事件中發布，並提供有價值的遊戲內獎勵。通過兌換這些代碼，玩家可以獲得資源，如寶石、提升和專屬物品，幫助他們更快進展並享受獨特的遊戲元素。",
 		"activeCodes": {
-			"title": "海綿寶寶塔防有效代碼",
-			"description": "以下是目前海綿寶寶塔防的有效代碼。請盡快使用，因為這些代碼可能會過期。",
+			"title": "目前有效的海绵宝宝塔防代码",
+			"description": "以下是当前有效的海绵宝宝塔防代码。请确保尽快兑换，因为它们可能随时过期。",
 			"list": [{
-				"code": "550KAllTheWay",
-				"reward": "1,000 寶石、5 魔法海螺"
+				"code": "NextStopOneMillion",
+				"reward": "10个史诗+宝箱，15个特质重置，10个魔法海螺，3个金色特质重置"
 			}, {
-				"code": "ONTHATGRIND",
-				"reward": "1,500 寶石、1 x2 經驗值"
+				"code": "STARTERGENIUS",
+				"reward": "特质重置和魔法海螺"
 			}, {
-				"code": "iWATCHEDTHEVIDEO",
-				"reward": "5 魔法海螺"
+				"code": "SundayFUNDay2",
+				"reward": "1个黄金特质重置，15个特质重置，2000颗宝石和10个魔法海螺"
 			}, {
-				"code": "MassiveUpdate4",
-				"reward": "2,000 寶石、3 魔法海螺、2 x2 經驗值"
+				"code": "HEARTBOOSTER",
+				"reward": "免费心脏提升"
 			}, {
-				"code": "KRABBYKREWYT",
-				"reward": "5 魔法海螺"
-			}, {
-				"code": "500KFeelingOkay",
-				"reward": "2,000 寶石、1 魔法海螺、10 寶箱"
-			}, {
-				"code": "450KHipHipHooray",
-				"reward": "2,000 寶石、3 魔法海螺、5 特質重抽"
-			}, {
-				"code": "PiratesBooty",
-				"reward": "10 寶箱"
-			}, {
-				"code": "VaultedYummies",
-				"reward": "5,000 金幣、1 x2 經驗值、1 x2 寶石"
-			}, {
-				"code": "900GemsPLS",
-				"reward": "900 寶石"
-			}, {
-				"code": "FUUUTURE",
-				"reward": "1,000 寶石、100 蟹堡、3 史詩寶箱"
-			}, {
-				"code": "400KNoWay",
-				"reward": "25 寶箱"
-			}, {
-				"code": "TrinketsAPlenty",
-				"reward": "1,000 寶石、10 寶箱"
-			}, {
-				"code": "ShowMeTheUpdate",
-				"reward": "25,000 金幣、10 寶箱"
-			}, {
-				"code": "500KAnchovies",
-				"reward": "5,000 寶石"
-			}, {
-				"code": "QuarterMillion",
-				"reward": "10,000 金幣、1,000 寶石"
-			}, {
-				"code": "ThatWasFast",
-				"reward": "10 特質重抽、3 魔法海螺"
-			}, {
-				"code": "SummonTime",
-				"reward": "1,000 寶石、1 魔法海螺"
-			}, {
-				"code": "SecretHunter",
-				"reward": "1,500 寶石、2 x2 寶石"
-			}, {
-				"code": "OPCodeForReal",
-				"reward": "2,000 寶石、5 魔法海螺、5 特質重抽"
-			}, {
-				"code": "BoostJuice",
-				"reward": "10 陳年蟹堡、2 x2 經驗值、1 x2 寶石"
-			}, {
-				"code": "ImReadyImReady",
-				"reward": "1,000 寶石、x2 寶石加成（1小時）"
-			}, {
-				"code": "600KMillionAnchovies",
-				"reward": "1,000 寶石、3 魔法海螺、5 特質重抽、5 寶箱"
+				"code": "750KLikesThanks",
+				"reward": "10个特质重置，5个魔法海螺和10个史诗宝箱"
 			}, {
 				"code": "LoyalKrabbyKrewSub",
-				"reward": "500 金鏟子、10 寶箱"
+				"reward": "500个金色铲子，10个宝箱"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1000颗宝石，5个特质重置，3个魔法海螺，5个宝箱"
+			}, {
+				"code": "500KFeelingOkay",
+				"reward": "2000颗宝石，1个魔法海螺，10个宝箱"
+			}, {
+				"code": "SATURDAYGRIND",
+				"reward": "4个双倍经验和10个特质重置"
+			}, {
+				"code": "VDayUpdate",
+				"reward": "4个双倍经验，5000颗宝石，15个魔法海螺和5个黄金特质重置"
+			}, {
+				"code": "ytloyalist",
+				"reward": "免费奖励"
+			}, {
+				"code": "vdayreveal",
+				"reward": "免费奖励"
+			}, {
+				"code": "TradeChatYay",
+				"reward": "1个黄金特质重置和10个特质重置"
+			}, {
+				"code": "Spatula9000",
+				"reward": "免费奖励"
+			}, {
+				"code": "Goldeneye",
+				"reward": "免费奖励"
+			}, {
+				"code": "TraitsPls",
+				"reward": "免费奖励"
+			}, {
+				"code": "MidasTouch",
+				"reward": "1个黄金特质重置"
+			}, {
+				"code": "GoldenTraitRoll4U",
+				"reward": "1个黄金特质重置"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1500颗宝石和5个魔法海螺"
+			}, {
+				"code": "DownTime",
+				"reward": "10个宝箱"
+			}, {
+				"code": "WhatATimeToBelive",
+				"reward": "免费奖励"
+			}, {
+				"code": "ThisIsWhatWeLive4",
+				"reward": "免费奖励"
+			}, {
+				"code": "LookAtAllThemFishies",
+				"reward": "免费奖励"
+			}, {
+				"code": "EXPKRABBYKREW",
+				"reward": "1000颗宝石和5个魔法海螺"
+			}, {
+				"code": "Sorry4DaBugz",
+				"reward": "5个神话宝箱和5个魔法海螺"
+			}, {
+				"code": "ObeyTheConch",
+				"reward": "5个宝箱和10个魔法海螺"
+			}, {
+				"code": "550KAllTheWay",
+				"reward": "1000颗宝石和5个魔法海螺"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "免费奖励"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2000颗宝石，3个魔法海螺和5个特质重置"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5000个金币，双倍经验，双倍宝石"
+			}, {
+				"code": "FUUUTURE",
+				"reward": "1000颗宝石，100个螃蟹汉堡和3个史诗宝箱"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25个宝箱"
+			}, {
+				"code": "TrinketsAPlenty",
+				"reward": "1000颗宝石和10个宝箱"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25000个金币和10个宝箱"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5000颗宝石"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10个特质重置和3个魔法海螺"
+			}, {
+				"code": "SummonTime",
+				"reward": "1000颗宝石和1个魔法海螺"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1.5颗宝石和双倍宝石提升"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000颗宝石，5个魔法海螺和5个特质重置"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10个陈年汉堡，双倍经验和双倍宝石"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "免费奖励"
+			}, {
+				"code": "OneUp",
+				"reward": "免费奖励"
+			}, {
+				"code": "25KHooray",
+				"reward": "免费奖励"
+			}, {
+				"code": "SandysDojo",
+				"reward": "免费奖励"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "双倍宝石提升（60分钟），双倍经验提升（60分钟）和一个魔法海螺"
 			}]
 		},
 		"expiredCodes": {
-			"title": "海綿寶寶塔防過期代碼",
-			"description": "這些代碼已經失效，但它們顯示了未來代碼可能提供的獎勵類型：",
+			"title": "过期的海绵宝宝塔防代码",
+			"description": "这些代码不再有效，但它们显示了未来代码可能提供的奖励类型：",
 			"list": [{
-				"code": "100KGoofyGoobers",
-				"reward": "10 美味蟹堡、5 特質重抽、2 魔法海螺"
+				"code": "SATURDAYGRIND",
+				"reward": "3倍，2倍经验（60分钟），3倍，2倍宝石（60分钟），3倍，2倍金币（60分钟)"
 			}, {
-				"code": "GemsOnGems",
-				"reward": "2,000 寶石"
+				"code": "VDAYREVEAL",
+				"reward": "1000颗宝石，3个魔法海螺，5个特质重置"
 			}, {
-				"code": "NowThisIsOP",
-				"reward": "5 特質重抽、2 魔法海螺"
+				"code": "YTLOYALIST",
+				"reward": "10个稀有宝箱"
 			}, {
-				"code": "OneUp",
-				"reward": "5 美味蟹堡、2 陳年蟹堡、x2 經驗值（60分鐘）"
+				"code": "ImReadyImReady6",
+				"reward": "1500颗宝石，5个魔法海螺"
 			}, {
-				"code": "25KHooray",
-				"reward": "500 寶石、3 特質重抽、1 魔法海螺"
+				"code": "ShowMeDaFormula",
+				"reward": "10个特质重置，5个史诗宝箱"
 			}, {
-				"code": "SandysDojo",
-				"reward": "2 特質重抽"
+				"code": "ShowMeTheUpdate",
+				"reward": "25000个金币和10个宝箱"
 			}, {
-				"code": "XmasUnderDaSea",
-				"reward": "x2 寶石加成（60分鐘）、x2 經驗值加成（60分鐘）、1 魔法海螺"
+				"code": "MassiveUpdate4",
+				"reward": "2000颗宝石，2个双倍经验，3个魔法海螺"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "5个魔法海螺"
+			}, {
+				"code": "PiratesBooty",
+				"reward": "10个宝箱"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2000颗宝石，3个魔法海螺和5个特质重置"
+			}, {
+				"code": "VaultedYumies",
+				"reward": "5000个金币，1个双倍经验，1个双倍宝石"
+			}, {
+				"code": "900GemsPLS",
+				"reward": "900颗宝石"
+			}, {
+				"code": "4FUUUTUREy",
+				"reward": "1000颗宝石，100个螃蟹汉堡和3个史诗宝箱"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25个宝箱"
 			}, {
 				"code": "Sorry4Bugs",
-				"reward": "15 寶箱"
+				"reward": "15个宝箱"
+			}, {
+				"code": "500kanchovies",
+				"reward": "5000颗宝石"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10000个金币，1000颗宝石"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10个特质重置和3个魔法海螺"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1500颗宝石，2个双倍宝石"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000颗宝石，5个魔法海螺和5个特质重置"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10个陈年汉堡，2个双倍经验（60分钟），1个双倍宝石（60分钟）"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000颗宝石，1个双倍宝石"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000颗宝石"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5个特质重置，2个魔法海螺"
+			}, {
+				"code": "OneUp",
+				"reward": "5个漂亮汉堡，3个陈年汉堡，双倍经验"
+			}, {
+				"code": "25KHooray",
+				"reward": "500颗宝石，3个特质重置，1个魔法海螺"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2个特质重置"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "双倍宝石提升（60分钟），双倍经验提升（60分钟），1个魔法海螺"
 			}]
 		},
 		"howToRedeem": {

@@ -272,113 +272,245 @@
 	"Codes": {
 		"title": "スポンジボブタワーディフェンスのコード",
 		"subtitle": "スポンジボブタワーディフェンスのコードガイドへようこそ！このエキサイティングなRobloxゲームのファンなら、ここが正しい場所です。アクティブなコードと期限切れのコードの完全なリスト、使用方法の説明、報酬を最大限に活用するためのヒントを提供しています。",
-		"lastUpdate": "最終更新日：2025年2月1日",
+		"lastUpdate": "最終更新日：2025年2月23日",
+		"featuredGames": {
+			"title": "おすすめゲーム",
+			"games": [
+				{
+					"name": "バレーボールレジェンド",
+					"description": "究極の6対6競技ゲーム"
+				}
+			]
+		},
 		"whatAreCodesTitle": "スポンジボブタワーディフェンスのコードとは？",
 		"whatAreCodes": "スポンジボブタワーディフェンスコードは、ゲーム開発者によって提供される特別な引き換え可能な文字列です。これらのコードは、マイルストーン、更新、特別イベントの際にリリースされることが多く、貴重なゲーム内報酬を提供します。これらのコードを引き換えることで、プレイヤーは資源（ジェム、ブースト、独占的アイテムなど）にアクセスでき、より迅速な進行を助け、ユニークなゲームプレイ要素を楽しめます。",
 		"activeCodes": {
-			"title": "スポンジボブタワーディフェンスの有効なコード",
-			"description": "以下は現在有効なスポンジボブタワーディフェンスのコードです。期限切れになる可能性があるため、できるだけ早く使用してください。",
+			"title": "アクティブスポンジボブタワーディフェンスコード",
+			"description": "以下は現在アクティブなコードです。できるだけ早く引き換えてください。いつでも期限切れになる可能性があります。",
 			"list": [{
-				"code": "550KAllTheWay",
-				"reward": "1,000 ジェム、5 マジックコンク"
+				"code": "NextStopOneMillion",
+				"reward": "10個のエピック+宝箱、15個の特性再ロール、10個の魔法貝、3つのゴールド特性再ロール"
 			}, {
-				"code": "ONTHATGRIND",
-				"reward": "1,500 ジェム、1 x2 XP"
+				"code": "STARTERGENIUS",
+				"reward": "特性再ロールと魔法貝"
 			}, {
-				"code": "iWATCHEDTHEVIDEO",
-				"reward": "5 マジックコンク"
+				"code": "SundayFUNDay2",
+				"reward": "1つのゴールデン特性再ロール、15個の特性再ロール、2000個のジェム、10個の魔法貝"
 			}, {
-				"code": "MassiveUpdate4",
-				"reward": "2,000 ジェム、3 マジックコンク、2 x2 XP"
+				"code": "HEARTBOOSTER",
+				"reward": "無料のハートブースト"
 			}, {
-				"code": "KRABBYKREWYT",
-				"reward": "5 マジックコンク"
-			}, {
-				"code": "500KFeelingOkay",
-				"reward": "2,000 ジェム、1 マジックコンク、10 宝箱"
-			}, {
-				"code": "450KHipHipHooray",
-				"reward": "2,000 ジェム、3 マジックコンク、5 特性リロール"
-			}, {
-				"code": "PiratesBooty",
-				"reward": "10 宝箱"
-			}, {
-				"code": "VaultedYummies",
-				"reward": "5,000 コイン、1 x2 EXP、1 x2 ジェム"
-			}, {
-				"code": "900GemsPLS",
-				"reward": "900 ジェム"
-			}, {
-				"code": "FUUUTURE",
-				"reward": "1,000 ジェム、100 カニバーガー、3 エピック宝箱"
-			}, {
-				"code": "400KNoWay",
-				"reward": "25 宝箱"
-			}, {
-				"code": "TrinketsAPlenty",
-				"reward": "1,000 ジェム、10 宝箱"
-			}, {
-				"code": "ShowMeTheUpdate",
-				"reward": "25,000 コイン、10 宝箱"
-			}, {
-				"code": "500KAnchovies",
-				"reward": "5,000 ジェム"
-			}, {
-				"code": "QuarterMillion",
-				"reward": "10,000 コイン、1,000 ジェム"
-			}, {
-				"code": "ThatWasFast",
-				"reward": "10 特性リロール、3 マジックコンク"
-			}, {
-				"code": "SummonTime",
-				"reward": "1,000 ジェム、1 マジックコンク"
-			}, {
-				"code": "SecretHunter",
-				"reward": "1,500 ジェム、2 x2 ジェム"
-			}, {
-				"code": "OPCodeForReal",
-				"reward": "2,000 ジェム、5 マジックコンク、5 特性リロール"
-			}, {
-				"code": "BoostJuice",
-				"reward": "10 熟成カニバーガー、2 x2 XP、1 x2 ジェム"
-			}, {
-				"code": "ImReadyImReady",
-				"reward": "1,000 ジェム、x2 ジェムブースト（1時間）"
-			}, {
-				"code": "600KMillionAnchovies",
-				"reward": "1,000 ジェム、3 マジックコンク、5 特性リロール、5 宝箱"
+				"code": "750KLikesThanks",
+				"reward": "10個の特性再ロール、5個の魔法貝、10個のエピック宝箱"
 			}, {
 				"code": "LoyalKrabbyKrewSub",
-				"reward": "500 ゴールドスパチュラ、10 宝箱"
+				"reward": "500個のゴールデンスパチュラ、10個の宝箱"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1000個のジェム、5個の特性ロール、3つの魔法貝、5個の宝箱"
+			}, {
+				"code": "500KFeelingOkay",
+				"reward": "2000個のジェム、1つの魔法貝、10個の宝箱"
+			}, {
+				"code": "SATURDAYGRIND",
+				"reward": "4つのダブルEXPと10個の特性再ロール"
+			}, {
+				"code": "VDayUpdate",
+				"reward": "4つのダブルEXP、5000個のジェム、15個の魔法貝、5つのゴールデン特性再ロール"
+			}, {
+				"code": "ytloyalist",
+				"reward": "無料の報酬"
+			}, {
+				"code": "vdayreveal",
+				"reward": "無料の報酬"
+			}, {
+				"code": "TradeChatYay",
+				"reward": "1つのゴールデン特性再ロールと10個の特性再ロール"
+			}, {
+				"code": "Spatula9000",
+				"reward": "無料の報酬"
+			}, {
+				"code": "Goldeneye",
+				"reward": "無料の報酬"
+			}, {
+				"code": "TraitsPls",
+				"reward": "無料の報酬"
+			}, {
+				"code": "MidasTouch",
+				"reward": "1つのゴールデン特性再ロール"
+			}, {
+				"code": "GoldenTraitRoll4U",
+				"reward": "1つのゴールデン特性再ロール"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1500個のジェムと5つの魔法貝"
+			}, {
+				"code": "DownTime",
+				"reward": "10個の宝箱"
+			}, {
+				"code": "WhatATimeToBelive",
+				"reward": "無料の報酬"
+			}, {
+				"code": "ThisIsWhatWeLive4",
+				"reward": "無料の報酬"
+			}, {
+				"code": "LookAtAllThemFishies",
+				"reward": "無料の報酬"
+			}, {
+				"code": "EXPKRABBYKREW",
+				"reward": "1000個のジェムと5つの魔法貝"
+			}, {
+				"code": "Sorry4DaBugz",
+				"reward": "5つのミシック宝箱と5つの魔法貝"
+			}, {
+				"code": "ObeyTheConch",
+				"reward": "5つの宝箱と10個の魔法貝"
+			}, {
+				"code": "550KAllTheWay",
+				"reward": "1000個のジェムと5つの魔法貝"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "無料の報酬"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2000個のジェム、3つの魔法貝、5つの特性再ロール"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5000コイン、2倍EXP、2倍ジェム"
+			}, {
+				"code": "FUUUTURE",
+				"reward": "1000個のジェム、100個のクラビーパティ、3つのエピック宝箱"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25個の宝箱"
+			}, {
+				"code": "TrinketsAPlenty",
+				"reward": "1000個のジェムと10個の宝箱"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25000コインと10個の宝箱"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5000個のジェム"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10個の特性再ロールと3つの魔法貝"
+			}, {
+				"code": "SummonTime",
+				"reward": "1000個のジェムと1つの魔法貝"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1.5個のジェムと2倍ジェムブースト"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000個のジェム、5つの魔法貝、5つの特性再ロール"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10個の熟成パティ、2倍ダブルEXP、ダブルジェム"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "無料の報酬"
+			}, {
+				"code": "OneUp",
+				"reward": "無料の報酬"
+			}, {
+				"code": "25KHooray",
+				"reward": "無料の報酬"
+			}, {
+				"code": "SandysDojo",
+				"reward": "無料の報酬"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "2倍ジェムブースト（60分）、2倍XPブースト（60分）、1つの魔法貝"
 			}]
 		},
 		"expiredCodes": {
-			"title": "スポンジボブタワーディフェンスの期限切れコード",
-			"description": "これらのコードは既に無効ですが、今後のコードで期待できる報酬の種類を示しています：",
+			"title": "期限切れのスポンジボブタワーディフェンスコード",
+			"description": "これらのコードはもはやアクティブではありませんが、今後のコードから期待できる報酬の種類を示しています。",
 			"list": [{
-				"code": "100KGoofyGoobers",
-				"reward": "10 プリティパティ、5 特性リロール、2 マジックコンク"
+				"code": "SATURDAYGRIND",
+				"reward": "3倍、2倍EXP（60分）、3倍、2倍ジェム（60分）、3倍、2倍コイン（60分)"
 			}, {
-				"code": "GemsOnGems",
-				"reward": "2,000 ジェム"
+				"code": "VDAYREVEAL",
+				"reward": "1000個のジェム、3つの魔法貝、5つの特性再ロール"
 			}, {
-				"code": "NowThisIsOP",
-				"reward": "5 特性リロール、2 マジックコンク"
+				"code": "YTLOYALIST",
+				"reward": "10個のレア宝箱"
 			}, {
-				"code": "OneUp",
-				"reward": "5 プリティパティ、2 熟成カニバーガー、x2 EXP（60分）"
+				"code": "ImReadyImReady6",
+				"reward": "1500個のジェム、5つの魔法貝"
 			}, {
-				"code": "25KHooray",
-				"reward": "500 ジェム、3 特性リロール、1 マジックコンク"
+				"code": "ShowMeDaFormula",
+				"reward": "10個の特性再ロール、5つのエピック宝箱"
 			}, {
-				"code": "SandysDojo",
-				"reward": "2 特性リロール"
+				"code": "ShowMeTheUpdate",
+				"reward": "25000コイン、10個の宝箱"
 			}, {
-				"code": "XmasUnderDaSea",
-				"reward": "x2 ジェムブースト（60分）、x2 EXPブースト（60分）、1 マジックコンク"
+				"code": "MassiveUpdate4",
+				"reward": "2000個のジェム、（2）2倍EXP、（3）魔法貝"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "5つの魔法貝"
+			}, {
+				"code": "PiratesBooty",
+				"reward": "10個の宝箱"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2000個のジェム、3つの魔法貝、5つの特性再ロール"
+			}, {
+				"code": "VaultedYumies",
+				"reward": "5000コイン、1つの2倍EXP、1つの2倍ジェム"
+			}, {
+				"code": "900GemsPLS",
+				"reward": "900個のジェム"
+			}, {
+				"code": "4FUUUTUREy",
+				"reward": "1000個のジェム、100個のクラビーパティ、3つのエピック宝箱"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25個の宝箱"
 			}, {
 				"code": "Sorry4Bugs",
-				"reward": "15 宝箱"
+				"reward": "15個の宝箱"
+			}, {
+				"code": "500kanchovies",
+				"reward": "5000個のジェム"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10000コイン、1000個のジェム"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10個の特性再ロール、3つの魔法貝"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1500個のジェム、2つの2倍ジェム"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000個のジェム、5つの魔法貝、5つの特性再ロール"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10個の熟成パティ、2つの2倍EXP（60分）、1つの2倍ジェム（60分）"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000個のジェム、1つの2倍ジェム"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000個のジェム"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5つの特性再ロール、2つの魔法貝"
+			}, {
+				"code": "OneUp",
+				"reward": "5つのプリティパティ、3つの熟成パティ、2倍EXP"
+			}, {
+				"code": "25KHooray",
+				"reward": "500個のジェム、3つの特性再ロール、1つの魔法貝"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2つの特性再ロール"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "2倍ジェムブースト（60分）、2倍XPブースト（60分）、1つの魔法貝"
 			}]
 		},
 		"howToRedeem": {

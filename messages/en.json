@@ -1,501 +1,599 @@
 {
-  "Common": {
-    "loading": "loading..."
-  },
-  "Metadata": {
-    "home": {
-      "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
-      "description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
-      "keywords": ""
-    },
-    "about": {
-      "title": "About Spongebob Tower Defense - Character Analysis and Story Background",
-      "description": "Discover the story behind Spongebob Tower Defense, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
-      "keywords": ""
-    },
-    "codes": {
-      "title": "Spongebob Tower Defense Codes - Latest Working Codes and Rewards",
-      "description": "Find all the latest working codes for Spongebob Tower Defense! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
-      "keywords": ""
-    }
-  },
-  "Navigation": {
-    "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
-    "logoAlt": "Spongebob Tower Defense Logo",
-    "logoTitle": "Spongebob Tower Defense",
-    "playNow": "Home",
-    "toggleMenu": "Toggle Menu",
-    "about": "About",
-    "codes": "Codes"
-  },
-  "NotFound": {
-    "title": "404 Not Found",
-    "goHome": "go home"
-  },
-  "Home": {
-    "hero": {
-      "title": "Spongebob Tower Defense",
-      "description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
-      "playNow": "Play Now",
-      "robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
-    },
-    "videoSection": {
-      "title": "Related Videos"
-    },
-    "introduction": {
-      "title": "How to Play Spongebob Tower Defense",
-      "description": "Master the basics and become a pro!",
-      "steps": [{
-        "title": "Getting Started in Spongebob Tower Defense",
-        "description": "Learn how to start playing Spongebob Tower Defense! Build your team, defend Bikini Bottom, and explore strategies to outsmart waves of enemies in this Roblox adventure."
-      }, {
-        "title": "Mastering Spongebob Tower Defense Strategies",
-        "description": "Uncover pro tips for Spongebob Tower Defense! Choose the best characters, upgrade towers, and optimize placements to dominate waves and protect your base."
-      }, {
-        "title": "Unlock Codes and Power-ups in Spongebob Tower Defense",
-        "description": "Boost your gameplay in Spongebob Tower Defense! Learn how to redeem codes, unlock exclusive items, and enhance your tower defense experience effortlessly."
-      }]
-    },
-    "features": {
-      "title": "Game Features",
-      "description": "Discover what makes Spongebob Tower Defense special",
-      "list": [{
-        "title": "Iconic Spongebob Characters",
-        "description": "Play with Spongebob, Patrick, Squidward, and more! Each character brings unique skills and abilities to defend Bikini Bottom in exciting tower defense battles."
-      }, {
-        "title": "Thrilling Tower Defense Gameplay",
-        "description": "Dive into fast-paced tower defense fun! Strategically place towers, defeat waves of enemies, and save Bikini Bottom in this action-packed Roblox game."
-      }, {
-        "title": "Explore Bikini Bottom and Beyond",
-        "description": "Adventure through iconic Spongebob locations! From the Krusty Krab to Jellyfish Fields, defend each area from invading foes in immersive environments."
-      }, {
-        "title": "Code Redeeming System for Rewards",
-        "description": "Redeem exclusive codes to unlock powerful items and characters! Stay ahead with free updates and bonuses to enhance your Spongebob Tower Defense journey."
-      }, {
-        "title": "Customizable Towers and Upgrades",
-        "description": "Enhance your defenses with upgradeable towers! Unlock new features, strengthen characters, and create a perfect strategy to tackle tougher challenges."
-      }, {
-        "title": "Regular Updates and Events",
-        "description": "Enjoy fresh content with regular updates and events! New levels, characters, and challenges ensure that the fun in Spongebob Tower Defense never stops."
-      }]
-    },
-    "testimonials": {
-      "title": "Player Reviews",
-      "description": "See what fans are saying about Spongebob Tower Defense",
-      "list": [{
-        "content": "Spongebob Tower Defense perfectly blends nostalgia and strategy. The iconic characters and vibrant Bikini Bottom make every level a joy to play!",
-        "author": "Emma R.",
-        "title": "Spongebob Fanatic"
-      }, {
-        "content": "I love the challenge this game offers! The upgrades and codes keep it fresh, and the events make me come back for more. Highly recommend it!",
-        "author": "Jake T.",
-        "title": "Roblox Enthusiast"
-      }, {
-        "content": "As a parent, I appreciate how fun and engaging this game is for my kids. They adore Spongebob, and the game helps them develop problem-solving skills.",
-        "author": "Sarah L.",
-        "title": "Parent and Gamer"
-      }, {
-        "content": "The mix of strategic gameplay and familiar Spongebob settings is genius. It's the perfect balance of challenge and fun for players of all ages!",
-        "author": "Mike W.",
-        "title": "Casual Gamer"
-      }, {
-        "content": "Redeeming codes to unlock characters and boosts is so satisfying! The developers clearly put a lot of thought into making the game enjoyable.",
-        "author": "Rachel H.",
-        "title": "Game Reviewer"
-      }, {
-        "content": "Hands down one of the best Roblox games out there. Regular updates and creative level designs make Spongebob Tower Defense a standout experience.",
-        "author": "Alex P.",
-        "title": "Tower Defense Expert"
-      }]
-    },
-    "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Got questions? We've got answers!",
-      "list": [{
-          "question": "What is Spongebob Tower Defense?",
-        "answer": "Spongebob Tower Defense is a Roblox game where players use characters and towers to defend Bikini Bottom against waves of enemies in strategic tower defense gameplay."
-      }, {
-        "question": "How do I start playing Spongebob Tower Defense?",
-        "answer": "To start, visit the game page on Roblox, click \"Play,\" and follow the in-game tutorial to learn how to place towers and defend against enemies."
-      }, {
-        "question": "How can I redeem codes in Spongebob Tower Defense?",
-        "answer": "Open the game, click the \"Codes\" button on the main menu, enter an active code, and press \"Redeem\" to claim your rewards."
-      }, {
-        "question": "Where can I find active Spongebob Tower Defense codes?",
-        "answer": "You can find active codes on the game's official page, social media platforms, and websites like Sportskeeda, Eurogamer, and Fandom."
-      }, {
-        "question": "What rewards do codes provide in the game?",
-        "answer": "Codes typically provide rewards such as in-game currency, exclusive items, character unlocks, and boosts to help in gameplay."
-      }, {
-          "question": "Can I play Spongebob Tower Defense with friends?",
-        "answer": "Yes, Spongebob Tower Defense supports multiplayer mode, allowing you to team up with friends and tackle challenges together."
-      }, {
-        "question": "How do I unlock new characters and towers?",
-        "answer": "You can unlock new characters and towers by earning in-game currency, redeeming codes, or completing specific challenges and missions."
-      }, {
-        "question": "Are there updates and new content in Spongebob Tower Defense?",
-        "answer": "Yes, the developers frequently release updates that include new levels, characters, challenges, and special events to keep the game engaging."
-      }, {
-        "question": "What strategies are best for winning in Spongebob Tower Defense?",
-        "answer": "Focus on upgrading towers, placing characters strategically, and balancing offense and defense to handle waves of enemies effectively."
-      }, {
-        "question": "Is Spongebob Tower Defense free to play?",
-        "answer": "Yes, the game is free to play on Roblox. However, optional in-game purchases are available to enhance your gaming experience."
-      }]
-    }
-  },
-  "Footer": {
-    "title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
-    "subTitle": "Explore the ultimate guide to Spongebob Tower Defense on Roblox!",
-    "support": "Support",
-    "privacy": "Privacy Policy",
-    "termsConditions": "Terms & Conditions"
-  },
-  "FooterNavigation": {
-    "privacyPolicy": {
-      "1-h1": "Privacy Policy for Spongebob Tower Defense",
-      "1-p": "Spongebob Tower Defense operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
-      "2-h2": "Information Collection",
-      "2-h3-1": "Personal Data",
-      "2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
-      "2-h3-2": "Non-Personal Data",
-      "2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
-      "3-h2": "Data Usage",
-      "3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
-      "4-h2": "Updates to This Privacy Policy",
-      "6-h2": "Contact Us",
-      "6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
-    },
-    "termsConditions": {
-      "1-h1": "Terms of Service for Spongebob Tower Defense",
-      "1-p": "Welcome to Spongebob Tower Defense. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Spongebob Tower Defense Roblox game.",
-      "2-h2": "1. Ownership",
-      "2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Spongebob Tower Defense unless otherwise stated. The text content created by users remains their property.",
-      "3-h2": "2. Usage Guidelines",
-      "3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
-      "4-h2": "3. Governing Law",
-      "4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
-      "5-h2": "4. Changes to Terms",
-      "5-p": "Spongebob Tower Defense reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
-      "6-h2": "5. Contact Information",
-      "6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
-      "last-p": "By using Spongebob Tower Defense, you acknowledge that you have read and agree to these Terms of Service."
-    }
-  },
-  "About": {
-    "title": "About Spongebob Tower Defense",
-    "subtitle": "Welcome to Spongebob Tower Defense, the ultimate gaming experience for fans of Spongebob Squarepants and tower defense enthusiasts alike! Dive into the vibrant underwater world of Bikini Bottom, where strategy meets action-packed gameplay in this engaging Roblox adventure. Whether you're a seasoned gamer or new to tower defense games, Spongebob Tower Defense promises hours of fun, challenging levels, and beloved characters.",
-    "content": {
-      "whatIsTitle": "What is Spongebob Tower Defense?",
-      "whatIs": "Spongebob Tower Defense is a Roblox-based game that combines the excitement of tower defense mechanics with the humor and charm of the Spongebob universe. Players must strategically place towers and use iconic characters like Spongebob, Patrick, and Squidward to defend Bikini Bottom from relentless waves of enemies. Each character comes with unique abilities, adding depth and variety to the gameplay.",
-      "whatIsExtra": "This game isn't just about winning battles—it's about immersing yourself in the familiar settings of Bikini Bottom, from the Krusty Krab to Jellyfish Fields. With regular updates, special events, and a growing community, Spongebob Tower Defense continues to evolve, making it a must-play for Roblox fans.",
-      "featuresTitle": "Key Features of Spongebob Tower Defense",
-      "features": {
-        "characters": {
-          "title": "Iconic Characters",
-          "description": "Play as your favorite characters, including Spongebob, Patrick, and more. Each character brings unique abilities to enhance your defense strategies."
-        },
-        "gameplay": {
-          "title": "Dynamic Tower Defense Gameplay",
-          "description": "Strategically place and upgrade towers to fend off waves of enemies and protect Bikini Bottom."
-        },
-        "codes": {
-          "title": "Redeemable Codes for Rewards",
-          "description": "Stay ahead in the game by redeeming codes to unlock exclusive rewards like characters, items, and boosts."
-        },
-        "locations": {
-          "title": "Bikini Bottom Locations",
-          "description": "Explore iconic locations from the Spongebob series, including the Krusty Krab, Goo Lagoon, and more."
-        },
-        "strategies": {
-          "title": "Customizable Strategies",
-          "description": "Experiment with tower placements, character combinations, and upgrades to create your winning strategy."
-        },
-        "updates": {
-          "title": "Regular Updates",
-          "description": "Enjoy new levels, characters, and challenges with regular updates that keep the gameplay fresh and exciting."
-        }
-      },
-      "howToPlayTitle": "How to Play Spongebob Tower Defense",
-      "howToPlay": [{
-        "title": "Join the Game",
-        "description": "Visit the Roblox platform, search for \"Spongebob Tower Defense,\" and click \"Play.\""
-      }, {
-        "title": "Learn the Basics",
-        "description": "Follow the in-game tutorial to understand tower placements, enemy waves, and upgrades."
-      }, {
-        "title": "Use Codes for Rewards",
-        "description": "Redeem codes to unlock valuable in-game resources. Codes can be found on official platforms, gaming websites, or fan communities."
-      }, {
-        "title": "Defend Bikini Bottom",
-        "description": "Strategically place towers and characters to defend against increasingly difficult waves of enemies."
-      }],
-      "popularityTitle": "Why is Spongebob Tower Defense So Popular?",
-      "popularity": [{
-        "title": "Nostalgia",
-        "description": "Fans of the Spongebob series love seeing their favorite characters and locations come to life in an interactive format."
-      }, {
-        "title": "Strategic Gameplay",
-        "description": "The game combines fun with brainpower, requiring players to think critically about tower placements and upgrades."
-      }, {
-        "title": "Community Engagement",
-        "description": "With a strong fan base and regular updates, the game fosters a sense of community and excitement."
-      }, {
-        "title": "Free-to-Play Access",
-        "description": "Being free on Roblox makes it accessible to a wide audience, while optional in-game purchases provide additional content for those who want more."
-      }],
-      "codesTitle": "Redeeming Codes in Spongebob Tower Defense",
-      "codes": "One of the most exciting features of Spongebob Tower Defense is the ability to redeem codes for in-game rewards. Codes can provide in-game currency to buy upgrades, exclusive characters or items, and boosts to help you tackle challenging levels. To redeem a code, simply click on the \"Codes\" button in the game menu, enter the code, and enjoy your rewards. Be sure to check official sources and community platforms regularly for the latest codes!",
-      "tipsTitle": "Tips and Strategies for Spongebob Tower Defense",
-      "tips": [{
-        "title": "Upgrade Towers Wisely",
-        "description": "Focus on upgrading towers that align with your strategy, whether it's offensive or defensive."
-      }, {
-        "title": "Place Characters Strategically",
-        "description": "Position your characters where they can maximize their abilities."
-      }, {
-        "title": "Keep an Eye on Updates",
-        "description": "New content often includes stronger characters and better rewards."
-      }, {
-        "title": "Work with Friends",
-        "description": "Multiplayer mode allows you to team up with friends for more challenging battles."
-      }, {
-        "title": "Experiment",
-        "description": "Try different combinations of towers and characters to discover new winning strategies."
-      }],
-      "communityTitle": "Community and Updates",
-      "community": "The Spongebob Tower Defense community is vibrant and ever-growing. Join fan forums, participate in discussions, and share your strategies with fellow players. The developers are committed to keeping the game exciting, with regular updates that introduce new characters, levels, and special events.",
-      "conclusionTitle": "Join the Fun in Spongebob Tower Defense",
-      "conclusion": "Whether you're a casual player or a competitive gamer, Spongebob Tower Defense offers an experience like no other. Dive into the underwater world of Bikini Bottom, defend it from enemies, and relive your favorite Spongebob moments in this immersive Roblox game. Start playing today and become a hero in Bikini Bottom!"
-    }
-  },
-  "Codes": {
-    "title": "Spongebob Tower Defense Codes",
-    "subtitle": "Welcome to the ultimate guide for Spongebob Tower Defense Codes! If you're a fan of this exciting Roblox game, you're in the right place. Here, we provide a complete list of active and expired codes, explain how to use them, and offer tips for making the most of your rewards. Whether you're a new player or a seasoned strategist, these codes can give you an edge in defending Bikini Bottom.",
-    "lastUpdate": "Last Updated: February 1, 2025",
-    "whatAreCodesTitle": "What Are Spongebob Tower Defense Codes?",
-    "whatAreCodes": "Spongebob Tower Defense Codes are special redeemable strings provided by the game developers. These codes are often released during milestones, updates, or special events and offer valuable in-game rewards. By redeeming these codes, players can gain access to resources like Gems, boosts, and exclusive items, helping them progress faster and enjoy unique gameplay elements.",
-    "activeCodes": {
-      "title": "Active Spongebob Tower Defense Codes",
-      "description": "Below are the currently active codes for Spongebob Tower Defense. Make sure to redeem them as soon as possible, as they may expire at any time.",
-      "list": [
-        {
-          "code": "550KAllTheWay",
-          "reward": "1,000 Gems, 5 Magic Conches"
-        },
-        {
-          "code": "ONTHATGRIND",
-          "reward": "1,500 Gems, 1 x2 XP"
-        },
-        {
-          "code": "iWATCHEDTHEVIDEO",
-          "reward": "5 Magic Conches"
-        },
-        {
-          "code": "MassiveUpdate4",
-          "reward": "2,000 Gems, 3 Magic Conches, 2 x2 XP"
-        },
-        {
-          "code": "KRABBYKREWYT",
-          "reward": "5 Magic Conches"
-        },
-        {
-          "code": "500KFeelingOkay",
-          "reward": "2,000 Gems, 1 Magic Conch, 10 Treasure Chests"
-        },
-        {
-          "code": "450KHipHipHooray",
-          "reward": "2,000 Gems, 3 Magic Conches, 5 Trait Rerolls"
-        },
-        {
-          "code": "PiratesBooty",
-          "reward": "10 Treasure Chests"
-        },
-        {
-          "code": "VaultedYummies",
-          "reward": "5,000 Coins, 1 x2 EXP, 1 x2 Gems"
-        },
-        {
-          "code": "900GemsPLS",
-          "reward": "900 Gems"
-        },
-        {
-          "code": "FUUUTURE",
-          "reward": "1,000 Gems, 100 Krabby Patties, 3 Epic Treasure Chests"
-        },
-        {
-          "code": "400KNoWay",
-          "reward": "25 Treasure Chests"
-        },
-        {
-          "code": "TrinketsAPlenty",
-          "reward": "1,000 Gems, 10 Treasure Chests"
-        },
-        {
-          "code": "ShowMeTheUpdate",
-          "reward": "25,000 Coins, 10 Treasure Chests"
-        },
-        {
-          "code": "500KAnchovies",
-          "reward": "5,000 Gems"
-        },
-        {
-          "code": "QuarterMillion",
-          "reward": "10,000 Coins, 1,000 Gems"
-        },
-        {
-          "code": "ThatWasFast",
-          "reward": "10 Trait Rerolls, 3 Magic Conches"
-        },
-        {
-          "code": "SummonTime",
-          "reward": "1,000 Gems, 1 Magic Conch"
-        },
-        {
-          "code": "SecretHunter",
-          "reward": "1,500 Gems, 2 x2 Gems"
-        },
-        {
-          "code": "OPCodeForReal",
-          "reward": "2,000 Gems, 5 Magic Conches, 5 Trait Rerolls"
-        },
-        {
-          "code": "BoostJuice",
-          "reward": "10 Aged Patties, 2 x2 XP, 1 x2 Gems"
-        },
-        {
-          "code": "ImReadyImReady",
-          "reward": "1,000 Gems, x2 Gems Boost (1 hour)"
-        },
-        {
-          "code": "600KMillionAnchovies",
-          "reward": "1,000 Gems, 3 Magic Conches, 5 Trait Rerolls, 5 Treasure Chests"
-        },
-        {
-          "code": "LoyalKrabbyKrewSub",
-          "reward": "500 Gold Spatulas, 10 Treasure Chests"
-        }
-      ]
-    },
-    "expiredCodes": {
-      "title": "Expired Spongebob Tower Defense Codes",
-      "description": "These codes are no longer active, but they show what kind of rewards you can expect from future codes:",
-      "list": [
-        {
-          "code": "100KGoofyGoobers",
-          "reward": "10 Pretty Patties, 5 Trait Rerolls, 2 Magic Conches"
-        },
-        {
-          "code": "GemsOnGems",
-          "reward": "2,000 Gems"
-        },
-        {
-          "code": "NowThisIsOP",
-          "reward": "5 Trait Rerolls, 2 Magic Conches"
-        },
-        {
-          "code": "OneUp",
-          "reward": "5 Pretty Patties, 2 Aged Patties, x2 EXP (60 minutes)"
-        },
-        {
-          "code": "25KHooray",
-          "reward": "500 Gems, 3 Trait Rerolls, 1 Magic Conch"
-        },
-        {
-          "code": "SandysDojo",
-          "reward": "2 Trait Rerolls"
-        },
-        {
-          "code": "XmasUnderDaSea",
-          "reward": "x2 Gems Boost (60 minutes), x2 EXP Boost (60 minutes), 1 Magic Conch"
-        },
-        {
-          "code": "Sorry4Bugs",
-          "reward": "15 Treasure Chests"
-        }
-      ]
-    },
-    "howToRedeem": {
-      "title": "How to Redeem Spongebob Tower Defense Codes",
-      "description": "Redeeming codes in Spongebob Tower Defense is quick and easy. Follow these steps to claim your rewards:",
-      "steps": [{
-        "title": "Launch the Game",
-        "description": "Open Spongebob Tower Defense in Roblox."
-      }, {
-        "title": "Find the Codes Button",
-        "description": "On the main menu, look for the \"Codes\" button, usually located on the left side of the screen."
-      }, {
-        "title": "Enter the Code",
-        "description": "Click on the \"Codes\" button, type in the code exactly as shown (codes are case-sensitive), and hit \"Redeem.\""
-      }, {
-        "title": "Claim Your Reward",
-        "description": "Once redeemed, your rewards will be added to your account instantly."
-      }]
-    },
-    "tips": {
-      "title": "Tips for Redeeming Codes",
-      "list": [{
-        "title": "Act Quickly",
-        "description": "Codes have a limited lifespan, so use them as soon as you find them."
-      }, {
-        "title": "Check for Typos",
-        "description": "Codes are case-sensitive. Make sure to enter them exactly as provided."
-      }, {
-        "title": "Stay Updated",
-        "description": "Follow official game channels and fan communities to catch new codes as they are released."
-      }, {
-        "title": "Bookmark Trusted Sources",
-        "description": "Websites and forums often post the latest codes, ensuring you don't miss out."
-      }]
-    },
-    "rewards": {
-      "title": "What Rewards Can You Get?",
-      "description": "The rewards from Spongebob Tower Defense Codes vary, but they are all designed to enhance your gaming experience. Here's what you can expect:",
-      "list": [{
-        "title": "Gems",
-        "description": "Use these to unlock characters, purchase upgrades, and enhance your gameplay."
-      }, {
-        "title": "Trait Rerolls",
-        "description": "Improve your characters' abilities by rerolling traits for better stats or effects."
-      }, {
-        "title": "Boosts",
-        "description": "Temporary multipliers for XP, Gems, or other resources that help you progress faster."
-      }, {
-        "title": "Exclusive Items",
-        "description": "Limited-edition skins, special weapons, or unique towers not available through normal gameplay."
-      }, {
-        "title": "Magic Conches",
-        "description": "A rare resource for unlocking premium content or enhancing your strategies."
-      }]
-    },
-    "findingCodes": {
-      "title": "How to Find New Spongebob Tower Defense Codes",
-      "description": "Keeping up with new codes is essential for staying ahead in the game. Here are some tips for finding them:",
-      "list": ["Follow Official Channels: The developers often post new codes on the game's Roblox page, Twitter, or Discord server.", "Join Fan Communities: Many fan forums and social media groups share codes and tips.", "Check Updates Regularly: Codes are frequently released during game updates or events.", "Monitor Milestones: When the game reaches milestones like player counts or anniversaries, developers often reward the community with codes."]
-    },
-    "faq": {
-      "title": "Frequently Asked Questions",
-      "list": [{
-        "question": "How often are new codes released?",
-        "answer": "Codes are typically released during updates, events, or when the game reaches a milestone, such as a specific number of players or followers."
-      }, {
-        "question": "Why isn't my code working?",
-        "answer": "Double-check for typos and ensure the code hasn't expired. Some codes are case-sensitive, so accuracy is crucial."
-      }, {
-        "question": "Can I redeem a code more than once?",
-        "answer": "No, each code can only be redeemed once per account."
-      }, {
-        "question": "Do I need to pay to use codes?",
-        "answer": "No, codes are free and available to all players. They are a way for developers to reward the community."
-      }]
-    },
-    "conclusion": {
-      "title": "Why Use Spongebob Tower Defense Codes?",
-      "description": "Codes are an excellent way to boost your gameplay experience in Spongebob Tower Defense. They provide free resources, unlockables, and enhancements, allowing players to progress faster and enjoy unique content. By redeeming codes regularly, you can stay competitive and explore the full potential of the game."
-    },
-    "videoSection": {
-      "title": "How to Redeem Codes",
-      "description": "Watch our quick guide on how to redeem codes in Spongebob Tower Defense"
-    }
-  }
+	"Common": {
+		"loading": "loading..."
+	},
+	"Metadata": {
+		"home": {
+			"title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+			"description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
+			"keywords": ""
+		},
+		"about": {
+			"title": "About Spongebob Tower Defense - Character Analysis and Story Background",
+			"description": "Discover the story behind Spongebob Tower Defense, portrayed by T.O.P (Choi Seung-hyun). Learn about this unique character's role, impact, and the fusion of dystopian drama with Marvel's influence.",
+			"keywords": ""
+		},
+		"codes": {
+			"title": "Spongebob Tower Defense Codes - Latest Working Codes and Rewards",
+			"description": "Find all the latest working codes for Spongebob Tower Defense! Redeem these codes for free rewards, boosts, and in-game items. Updated regularly with new codes!",
+			"keywords": ""
+		}
+	},
+	"Navigation": {
+		"title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+		"logoAlt": "Spongebob Tower Defense Logo",
+		"logoTitle": "Spongebob Tower Defense",
+		"playNow": "Home",
+		"toggleMenu": "Toggle Menu",
+		"about": "About",
+		"codes": "Codes"
+	},
+	"NotFound": {
+		"title": "404 Not Found",
+		"goHome": "go home"
+	},
+	"Home": {
+		"hero": {
+			"title": "Spongebob Tower Defense",
+			"description": "Discover Spongebob Tower Defense! Play via our embedded game, explore game codes, tips, updates, and guides. Your ultimate resource for this exciting Roblox adventure!",
+			"playNow": "Play Now",
+			"robloxUrl": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense-Update-1"
+		},
+		"videoSection": {
+			"title": "Related Videos"
+		},
+		"introduction": {
+			"title": "How to Play Spongebob Tower Defense",
+			"description": "Master the basics and become a pro!",
+			"steps": [{
+				"title": "Getting Started in Spongebob Tower Defense",
+				"description": "Learn how to start playing Spongebob Tower Defense! Build your team, defend Bikini Bottom, and explore strategies to outsmart waves of enemies in this Roblox adventure."
+			}, {
+				"title": "Mastering Spongebob Tower Defense Strategies",
+				"description": "Uncover pro tips for Spongebob Tower Defense! Choose the best characters, upgrade towers, and optimize placements to dominate waves and protect your base."
+			}, {
+				"title": "Unlock Codes and Power-ups in Spongebob Tower Defense",
+				"description": "Boost your gameplay in Spongebob Tower Defense! Learn how to redeem codes, unlock exclusive items, and enhance your tower defense experience effortlessly."
+			}]
+		},
+		"features": {
+			"title": "Game Features",
+			"description": "Discover what makes Spongebob Tower Defense special",
+			"list": [{
+				"title": "Iconic Spongebob Characters",
+				"description": "Play with Spongebob, Patrick, Squidward, and more! Each character brings unique skills and abilities to defend Bikini Bottom in exciting tower defense battles."
+			}, {
+				"title": "Thrilling Tower Defense Gameplay",
+				"description": "Dive into fast-paced tower defense fun! Strategically place towers, defeat waves of enemies, and save Bikini Bottom in this action-packed Roblox game."
+			}, {
+				"title": "Explore Bikini Bottom and Beyond",
+				"description": "Adventure through iconic Spongebob locations! From the Krusty Krab to Jellyfish Fields, defend each area from invading foes in immersive environments."
+			}, {
+				"title": "Code Redeeming System for Rewards",
+				"description": "Redeem exclusive codes to unlock powerful items and characters! Stay ahead with free updates and bonuses to enhance your Spongebob Tower Defense journey."
+			}, {
+				"title": "Customizable Towers and Upgrades",
+				"description": "Enhance your defenses with upgradeable towers! Unlock new features, strengthen characters, and create a perfect strategy to tackle tougher challenges."
+			}, {
+				"title": "Regular Updates and Events",
+				"description": "Enjoy fresh content with regular updates and events! New levels, characters, and challenges ensure that the fun in Spongebob Tower Defense never stops."
+			}]
+		},
+		"testimonials": {
+			"title": "Player Reviews",
+			"description": "See what fans are saying about Spongebob Tower Defense",
+			"list": [{
+				"content": "Spongebob Tower Defense perfectly blends nostalgia and strategy. The iconic characters and vibrant Bikini Bottom make every level a joy to play!",
+				"author": "Emma R.",
+				"title": "Spongebob Fanatic"
+			}, {
+				"content": "I love the challenge this game offers! The upgrades and codes keep it fresh, and the events make me come back for more. Highly recommend it!",
+				"author": "Jake T.",
+				"title": "Roblox Enthusiast"
+			}, {
+				"content": "As a parent, I appreciate how fun and engaging this game is for my kids. They adore Spongebob, and the game helps them develop problem-solving skills.",
+				"author": "Sarah L.",
+				"title": "Parent and Gamer"
+			}, {
+				"content": "The mix of strategic gameplay and familiar Spongebob settings is genius. It's the perfect balance of challenge and fun for players of all ages!",
+				"author": "Mike W.",
+				"title": "Casual Gamer"
+			}, {
+				"content": "Redeeming codes to unlock characters and boosts is so satisfying! The developers clearly put a lot of thought into making the game enjoyable.",
+				"author": "Rachel H.",
+				"title": "Game Reviewer"
+			}, {
+				"content": "Hands down one of the best Roblox games out there. Regular updates and creative level designs make Spongebob Tower Defense a standout experience.",
+				"author": "Alex P.",
+				"title": "Tower Defense Expert"
+			}]
+		},
+		"faq": {
+			"title": "Frequently Asked Questions",
+			"description": "Got questions? We've got answers!",
+			"list": [{
+				"question": "What is Spongebob Tower Defense?",
+				"answer": "Spongebob Tower Defense is a Roblox game where players use characters and towers to defend Bikini Bottom against waves of enemies in strategic tower defense gameplay."
+			}, {
+				"question": "How do I start playing Spongebob Tower Defense?",
+				"answer": "To start, visit the game page on Roblox, click \"Play,\" and follow the in-game tutorial to learn how to place towers and defend against enemies."
+			}, {
+				"question": "How can I redeem codes in Spongebob Tower Defense?",
+				"answer": "Open the game, click the \"Codes\" button on the main menu, enter an active code, and press \"Redeem\" to claim your rewards."
+			}, {
+				"question": "Where can I find active Spongebob Tower Defense codes?",
+				"answer": "You can find active codes on the game's official page, social media platforms, and websites like Sportskeeda, Eurogamer, and Fandom."
+			}, {
+				"question": "What rewards do codes provide in the game?",
+				"answer": "Codes typically provide rewards such as in-game currency, exclusive items, character unlocks, and boosts to help in gameplay."
+			}, {
+				"question": "Can I play Spongebob Tower Defense with friends?",
+				"answer": "Yes, Spongebob Tower Defense supports multiplayer mode, allowing you to team up with friends and tackle challenges together."
+			}, {
+				"question": "How do I unlock new characters and towers?",
+				"answer": "You can unlock new characters and towers by earning in-game currency, redeeming codes, or completing specific challenges and missions."
+			}, {
+				"question": "Are there updates and new content in Spongebob Tower Defense?",
+				"answer": "Yes, the developers frequently release updates that include new levels, characters, challenges, and special events to keep the game engaging."
+			}, {
+				"question": "What strategies are best for winning in Spongebob Tower Defense?",
+				"answer": "Focus on upgrading towers, placing characters strategically, and balancing offense and defense to handle waves of enemies effectively."
+			}, {
+				"question": "Is Spongebob Tower Defense free to play?",
+				"answer": "Yes, the game is free to play on Roblox. However, optional in-game purchases are available to enhance your gaming experience."
+			}]
+		}
+	},
+	"Footer": {
+		"title": "Spongebob Tower Defense - Play & Explore Codes, Tips, and More",
+		"subTitle": "Explore the ultimate guide to Spongebob Tower Defense on Roblox!",
+		"support": "Support",
+		"privacy": "Privacy Policy",
+		"termsConditions": "Terms & Conditions"
+	},
+	"FooterNavigation": {
+		"privacyPolicy": {
+			"1-h1": "Privacy Policy for Spongebob Tower Defense",
+			"1-p": "Spongebob Tower Defense operates the website https://spongebobtowerdefense.net and is committed to protecting your privacy. This privacy policy outlines how we handle information when you use our online game guide.",
+			"2-h2": "Information Collection",
+			"2-h3-1": "Personal Data",
+			"2-p-1": "We do not collect any personal identification information from users. Our service is designed to be used without requiring personal data.",
+			"2-h3-2": "Non-Personal Data",
+			"2-p-3": "We collect non-personal data through web cookies, including usage statistics and preferences, to improve our service and user experience. This may include your display settings and customization preferences.",
+			"3-h2": "Data Usage",
+			"3-p": "Any collected non-personal data is used solely to enhance the functionality of our website and improve user experience. We do not share any data with third parties.",
+			"4-h2": "Updates to This Privacy Policy",
+			"6-h2": "Contact Us",
+			"6-p": "If you have any questions about this Privacy Policy, please contact us at support@spongebobtowerdefense.net."
+		},
+		"termsConditions": {
+			"1-h1": "Terms of Service for Spongebob Tower Defense",
+			"1-p": "Welcome to Spongebob Tower Defense. By accessing our website (https://spongebobtowerdefense.net), you agree to these Terms of Service. Our service provides a comprehensive guide for the Spongebob Tower Defense Roblox game.",
+			"2-h2": "1. Ownership",
+			"2-p": "All content on the Website, including guides, tips, codes, design elements, and related materials, is the intellectual property of Spongebob Tower Defense unless otherwise stated. The text content created by users remains their property.",
+			"3-h2": "2. Usage Guidelines",
+			"3-p": "Our service is provided for informational and educational purposes. Users are responsible for their conduct and should not use the service for any illegal or harmful purposes.",
+			"4-h2": "3. Governing Law",
+			"4-p": "These Terms shall be governed by applicable laws, without regard to conflicts of law principles.",
+			"5-h2": "4. Changes to Terms",
+			"5-p": "Spongebob Tower Defense reserves the right to modify these Terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service constitutes acceptance of any changes.",
+			"6-h2": "5. Contact Information",
+			"6-p": "If you have any questions about these Terms, please contact us at support@spongebobtowerdefense.net.",
+			"last-p": "By using Spongebob Tower Defense, you acknowledge that you have read and agree to these Terms of Service."
+		}
+	},
+	"About": {
+		"title": "About Spongebob Tower Defense",
+		"subtitle": "Welcome to Spongebob Tower Defense, the ultimate gaming experience for fans of Spongebob Squarepants and tower defense enthusiasts alike! Dive into the vibrant underwater world of Bikini Bottom, where strategy meets action-packed gameplay in this engaging Roblox adventure. Whether you're a seasoned gamer or new to tower defense games, Spongebob Tower Defense promises hours of fun, challenging levels, and beloved characters.",
+		"content": {
+			"whatIsTitle": "What is Spongebob Tower Defense?",
+			"whatIs": "Spongebob Tower Defense is a Roblox-based game that combines the excitement of tower defense mechanics with the humor and charm of the Spongebob universe. Players must strategically place towers and use iconic characters like Spongebob, Patrick, and Squidward to defend Bikini Bottom from relentless waves of enemies. Each character comes with unique abilities, adding depth and variety to the gameplay.",
+			"whatIsExtra": "This game isn't just about winning battles—it's about immersing yourself in the familiar settings of Bikini Bottom, from the Krusty Krab to Jellyfish Fields. With regular updates, special events, and a growing community, Spongebob Tower Defense continues to evolve, making it a must-play for Roblox fans.",
+			"featuresTitle": "Key Features of Spongebob Tower Defense",
+			"features": {
+				"characters": {
+					"title": "Iconic Characters",
+					"description": "Play as your favorite characters, including Spongebob, Patrick, and more. Each character brings unique abilities to enhance your defense strategies."
+				},
+				"gameplay": {
+					"title": "Dynamic Tower Defense Gameplay",
+					"description": "Strategically place and upgrade towers to fend off waves of enemies and protect Bikini Bottom."
+				},
+				"codes": {
+					"title": "Redeemable Codes for Rewards",
+					"description": "Stay ahead in the game by redeeming codes to unlock exclusive rewards like characters, items, and boosts."
+				},
+				"locations": {
+					"title": "Bikini Bottom Locations",
+					"description": "Explore iconic locations from the Spongebob series, including the Krusty Krab, Goo Lagoon, and more."
+				},
+				"strategies": {
+					"title": "Customizable Strategies",
+					"description": "Experiment with tower placements, character combinations, and upgrades to create your winning strategy."
+				},
+				"updates": {
+					"title": "Regular Updates",
+					"description": "Enjoy new levels, characters, and challenges with regular updates that keep the gameplay fresh and exciting."
+				}
+			},
+			"howToPlayTitle": "How to Play Spongebob Tower Defense",
+			"howToPlay": [{
+				"title": "Join the Game",
+				"description": "Visit the Roblox platform, search for \"Spongebob Tower Defense,\" and click \"Play.\""
+			}, {
+				"title": "Learn the Basics",
+				"description": "Follow the in-game tutorial to understand tower placements, enemy waves, and upgrades."
+			}, {
+				"title": "Use Codes for Rewards",
+				"description": "Redeem codes to unlock valuable in-game resources. Codes can be found on official platforms, gaming websites, or fan communities."
+			}, {
+				"title": "Defend Bikini Bottom",
+				"description": "Strategically place towers and characters to defend against increasingly difficult waves of enemies."
+			}],
+			"popularityTitle": "Why is Spongebob Tower Defense So Popular?",
+			"popularity": [{
+				"title": "Nostalgia",
+				"description": "Fans of the Spongebob series love seeing their favorite characters and locations come to life in an interactive format."
+			}, {
+				"title": "Strategic Gameplay",
+				"description": "The game combines fun with brainpower, requiring players to think critically about tower placements and upgrades."
+			}, {
+				"title": "Community Engagement",
+				"description": "With a strong fan base and regular updates, the game fosters a sense of community and excitement."
+			}, {
+				"title": "Free-to-Play Access",
+				"description": "Being free on Roblox makes it accessible to a wide audience, while optional in-game purchases provide additional content for those who want more."
+			}],
+			"codesTitle": "Redeeming Codes in Spongebob Tower Defense",
+			"codes": "One of the most exciting features of Spongebob Tower Defense is the ability to redeem codes for in-game rewards. Codes can provide in-game currency to buy upgrades, exclusive characters or items, and boosts to help you tackle challenging levels. To redeem a code, simply click on the \"Codes\" button in the game menu, enter the code, and enjoy your rewards. Be sure to check official sources and community platforms regularly for the latest codes!",
+			"tipsTitle": "Tips and Strategies for Spongebob Tower Defense",
+			"tips": [{
+				"title": "Upgrade Towers Wisely",
+				"description": "Focus on upgrading towers that align with your strategy, whether it's offensive or defensive."
+			}, {
+				"title": "Place Characters Strategically",
+				"description": "Position your characters where they can maximize their abilities."
+			}, {
+				"title": "Keep an Eye on Updates",
+				"description": "New content often includes stronger characters and better rewards."
+			}, {
+				"title": "Work with Friends",
+				"description": "Multiplayer mode allows you to team up with friends for more challenging battles."
+			}, {
+				"title": "Experiment",
+				"description": "Try different combinations of towers and characters to discover new winning strategies."
+			}],
+			"communityTitle": "Community and Updates",
+			"community": "The Spongebob Tower Defense community is vibrant and ever-growing. Join fan forums, participate in discussions, and share your strategies with fellow players. The developers are committed to keeping the game exciting, with regular updates that introduce new characters, levels, and special events.",
+			"conclusionTitle": "Join the Fun in Spongebob Tower Defense",
+			"conclusion": "Whether you're a casual player or a competitive gamer, Spongebob Tower Defense offers an experience like no other. Dive into the underwater world of Bikini Bottom, defend it from enemies, and relive your favorite Spongebob moments in this immersive Roblox game. Start playing today and become a hero in Bikini Bottom!"
+		}
+	},
+	"Codes": {
+		"title": "Spongebob Tower Defense Codes",
+		"subtitle": "Welcome to the ultimate guide for Spongebob Tower Defense Codes! If you're a fan of this exciting Roblox game, you're in the right place. Here, we provide a complete list of active and expired codes, explain how to use them, and offer tips for making the most of your rewards. Whether you're a new player or a seasoned strategist, these codes can give you an edge in defending Bikini Bottom.",
+		"lastUpdate": "Last Updated: February 23, 2025",
+		"featuredGames": {
+			"title": "Featured Games",
+			"games": [
+				{
+					"name": "Volleyball Legends",
+					"description": "Ultimate 6v6 Competitive Game"
+				}
+			]
+		},
+		"whatAreCodesTitle": "What Are Spongebob Tower Defense Codes?",
+		"whatAreCodes": "Spongebob Tower Defense Codes are special redeemable strings provided by the game developers. These codes are often released during milestones, updates, or special events and offer valuable in-game rewards. By redeeming these codes, players can gain access to resources like Gems, boosts, and exclusive items, helping them progress faster and enjoy unique gameplay elements.",
+		"activeCodes": {
+			"title": "Active Spongebob Tower Defense Codes",
+			"description": "Below are the currently active codes for Spongebob Tower Defense. Make sure to redeem them as soon as possible, as they may expire at any time.",
+			"list": [{
+				"code": "NextStopOneMillion",
+				"reward": "10 Epic+ Treasure Chests, 15 Trait Rerolls, 10 Magic Conches, 3 Gold Trait Rerolls"
+			}, {
+				"code": "STARTERGENIUS",
+				"reward": "Trait Reroll, and Magic Conches"
+			}, {
+				"code": "SundayFUNDay2",
+				"reward": "1 Golden Trait Reroll, 15 Trait Rerolls, 2000 Gems, and 10 Magic Conches"
+			}, {
+				"code": "HEARTBOOSTER",
+				"reward": "Free Heartboost"
+			}, {
+				"code": "750KLikesThanks",
+				"reward": "10 Trait Rerolls, 5 Magic Conches, and 10 Epic Treasure Chests"
+			}, {
+				"code": "LoyalKrabbyKrewSub",
+				"reward": "500 Golden Spatulas, 10 Treasure Chests"
+			}, {
+				"code": "600KMillionAnchovies",
+				"reward": "1,000 Gems, 5 Trait Rolls, 3 Magic Conches, 5 Treasure Chests"
+			}, {
+				"code": "500KFeelingOkay",
+				"reward": "2,000 Gems, 1 Magic Conch, 10 Treasure Chests"
+			}, {
+				"code": "SATURDAYGRIND",
+				"reward": "4 Double EXP and 10 Trait Rerolls"
+			}, {
+				"code": "VDayUpdate",
+				"reward": "4 Double EXP, 5K Gems, 15 Magic Conches, and 5 Golden Trait Rerolls"
+			}, {
+				"code": "ytloyalist",
+				"reward": "Free rewards"
+			}, {
+				"code": "vdayreveal",
+				"reward": "Free rewards"
+			}, {
+				"code": "TradeChatYay",
+				"reward": "a Golden Trait Reroll and 10 Trait Rerolls"
+			}, {
+				"code": "Spatula9000",
+				"reward": "Free rewards"
+			}, {
+				"code": "Goldeneye",
+				"reward": "Free rewards"
+			}, {
+				"code": "TraitsPls",
+				"reward": "Free rewards"
+			}, {
+				"code": "MidasTouch",
+				"reward": "a Golden Trait Reroll"
+			}, {
+				"code": "GoldenTraitRoll4U",
+				"reward": "a Golden Trait Reroll"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1.5k Gems and 5 Magic Conches"
+			}, {
+				"code": "DownTime",
+				"reward": "10 Treasure Chests"
+			}, {
+				"code": "WhatATimeToBelive",
+				"reward": "Free rewards"
+			}, {
+				"code": "ThisIsWhatWeLive4",
+				"reward": "Free rewards"
+			}, {
+				"code": "LookAtAllThemFishies",
+				"reward": "Free rewards"
+			}, {
+				"code": "EXPKRABBYKREW",
+				"reward": "1k Gems and 5 Magic Conches"
+			}, {
+				"code": "Sorry4DaBugz",
+				"reward": "5 Mythic Treasure Chests and 5 Magic Conches"
+			}, {
+				"code": "ObeyTheConch",
+				"reward": "5 Treasure Chests and 10 Magic Conches"
+			}, {
+				"code": "550KAllTheWay",
+				"reward": "1k Gems and 5 Magic Conches"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "Free rewards"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2,000 Gems, 3 Magic Conches, and 5 Trait Rerolls"
+			}, {
+				"code": "VaultedYummies",
+				"reward": "5,000 Coins, x2 EXP, x2 Gems"
+			}, {
+				"code": "FUUUTURE",
+				"reward": "1k Gems, 100 Krabby Patties, and 3 Epic Treasure Chests"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25 Treasure Chests"
+			}, {
+				"code": "TrinketsAPlenty",
+				"reward": "1k Gems and 10 Treasure Chests"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25k Coins and 10 Treasure Chests"
+			}, {
+				"code": "500KAnchovies",
+				"reward": "5k Gems"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 Trait Rerolls and 3 Magic Conches"
+			}, {
+				"code": "SummonTime",
+				"reward": "1k Gems and 1 Magic Conch"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1.5 Gems and 2x Gems Boost"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2k Gems, 5 Magic Conches, and 5 Trait Rerolls"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 Aged Patties, 2x Double EXP, and Double Gems"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "Free rewards"
+			}, {
+				"code": "OneUp",
+				"reward": "Free rewards"
+			}, {
+				"code": "25KHooray",
+				"reward": "Free rewards"
+			}, {
+				"code": "SandysDojo",
+				"reward": "Free rewards"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "2x Gems Boost (60 minutes), 2x XP Boost (60 minutes), and a MagicConch"
+			}]
+		},
+		"expiredCodes": {
+			"title": "Expired Spongebob Tower Defense Codes",
+			"description": "These codes are no longer active, but they show you what types of rewards to expect from future codes:",
+			"list": [{
+				"code": "SATURDAYGRIND",
+				"reward": "3x, 2x exp (60 min), 3x, 2x gems (60 min), 3x, 2x coins (60 min)"
+			}, {
+				"code": "VDAYREVEAL",
+				"reward": "1,000 Gems, 3 Magic Conches, 5 Trait Rerolls"
+			}, {
+				"code": "YTLOYALIST",
+				"reward": "10 Rare Treasure Chests"
+			}, {
+				"code": "ImReadyImReady6",
+				"reward": "1,500 Gems, 5 Magic Conches"
+			}, {
+				"code": "ShowMeDaFormula",
+				"reward": "10 Trait Rerolls, 5 Epic Treasure Chests"
+			}, {
+				"code": "ShowMeTheUpdate",
+				"reward": "25,000 Coins, 10 Treasure Chests"
+			}, {
+				"code": "MassiveUpdate4",
+				"reward": "2,000 Gems, (2) x2 XP, (3) Magic Conch"
+			}, {
+				"code": "KRABBYKREWYT",
+				"reward": "5x Magic Conch"
+			}, {
+				"code": "PiratesBooty",
+				"reward": "10 Treasure Chests"
+			}, {
+				"code": "450KHipHipHooray",
+				"reward": "2,000 Gems, 3 Magic Conches, 5 Trait Rerolls"
+			}, {
+				"code": "VaultedYumies",
+				"reward": "5,000 Coins, 1 x2 EXP, 1 x2 Gems"
+			}, {
+				"code": "900GemsPLS",
+				"reward": "900 Gems"
+			}, {
+				"code": "4FUUUTUREy",
+				"reward": "1,000 Gems, 100 Krabby Patties, 3 Epic Treasure Chests"
+			}, {
+				"code": "400KNoWay",
+				"reward": "25 Treasure Chests"
+			}, {
+				"code": "Sorry4Bugs",
+				"reward": "15 Treasure Chests"
+			}, {
+				"code": "500kanchovies",
+				"reward": "5000 Gems"
+			}, {
+				"code": "QuarterMillion",
+				"reward": "10,000 Coins, 1000 Gems"
+			}, {
+				"code": "ThatWasFast",
+				"reward": "10 Trait Rerolls, 3 Magic Conch"
+			}, {
+				"code": "SecretHunter",
+				"reward": "1500 Gems, 2 x2 Gems"
+			}, {
+				"code": "OPCodeForReal",
+				"reward": "2000 Gems, 5 Magic Conches, 5 Trait Rerolls"
+			}, {
+				"code": "BoostJuice",
+				"reward": "10 Aged Patties, 2 x2 EXP (60 minutes), 1 x2 Gems (60 minutes)"
+			}, {
+				"code": "ImReadyImReady",
+				"reward": "1000 Gems, 1 x2 Gems"
+			}, {
+				"code": "GemsOnGems",
+				"reward": "2000 Gems"
+			}, {
+				"code": "NowThisIsOP",
+				"reward": "5 Trait Rerolls, 2 Magic Conch"
+			}, {
+				"code": "OneUp",
+				"reward": "5 Pretty Patties, 3 Aged Patties, x2 EXP"
+			}, {
+				"code": "25KHooray",
+				"reward": "500 Gems, 3 Trait Rerolls, 1 Magic Conch"
+			}, {
+				"code": "SandysDojo",
+				"reward": "2 Trait Rerolls"
+			}, {
+				"code": "XmasUnderDaSea",
+				"reward": "x2 Gems Boost (60 minutes), x2 XP Boost (60 minutes), 1 MagicConch"
+			}]
+		},
+		"howToRedeem": {
+			"title": "How to Redeem Spongebob Tower Defense Codes",
+			"description": "Redeeming codes in Spongebob Tower Defense is quick and easy. Follow these steps to claim your rewards:",
+			"steps": [{
+				"title": "Launch the Game",
+				"description": "Open Spongebob Tower Defense in Roblox."
+			}, {
+				"title": "Find the Codes Button",
+				"description": "On the main menu, look for the \"Codes\" button, usually located on the left side of the screen."
+			}, {
+				"title": "Enter the Code",
+				"description": "Click on the \"Codes\" button, type in the code exactly as shown (codes are case-sensitive), and hit \"Redeem.\""
+			}, {
+				"title": "Claim Your Reward",
+				"description": "Once redeemed, your rewards will be added to your account instantly."
+			}]
+		},
+		"tips": {
+			"title": "Tips for Redeeming Codes",
+			"list": [{
+				"title": "Act Quickly",
+				"description": "Codes have a limited lifespan, so use them as soon as you find them."
+			}, {
+				"title": "Check for Typos",
+				"description": "Codes are case-sensitive. Make sure to enter them exactly as provided."
+			}, {
+				"title": "Stay Updated",
+				"description": "Follow official game channels and fan communities to catch new codes as they are released."
+			}, {
+				"title": "Bookmark Trusted Sources",
+				"description": "Websites and forums often post the latest codes, ensuring you don't miss out."
+			}]
+		},
+		"rewards": {
+			"title": "What Rewards Can You Get?",
+			"description": "The rewards from Spongebob Tower Defense Codes vary, but they are all designed to enhance your gaming experience. Here's what you can expect:",
+			"list": [{
+				"title": "Gems",
+				"description": "Use these to unlock characters, purchase upgrades, and enhance your gameplay."
+			}, {
+				"title": "Trait Rerolls",
+				"description": "Improve your characters' abilities by rerolling traits for better stats or effects."
+			}, {
+				"title": "Boosts",
+				"description": "Temporary multipliers for XP, Gems, or other resources that help you progress faster."
+			}, {
+				"title": "Exclusive Items",
+				"description": "Limited-edition skins, special weapons, or unique towers not available through normal gameplay."
+			}, {
+				"title": "Magic Conches",
+				"description": "A rare resource for unlocking premium content or enhancing your strategies."
+			}]
+		},
+		"findingCodes": {
+			"title": "How to Find New Spongebob Tower Defense Codes",
+			"description": "Keeping up with new codes is essential for staying ahead in the game. Here are some tips for finding them:",
+			"list": ["Follow Official Channels: The developers often post new codes on the game's Roblox page, Twitter, or Discord server.", "Join Fan Communities: Many fan forums and social media groups share codes and tips.", "Check Updates Regularly: Codes are frequently released during game updates or events.", "Monitor Milestones: When the game reaches milestones like player counts or anniversaries, developers often reward the community with codes."]
+		},
+		"faq": {
+			"title": "Frequently Asked Questions",
+			"list": [{
+				"question": "How often are new codes released?",
+				"answer": "Codes are typically released during updates, events, or when the game reaches a milestone, such as a specific number of players or followers."
+			}, {
+				"question": "Why isn't my code working?",
+				"answer": "Double-check for typos and ensure the code hasn't expired. Some codes are case-sensitive, so accuracy is crucial."
+			}, {
+				"question": "Can I redeem a code more than once?",
+				"answer": "No, each code can only be redeemed once per account."
+			}, {
+				"question": "Do I need to pay to use codes?",
+				"answer": "No, codes are free and available to all players. They are a way for developers to reward the community."
+			}]
+		},
+		"conclusion": {
+			"title": "Why Use Spongebob Tower Defense Codes?",
+			"description": "Codes are an excellent way to boost your gameplay experience in Spongebob Tower Defense. They provide free resources, unlockables, and enhancements, allowing players to progress faster and enjoy unique content. By redeeming codes regularly, you can stay competitive and explore the full potential of the game."
+		},
+		"videoSection": {
+			"title": "How to Redeem Codes",
+			"description": "Watch our quick guide on how to redeem codes in Spongebob Tower Defense"
+		}
+	}
 }

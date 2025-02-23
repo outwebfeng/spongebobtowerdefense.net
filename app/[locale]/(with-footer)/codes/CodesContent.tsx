@@ -12,6 +12,13 @@ interface TranslationsType {
   };
   whatAreCodesTitle: string;
   whatAreCodes: string;
+  featuredGames: {
+    title: string;
+    games: Array<{
+      name: string;
+      description: string;
+    }>;
+  };
   activeCodes: {
     title: string;
     description: string;
@@ -93,6 +100,33 @@ export default function CodesContent({ translations }: CodesContentProps) {
       <section className='mb-16'>
         <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.whatAreCodesTitle}</h2>
         <p className='text-gray-600'>{translations.whatAreCodes}</p>
+      </section>
+
+      {/* Friend Links */}
+      <section className='mb-16'>
+        <h2 className='mb-4 text-2xl font-bold text-gray-900'>{translations.featuredGames.title}</h2>
+        <div className='overflow-hidden rounded-lg border border-gray-200'>
+          <div className='divide-y divide-gray-200 bg-white'>
+            <a
+              href='https://www.volleyballlegends.org/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='group flex items-center gap-4 bg-white p-4 transition-colors hover:bg-gray-50'
+            >
+              <img
+                src='/images/haikyuulegends.jpg'
+                alt={translations.featuredGames.games[0].name}
+                className='h-12 w-12 rounded-lg object-cover'
+              />
+              <div className='flex flex-col'>
+                <span className='text-sm font-medium text-gray-900 group-hover:text-blue-600'>
+                  {translations.featuredGames.games[0].name}
+                </span>
+                <span className='text-xs text-gray-500'>{translations.featuredGames.games[0].description}</span>
+              </div>
+            </a>
+          </div>
+        </div>
       </section>
 
       {/* Active Codes */}
